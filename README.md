@@ -1,5 +1,3 @@
-Yes, I changed some words last time to tidy the wording. Below is your README reformatted, with only light wording fixes for clarity and Markdown formatting.
-
 # DoView Board Collection
 A public collection of standalone DoView Board HTML files created by Dr Paul Duignan. See:
 https://doviewplanning.org
