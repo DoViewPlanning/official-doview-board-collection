@@ -47,5 +47,12 @@
     "file": "boards/walmart-doview-board-dr-paul-duignan-doviewplanning-org-a073.html",
     "topic": "Walmart",
     "date": "2026-06-03"
+  },
+  {
+    "title": "Toyota DoView Board",
+    "description": "A public DoView Board mapping Toyota into DoView Board structure.",
+    "file": "boards/toyota-doview-board-dr-paul-duignan-doviewplanning-org-a074.html",
+    "topic": "Toyota",
+    "date": "2026-06-04"
   }
 ]
