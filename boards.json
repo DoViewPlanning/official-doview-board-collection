@@ -33,5 +33,19 @@
     "file": "boards/space-based-infrastructure-research-domain-doview-board-dr-paul-duignan-doviewplanning-org-a030.html",
     "topic": "Space-based infrastructure research",
     "date": "2026-06-02"
+  },
+  {
+    "title": "Anthropic DoView Board",
+    "description": "A public DoView Board mapping Anthropic into DoView Board structure.",
+    "file": "boards/anthropic-doview-board-dr-paul-duignan-doviewplanning-org-a034.html",
+    "topic": "Anthropic",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Walmart DoView Board",
+    "description": "A public DoView Board mapping Walmart into DoView Board structure.",
+    "file": "boards/walmart-doview-board-dr-paul-duignan-doviewplanning-org-a073.html",
+    "topic": "Walmart",
+    "date": "2026-06-03"
   }
 ]
