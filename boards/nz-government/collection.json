@@ -1,0 +1,129 @@
+{
+  "featured": {
+    "title": "NZ Government Targets",
+    "file": "nz-government-targets-doview-board-dr-paul-duignan-doviewplanning-org-a013.html",
+    "ref": "a013"
+  },
+  "boards": [
+    {
+      "title": "Accident Compensation Corporation",
+      "acronym": "ACC",
+      "file": "nz-accident-compensation-corporation-doview-board-dr-paul-duignan-doviewplanning-org-a083.html",
+      "ref": "a083"
+    },
+    {
+      "title": "Crown Law Office",
+      "acronym": "CLO",
+      "file": "nz-crown-law-office-doview-board-dr-paul-duignan-doviewplanning-org-a002.html",
+      "ref": "a002"
+    },
+    {
+      "title": "Department of Conservation",
+      "acronym": "DOC",
+      "file": "nz-department-of-conservation-doview-board-dr-paul-duignan-doviewplanning-org-a005.html",
+      "ref": "a005"
+    },
+    {
+      "title": "Department of Corrections",
+      "acronym": "Ara Poutama",
+      "file": "nz-department-of-corrections-doview-board-dr-paul-duignan-doviewplanning-org-a006.html",
+      "ref": "a006"
+    },
+    {
+      "title": "Department of Internal Affairs",
+      "acronym": "DIA",
+      "file": "nz-department-of-internal-affairs-doview-board-dr-paul-duignan-doviewplanning-org-a007.html",
+      "ref": "a007"
+    },
+    {
+      "title": "Department of the Prime Minister & Cabinet",
+      "acronym": "DPMC",
+      "file": "nz-department-of-prime-minister-and-cabinet-doview-board-dr-paul-duignan-doviewplanning-org-a023.html",
+      "ref": "a023"
+    },
+    {
+      "title": "Inland Revenue Department",
+      "acronym": "IRD",
+      "file": "nz-inland-revenue-department-doview-board-dr-paul-duignan-doviewplanning-org-a018.html",
+      "ref": "a018"
+    },
+    {
+      "title": "Kāinga Ora — Homes and Communities",
+      "acronym": "Kāinga Ora",
+      "file": "nz-kainga-ora-homes-and-communities-doview-board-dr-paul-duignan-doviewplanning-org-a015.html",
+      "ref": "a015"
+    },
+    {
+      "title": "Ministry for Culture & Heritage",
+      "acronym": "MCH",
+      "file": "nz-ministry-for-culture-and-heritage-doview-board-dr-paul-duignan-doviewplanning-org-a009.html",
+      "ref": "a009"
+    },
+    {
+      "title": "Ministry for Primary Industries",
+      "acronym": "MPI",
+      "file": "nz-ministry-for-primary-industries-doview-board-dr-paul-duignan-doviewplanning-org-a014.html",
+      "ref": "a014"
+    },
+    {
+      "title": "Ministry for the Environment",
+      "acronym": "MfE",
+      "file": "nz-ministry-for-the-environment-doview-board-dr-paul-duignan-doviewplanning-org-a016.html",
+      "ref": "a016"
+    },
+    {
+      "title": "Ministry of Education",
+      "acronym": "MoE",
+      "file": "nz-ministry-of-education-doview-board-dr-paul-duignan-doviewplanning-org-a010.html",
+      "ref": "a010"
+    },
+    {
+      "title": "Ministry of Social Development",
+      "acronym": "MSD",
+      "file": "nz-ministry-of-social-development-doview-board-dr-paul-duignan-doviewplanning-org-a021.html",
+      "ref": "a021"
+    },
+    {
+      "title": "National Emergency Management Agency",
+      "acronym": "NEMA",
+      "file": "nz-national-emergency-management-agency-doview-board-dr-paul-duignan-doviewplanning-org-a008.html",
+      "ref": "a008"
+    },
+    {
+      "title": "New Zealand Customs Service",
+      "acronym": "Customs",
+      "file": "nz-customs-service-doview-board-dr-paul-duignan-doviewplanning-org-a003.html",
+      "ref": "a003"
+    },
+    {
+      "title": "New Zealand Defence Force",
+      "acronym": "NZDF",
+      "file": "nz-defence-force-doview-board-dr-paul-duignan-doviewplanning-org-a004.html",
+      "ref": "a004"
+    },
+    {
+      "title": "New Zealand Police",
+      "acronym": "Police",
+      "file": "nz-police-doview-board-dr-paul-duignan-doviewplanning-org-a024.html",
+      "ref": "a024"
+    },
+    {
+      "title": "Office of the Auditor-General",
+      "acronym": "OAG",
+      "file": "nz-office-of-the-auditor-general-doview-board-dr-paul-duignan-doviewplanning-org-a001.html",
+      "ref": "a001"
+    },
+    {
+      "title": "Public Service Commission",
+      "acronym": "PSC",
+      "file": "nz-public-service-commission-doview-board-dr-paul-duignan-doviewplanning-org-a022.html",
+      "ref": "a022"
+    },
+    {
+      "title": "The Treasury",
+      "acronym": "Te Tai Ōhanga",
+      "file": "nz-treasury-doview-board-dr-paul-duignan-doviewplanning-org-a019.html",
+      "ref": "a019"
+    }
+  ]
+}

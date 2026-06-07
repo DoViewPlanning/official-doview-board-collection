@@ -101,8 +101,8 @@
   <header class="hdr">
     <div class="hdr-top">
       <div>
-        <div class="hdr-title" id="collectionTitle">NZ Whole of Government DoView Board</div>
-        <div class="hdr-subtitle" id="collectionSubtitle">A DoView Collection — illustrative agency boards under one whole-of-government model</div>
+        <div class="hdr-title">NZ Whole of Government DoView Board</div>
+        <div class="hdr-subtitle">A DoView Collection — illustrative agency boards under one whole-of-government model</div>
       </div>
       <div class="hdr-right">
         <div class="hdr-brand-line"><span class="hdr-tagline">See. Plan. Do.™</span></div>
@@ -131,18 +131,18 @@
       <span class="sep" aria-hidden="true">·</span>
       <a href="../">DoView Boards</a>
       <span class="sep" aria-hidden="true">›</span>
-      <span class="current" id="currentCollectionName" aria-current="page">NZ Whole of Government</span>
+      <span class="current" aria-current="page">NZ Whole of Government</span>
     </nav>
-    <div class="status" id="collectionStatus">Proof of Concept – Not Endorsed</div>
+    <div class="status">Proof of Concept – Not Endorsed</div>
   </div>
 
   <main class="wrap">
     <!-- apex board of this collection -->
     <section class="capstone-row" aria-label="Apex board">
       <a class="capstone" id="featuredBoard" href="./nz-government-targets-doview-board-dr-paul-duignan-doviewplanning-org-a013.html" target="_blank" rel="noopener noreferrer">
-        <div class="eyebrow" id="featuredEyebrow">Start here · the apex of this collection</div>
+        <div class="eyebrow">Start here · the apex of this collection</div>
         <h3 id="featuredTitle">NZ Government Targets</h3>
-        <p id="featuredDescription">Under this box would be a full DoView Board of overall government outcomes (to illustrate this it is currently just NZ Government Targets).</p>
+        <p>Under this box would be a full DoView Board of overall government outcomes (to illustrate this it is currently just NZ Government Targets).</p>
         <span class="drill" aria-hidden="true"></span>
       </a>
       <div class="support">
@@ -170,40 +170,48 @@
   </main>
 
   <script>
-    function escapeHtml(value){ return String(value ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;"); }
-    function setText(id, value){ const el = document.getElementById(id); if(el && value) el.textContent = value; }
+    function escapeHtml(value){
+      return String(value ?? '')
+        .replaceAll('&','&amp;')
+        .replaceAll('<','&lt;')
+        .replaceAll('>','&gt;')
+        .replaceAll('"','&quot;')
+        .replaceAll("'","&#039;");
+    }
+
     function renderBoardCard(board){
+      const title = escapeHtml(board.title || 'Untitled board');
       const acronym = board.acronym ? `<span class="acr">${escapeHtml(board.acronym)}</span>` : '<span class="acr">DoView Board</span>';
       const ref = board.ref ? `<span class="ref">${escapeHtml(board.ref)}</span>` : '';
-      return `<a class="card" href="./${escapeHtml(board.file || '#')}" target="_blank" rel="noopener noreferrer">
-        <h4>${escapeHtml(board.title || 'Untitled board')}</h4>${acronym}
+      const file = escapeHtml(board.file || '#');
+
+      return `<a class="card" href="./${file}" target="_blank" rel="noopener noreferrer">
+        <h4>${title}</h4>${acronym}
         <span class="sub">DoView board</span>${ref}<span class="tri" aria-hidden="true"></span>
       </a>`;
     }
+
     async function loadCollection(){
       const grid = document.getElementById('boardsGrid');
       const boardCount = document.getElementById('boardCount');
+      const featuredBoard = document.getElementById('featuredBoard');
+      const featuredTitle = document.getElementById('featuredTitle');
+
       try{
         const response = await fetch('./collection.json', { cache: 'no-store' });
         if(!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
-        setText('collectionTitle', data.title);
-        setText('collectionSubtitle', data.subtitle);
-        setText('collectionStatus', data.status);
-        setText('currentCollectionName', data.currentTitle);
-        if(data.breadcrumbRoot){
-          const rootLink = document.querySelector('.crumbs a');
-          if(rootLink){ if(data.breadcrumbRoot.href) rootLink.href = data.breadcrumbRoot.href; if(data.breadcrumbRoot.title) rootLink.textContent = data.breadcrumbRoot.title; }
-        }
+
         if(data.featured){
-          const featured = document.getElementById('featuredBoard');
-          if(featured && data.featured.file) featured.href = './' + data.featured.file;
-          setText('featuredEyebrow', data.featured.eyebrow);
-          setText('featuredTitle', data.featured.title);
-          setText('featuredDescription', data.featured.description);
+          if(featuredBoard && data.featured.file) featuredBoard.href = './' + data.featured.file;
+          if(featuredTitle && data.featured.title) featuredTitle.textContent = data.featured.title;
         }
+
         const boards = Array.isArray(data.boards) ? data.boards : [];
-        grid.innerHTML = boards.length ? boards.map(renderBoardCard).join('') : '<div class="error">No boards listed in collection.json.</div>';
+        grid.innerHTML = boards.length
+          ? boards.map(renderBoardCard).join('')
+          : '<div class="error">No boards listed in collection.json.</div>';
+
         boardCount.textContent = `${boards.length} board${boards.length === 1 ? '' : 's'} · each opens the full board in a new tab · alphabetical`;
       }catch(err){
         grid.innerHTML = '<div class="error">Unable to load collection.json. Check that it is in the same folder as this index.html file.</div>';
@@ -211,6 +219,7 @@
         console.error(err);
       }
     }
+
     loadCollection();
   </script>
 
