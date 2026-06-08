@@ -1,0 +1,26 @@
+{
+  "title": "Large Company DoView Boards",
+  "subtitle": "A DoView Collection — illustrative large company strategy and outcome boards",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "Large Companies",
+  "boards": [
+    {
+      "title": "Anthropic",
+      "acronym": "Anthropic",
+      "file": "anthropic-doview-board-dr-paul-duignan-doviewplanning-org-a034.html",
+      "ref": "a034"
+    },
+    {
+      "title": "Toyota",
+      "acronym": "Toyota",
+      "file": "toyota-doview-board-dr-paul-duignan-doviewplanning-org-a074(1).html",
+      "ref": "a074"
+    },
+    {
+      "title": "Walmart",
+      "acronym": "Walmart",
+      "file": "walmart-doview-board-dr-paul-duignan-doviewplanning-org-a073.html",
+      "ref": "a073"
+    }
+  ]
+}
