@@ -1,8 +1,9 @@
 {
-  "title": "Generic DoView Boards",
-  "subtitle": "A DoView Collection — illustrative generic organization boards",
+  "version": "v1.2.1",
+  "title": "Generic Initiative DoView Boards",
+  "subtitle": "A DoView Collection — illustrative generic initiative boards",
   "status": "Illustrative only – Not Endorsed",
-  "currentTitle": "Generic",
+  "currentTitle": "Generic Initiatives",
   "boards": [
     {
       "title": "Illustrative Generic Organization",
