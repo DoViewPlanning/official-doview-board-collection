@@ -1,8 +1,9 @@
 {
-  "title": "Research DoView Boards",
+  "version": "v1.2.1",
+  "title": "Research Domain DoView Boards",
   "subtitle": "A DoView Collection — illustrative research-domain boards",
   "status": "Illustrative only – Not Endorsed",
-  "currentTitle": "Research",
+  "currentTitle": "Research Domains",
   "boards": [
     {
       "title": "Space-Based Infrastructure Research Domain",
