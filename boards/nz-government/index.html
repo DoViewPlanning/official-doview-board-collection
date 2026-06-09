@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NZ Whole of Government DoView Board — DoView Collection</title>
+  <title>DoView Collection</title>
   <style>
     :root{
       --orange:#F5A623; --od:#d4880a;
@@ -215,6 +215,8 @@
         const response = await fetch('./collection.json', { cache: 'no-store' });
         if(!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
+
+        document.title = data.title || `${data.currentTitle || 'Collection'} — DoView Collection`;
 
         setText('collectionTitle', data.title);
         setText('collectionSubtitle', data.subtitle);
