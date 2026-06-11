@@ -1,0 +1,15 @@
+{
+  "version": "v1.3.0",
+  "title": "International Organizations DoView Boards",
+  "subtitle": "A DoView Collection — illustrative international organization boards",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "International Organizations",
+  "boards": [
+    {
+      "title": "WHO Ebola Outbreak Response DoView Board",
+      "acronym": "WHO Ebola",
+      "file": "who-ebola-outbreak-response-doview-board-dr-paul-duignan-doviewplanning-org-a084.html",
+      "ref": "a084"
+    }
+  ]
+}
