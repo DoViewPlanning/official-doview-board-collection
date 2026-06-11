@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.7",
+  "version": "v1.3.0",
   "collections": [
     {
       "title": "NZ Government",
@@ -24,6 +24,11 @@
     {
       "title": "International Cooperation",
       "href": "international-cooperation/",
+      "count": "1 board"
+    },
+    {
+      "title": "International Organizations",
+      "href": "international-organizations/",
       "count": "1 board"
     },
     {
