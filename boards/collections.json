@@ -14,12 +14,7 @@
     {
       "title": "UK Government",
       "href": "uk-government/",
-      "count": "1 apex · 5 live boards · 15 placeholders"
-    },
-    {
-      "title": "US Washington State Government",
-      "href": "us-washington-state-government/",
-      "count": "1 apex · 5 live boards · 19 placeholders"
+      "count": "1 board"
     },
     {
       "title": "Large Companies",
@@ -50,16 +45,6 @@
       "title": "NZ Local Government",
       "href": "nz-local-government/",
       "count": "5 live boards · 15 placeholders"
-    },
-    {
-      "title": "AI-Agent Building Projects",
-      "href": "ai-agent-building-projects/",
-      "count": "5 boards"
-    },
-    {
-      "title": "Typical Business Consulting Assignments",
-      "href": "typical-business-consulting-assignments/",
-      "count": "7 boards"
     }
   ]
 }
