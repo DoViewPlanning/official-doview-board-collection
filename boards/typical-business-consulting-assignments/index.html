@@ -108,7 +108,7 @@
   </div>
 
   <main class="wrap">
-    <div class="instruction" id="collectionInstruction"><strong>Just click on the white boxes</strong> because these currently have live DoView Boards under them.</div>
+    <div class="instruction" id="collectionInstruction"><strong>Just click on the white boxes.</strong></div>
 
     <section class="section-head">
       <h2 id="sectionTitle">Typical Business Consulting Assignment DoView Boards</h2>
@@ -144,7 +144,7 @@
     const desc = board.description ? `<span class="desc">${escapeHtml(board.description)}</span>` : '';
     const live = board.file && board.status !== 'planned' && board.disabled !== true;
     const ref = board.ref ? ` · ${escapeHtml(board.ref)}` : '';
-    const pill = live ? `Live DoView Board${ref}` : 'Board to be added';
+    const pill = live ? 'DoView Board' : 'Placeholder';
     const inner = `<h4>${title}</h4>${type}${desc}<span class="board-pill">${pill}</span><span class="tri" aria-hidden="true"></span>`;
     if(live){
       return `<a class="card card-live" href="./${escapeHtml(board.file)}">${inner}</a>`;
@@ -165,7 +165,7 @@
       setText('currentCollectionName', data.currentTitle);
       setText('sectionTitle', data.sectionTitle || 'Typical Business Consulting Assignment DoView Boards');
       const instruction = document.getElementById('collectionInstruction');
-      if(instruction && data.instruction){ instruction.innerHTML = `<strong>Just click on the white boxes</strong> because these currently have live DoView Boards under them.`; }
+      if(instruction && data.instruction){ instruction.textContent = data.instruction; }
       const boards = Array.isArray(data.boards) ? data.boards : [];
       const liveCount = boards.filter(b => b.file && b.status !== 'planned' && b.disabled !== true).length;
       const plannedCount = Math.max(0, boards.length - liveCount);
