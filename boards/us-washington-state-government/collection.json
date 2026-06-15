@@ -1,0 +1,145 @@
+{
+  "version": "v1.3.0",
+  "title": "Washington State Government DoView Board Collection",
+  "subtitle": "Proof-of-Concept, white boxes link to live DoView Boards others are illustrative placeholders.",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "Washington State Government",
+  "instruction": "White boxes link to live DoView Boards. Grey boxes are illustrative placeholders.",
+  "sectionTitle": "Washington State Executive Agency DoView Boards",
+  "unitLabel": "agencies",
+  "featured": {
+    "title": "Washington State Government High-Level Outcomes",
+    "eyebrow": "Top-level Washington State government board",
+    "description": "Under this box would be a full DoView Board of all government high-level outcomes (to illustrate this it is currently the Washington State Government High-Level Outcomes DoView Board).",
+    "file": "washington-state-government-high-level-outcomes-doview-board-dr-paul-duignan-doviewplaning-org-a128(1).html",
+    "ref": "a128",
+    "status": "live"
+  },
+  "boards": [
+    {
+      "title": "Department of Health",
+      "file": "washington-state-department-of-health-doview-board-dr-paul-duignan-doviewplanning-org-107.html",
+      "ref": "107",
+      "status": "live"
+    },
+    {
+      "title": "Department of Social and Health Services",
+      "file": "washington-state-department-of-social-and-health-services-doview-board-dr-paul-duignan-doviewplanning-org-108.html",
+      "ref": "108",
+      "status": "live"
+    },
+    {
+      "title": "Department of Commerce",
+      "file": "washington-state-department-of-commerce-doview-board-dr-paul-duignan-doviewplanning-org-109.html",
+      "ref": "109",
+      "status": "live"
+    },
+    {
+      "title": "Department of Ecology",
+      "file": "washington-state-department-of-ecology-doview-board-dr-paul-duignan-doviewplanning-org-110.html",
+      "ref": "110",
+      "status": "live"
+    },
+    {
+      "title": "Department of Transportation",
+      "file": "washington-state-department-of-transportation-doview-board-dr-paul-duignan-doviewplanning-org-111.html",
+      "ref": "111",
+      "status": "live"
+    },
+    {
+      "title": "Department of Agriculture",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Children, Youth and Families",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Corrections",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Licensing",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Employment Security Department",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Enterprise Services",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Financial Institutions",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Office of Financial Management",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Health Care Authority",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Labor and Industries",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Military Department",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Puget Sound Partnership",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Retirement Systems",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Revenue",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Washington Student Achievement Council",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Utilities and Transportation Commission",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Veterans Affairs",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Washington State Patrol",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Washington Technology Solutions",
+      "status": "planned",
+      "disabled": true
+    }
+  ]
+}
