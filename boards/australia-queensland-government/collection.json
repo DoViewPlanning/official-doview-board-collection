@@ -1,0 +1,135 @@
+{
+  "version": "v1.3.0",
+  "title": "Australia Queensland Government DoView Board Collection",
+  "subtitle": "Proof-of-Concept, white boxes link to live DoView Boards others are illustrative placeholders.",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "Australia Queensland Government",
+  "instruction": "White boxes link to live DoView Boards. Grey boxes are illustrative placeholders.",
+  "sectionTitle": "Queensland Government Department DoView Boards",
+  "unitLabel": "departments",
+  "featured": {
+    "title": "Queensland Government High-Level Outcomes",
+    "eyebrow": "Top-level Queensland Government board",
+    "description": "Under this box would be a full DoView Board of all government high-level outcomes (to illustrate this it is currently the Queensland Government High-Level Outcomes DoView Board).",
+    "file": "australia-queensland-government-high-level-outcomes-doview-board-dr-paul-duignan-doviewplanning-org-a129.html",
+    "ref": "a129",
+    "status": "live"
+  },
+  "boards": [
+    {
+      "title": "Queensland Health",
+      "file": "australia-queensland-health-doview-board-dr-paul-duignan-doviewplanning-org-097.html",
+      "ref": "097",
+      "status": "live"
+    },
+    {
+      "title": "Department of Housing and Public Works",
+      "file": "australia-queensland-department-of-housing-and-public-works-doview-board-dr-paul-duignan-doviewplanning-org-098.html",
+      "ref": "098",
+      "status": "live"
+    },
+    {
+      "title": "Department of Transport and Main Roads",
+      "file": "australia-queensland-department-of-transport-and-main-roads-doview-board-dr-paul-duignan-doviewplanning-org-099.html",
+      "ref": "099",
+      "status": "live"
+    },
+    {
+      "title": "Department of Education",
+      "file": "australia-queensland-department-of-education-doview-board-dr-paul-duignan-doviewplanning-org-101.html",
+      "ref": "101",
+      "status": "live"
+    },
+    {
+      "title": "Department of State Development, Infrastructure and Planning",
+      "file": "australia-queensland-state-department-infrastructure-and-planning-doview-board-dr-paul-duignan-doviewplanning-org-100.html",
+      "ref": "100",
+      "status": "live"
+    },
+    {
+      "title": "Queensland Police Service",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Youth Justice and Victim Support",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Families, Seniors, Disability Services and Child Safety",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Queensland Treasury",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Local Government, Water and Volunteers",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Environment, Tourism, Science and Innovation",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Justice",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Corrective Services",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Queensland Fire Department",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Primary Industries",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Trade, Employment and Training",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of the Premier and Cabinet",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Women, Aboriginal and Torres Strait Islander Partnerships and Multiculturalism",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Sport, Racing and Olympic and Paralympic Games",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Department of Customer Services, Open Data and Small and Family Business",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Public Sector Commission",
+      "status": "planned",
+      "disabled": true
+    }
+  ]
+}
