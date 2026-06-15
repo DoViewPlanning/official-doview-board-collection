@@ -1,0 +1,156 @@
+{
+  "version": "v1.3.0",
+  "title": "NZ Local Government DoView Board Collection",
+  "subtitle": "Proof-of-Concept, white boxes link to live DoView Boards others are illustrative placeholders.",
+  "status": "Illustrative only – Not Endorsed",
+  "currentTitle": "NZ Local Government",
+  "instruction": "White boxes link to live DoView Boards. Grey boxes are illustrative placeholders.",
+  "sectionTitle": "Council DoView Boards",
+  "boards": [
+    {
+      "title": "Auckland Council",
+      "type": "Unitary / metropolitan",
+      "description": "Scale, transport, housing, infrastructure, climate, regional governance",
+      "file": "auckland-council-doview-board-dr-paul-duignan-doviewplanning-org-123.html",
+      "ref": "a123",
+      "status": "live"
+    },
+    {
+      "title": "Christchurch City Council",
+      "type": "City",
+      "description": "Post-earthquake city, urban regeneration, climate and coastal risk",
+      "file": "christchurch-city-council-doview-board-dr-paul-duignan-doviewplanning-org-124.html",
+      "ref": "a124",
+      "status": "live"
+    },
+    {
+      "title": "Wellington City Council",
+      "type": "City",
+      "description": "Capital city, resilience, infrastructure renewal, housing intensification",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Hamilton City Council",
+      "type": "City",
+      "description": "Fast-growing inland city, transport, housing, economic development",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Tauranga City Council",
+      "type": "City",
+      "description": "Rapid growth, ports, housing, transport pressure",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Dunedin City Council",
+      "type": "City",
+      "description": "Heritage, university city, climate adaptation, ageing infrastructure",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Queenstown Lakes District Council",
+      "type": "District",
+      "description": "Tourism, growth, housing affordability, environment",
+      "file": "queenstown-lakes-district-council-doview-board-dr-paul-duignan-doviewplanning-org-125.html",
+      "ref": "a125",
+      "status": "live"
+    },
+    {
+      "title": "Rotorua Lakes Council",
+      "type": "District",
+      "description": "Tourism, Māori partnership context, lakes, social outcomes",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Whangārei District Council",
+      "type": "District",
+      "description": "Regional centre, Northland development, infrastructure, coastal issues",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Hastings District Council",
+      "type": "District",
+      "description": "Horticulture, water, cyclone recovery, rural–urban mix",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "New Plymouth District Council",
+      "type": "District",
+      "description": "Energy transition, coastal city, regional economy",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Palmerston North City Council",
+      "type": "City",
+      "description": "Logistics, education, defence, regional service hub",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Invercargill City Council",
+      "type": "City",
+      "description": "Southern regional centre, ageing population, infrastructure renewal",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Gisborne District Council",
+      "type": "Unitary",
+      "description": "Rural/remote, forestry, cyclone resilience, regional + district functions",
+      "file": "gisborne-district-council-doview-board-dr-paul-duignan-doviewplanning-org-126.html",
+      "ref": "a126",
+      "status": "live"
+    },
+    {
+      "title": "Nelson City Council",
+      "type": "Unitary",
+      "description": "Small city, environment, transport, housing, coastal risk",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Tasman District Council",
+      "type": "Unitary",
+      "description": "Rural/coastal growth, environment, water, settlements",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Marlborough District Council",
+      "type": "Unitary",
+      "description": "Wine economy, marine environment, rural services",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Environment Canterbury",
+      "type": "Regional",
+      "description": "Water, biodiversity, transport, flood protection, climate",
+      "file": "environment-canterbury-doview-board-dr-paul-duignan-doviewplanning-org-127.html",
+      "ref": "a127",
+      "status": "live"
+    },
+    {
+      "title": "Greater Wellington Regional Council",
+      "type": "Regional",
+      "description": "Public transport, regional parks, flood protection, environment",
+      "status": "planned",
+      "disabled": true
+    },
+    {
+      "title": "Waikato Regional Council",
+      "type": "Regional",
+      "description": "Catchments, farming, biodiversity, flood management, regional economy",
+      "status": "planned",
+      "disabled": true
+    }
+  ]
+}
