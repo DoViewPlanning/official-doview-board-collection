@@ -1,0 +1,46 @@
+{
+  "version": "v1.3.0",
+  "title": "International Development DoView Boards",
+  "subtitle": "A DoView Collection - Illustrative International Development boards",
+  "currentTitle": "International Development",
+  "status": "Illustrative only – Not Endorsed",
+  "instruction": "Click the white boxes to open the live International Development DoView Boards.",
+  "sectionTitle": "International Development DoView Boards",
+  "boards": [
+    {
+      "title": "Climate-Resilient Agriculture and Food Security",
+      "type": "International development initiative",
+      "description": "Food systems, rural livelihoods, resilience, adaptation, and food security.",
+      "file": "climate-resilient-agriculture-and-food-security-doview-board-dr-paul-duignan-doviewplanning-org-118.html",
+      "ref": "118"
+    },
+    {
+      "title": "Girls' Education and Women's Economic Empowerment",
+      "type": "International development initiative",
+      "description": "Education, skills, safety, economic participation, and empowerment outcomes.",
+      "file": "girls-education-and-womens-economic-empowerment-doview-board-dr-paul-duignan-doviewplanning-org-119.html",
+      "ref": "119"
+    },
+    {
+      "title": "Primary Health Care Strengthening",
+      "type": "International development initiative",
+      "description": "Access, quality, workforce, community health, and stronger primary health systems.",
+      "file": "primary-health-care-strengthening-doview-board-dr-paul-duignan-doviewplanning-org-120.html",
+      "ref": "120"
+    },
+    {
+      "title": "Clean Water, Sanitation, and Hygiene",
+      "type": "International development initiative",
+      "description": "Water access, sanitation, hygiene behaviours, health, and sustainability.",
+      "file": "clean-water-sanitation-and-hygiene-doview-board-dr-paul-duignan-doviewplanning-org-121.html",
+      "ref": "121"
+    },
+    {
+      "title": "Youth Employment and Skills Development",
+      "type": "International development initiative",
+      "description": "Skills pathways, employability, jobs, enterprise, and inclusive labour-market outcomes.",
+      "file": "youth-employment-and-skills-development-doview-board-dr-paul-duignan-doviewplanning-org-122.html",
+      "ref": "122"
+    }
+  ]
+}
