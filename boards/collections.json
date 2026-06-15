@@ -37,6 +37,11 @@
       "count": "1 board"
     },
     {
+      "title": "International Development",
+      "href": "international-development/",
+      "count": "5 boards"
+    },
+    {
       "title": "International Cooperation",
       "href": "international-cooperation/",
       "count": "1 board"
@@ -64,7 +69,7 @@
     {
       "title": "Generic Initiatives",
       "href": "generic-initiatives/",
-      "count": "10 boards"
+      "count": "1 board"
     }
   ]
 }
