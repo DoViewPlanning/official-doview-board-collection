@@ -1,0 +1,60 @@
+{
+  "version": "v1.3.0",
+  "collections": [
+    {
+      "title": "NZ Government",
+      "href": "nz-government/",
+      "count": "1 apex · 20 agency boards"
+    },
+    {
+      "title": "European Union",
+      "href": "european-union/",
+      "count": "1 board"
+    },
+    {
+      "title": "UK Government",
+      "href": "uk-government/",
+      "count": "1 apex · 5 live boards · 15 placeholders"
+    },
+    {
+      "title": "Large Companies",
+      "href": "large-companies/",
+      "count": "3 boards"
+    },
+    {
+      "title": "International Cooperation",
+      "href": "international-cooperation/",
+      "count": "1 board"
+    },
+    {
+      "title": "International Organizations",
+      "href": "international-organizations/",
+      "count": "1 board"
+    },
+    {
+      "title": "Research Domains",
+      "href": "research-domains/",
+      "count": "1 board"
+    },
+    {
+      "title": "Generic Initiatives",
+      "href": "generic-initiatives/",
+      "count": "1 board"
+    },
+    {
+      "title": "NZ Local Government",
+      "href": "nz-local-government/",
+      "count": "5 live boards · 15 placeholders"
+    },
+    {
+      "title": "AI-Agent Building Projects",
+      "href": "ai-agent-building-projects/",
+      "count": "5 boards"
+    },
+    {
+      "title": "Typical Business Consulting Assignments",
+      "href": "typical-busines-consulting-assignments/",
+      "count": "7 boards"
+    }
+  ]
+}
