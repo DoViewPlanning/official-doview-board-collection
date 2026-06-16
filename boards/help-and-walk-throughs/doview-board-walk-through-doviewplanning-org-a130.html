@@ -4273,33 +4273,35 @@ DoView.init({
   /* ---- Big launcher button ---- */
   #dvtour-launcher{
     pointer-events:auto;background:#1e293b;color:#fff;border:none;
-    border-radius:12px;font-size:18px;font-weight:700;padding:15px 36px;
-    cursor:pointer;box-shadow:0 6px 28px rgba(15,23,42,.38);letter-spacing:-.01em;
+    border-radius:13px;font-size:19.5px;font-weight:700;padding:17px 42px;
+    cursor:pointer;box-shadow:0 7px 30px rgba(15,23,42,.40);letter-spacing:0;
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif
   }
   #dvtour-launcher:hover{background:#0f172a}
   #dvtour-launcher:focus-visible{outline:3px solid #2563eb;outline-offset:2px}
   #dvtour-launcher-wrap.dvtour-dismissed #dvtour-launcher{
-    font-size:13px;padding:9px 20px;border-radius:999px
+    font-size:14px;padding:10px 22px;border-radius:999px
   }
 
   /* ---- Intro text ---- */
   #dvtour-intro-text{
-    pointer-events:auto;max-width:360px;text-align:center;font-size:13px;
-    line-height:1.6;color:#fff;background:rgba(15,23,42,.82);border-radius:10px;
-    padding:11px 15px;
+    pointer-events:auto;max-width:410px;text-align:center;font-size:14.5px;
+    line-height:1.6;color:#334155;background:#fff;border:1px solid #e2e8f0;border-radius:12px;
+    padding:15px 20px;box-shadow:0 12px 34px rgba(15,23,42,.22);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
-    margin:0
+    margin:0;cursor:pointer;transition:background .15s ease,border-color .15s ease,box-shadow .15s ease,transform .15s ease
   }
+  #dvtour-intro-text:hover{background:#f8fafc;border-color:#cbd5e1;box-shadow:0 14px 38px rgba(15,23,42,.26);transform:translateY(-1px)}
+  #dvtour-intro-text:focus-visible{outline:3px solid #2563eb;outline-offset:2px}
   #dvtour-launcher-wrap.dvtour-dismissed #dvtour-intro-text{display:none}
 
   /* ---- Dismiss button ---- */
   #dvtour-launcher-dismiss{
     pointer-events:auto;background:transparent;border:none;
-    color:rgba(255,255,255,.75);font-size:11.5px;cursor:pointer;padding:2px 8px;
+    color:#64748b;font-size:11.5px;cursor:pointer;padding:2px 8px;
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif
   }
-  #dvtour-launcher-dismiss:hover{color:#fff}
+  #dvtour-launcher-dismiss:hover{color:#1e293b;text-decoration:underline;text-underline-offset:2px}
   #dvtour-launcher-wrap.dvtour-dismissed #dvtour-launcher-dismiss{display:none}
 
   /* ---- Tour menu ---- */
@@ -4307,6 +4309,7 @@ DoView.init({
     position:fixed;background:#fff;border:1px solid #e2e8f0;border-radius:12px;
     box-shadow:0 12px 34px rgba(15,23,42,.22);z-index:2147483646;
     padding:14px 14px 8px;width:320px;max-width:calc(100vw - 36px);
+    max-height:calc(100vh - 24px);overflow-y:auto;
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
     color:#1e293b;display:none
   }
@@ -4355,6 +4358,8 @@ DoView.init({
   #dvtour-card .dvtour-kicker{font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#2563eb;margin:0 0 4px}
   #dvtour-card h3{font-size:16px;margin:0 0 7px;font-weight:700;line-height:1.3}
   #dvtour-card p.dvtour-body{font-size:15.5px;line-height:1.6;color:#334155;margin:0 0 14px}
+  #dvtour-card p.dvtour-body a{color:#2563eb;font-weight:650;text-decoration:underline;text-underline-offset:2px}
+  #dvtour-card p.dvtour-body a:focus-visible{outline:2px solid #2563eb;outline-offset:2px;border-radius:3px}
   #dvtour-dots{display:flex;gap:5px;align-items:center;margin:0 0 12px;flex-wrap:wrap}
   #dvtour-dots i{width:7px;height:7px;border-radius:50%;background:#cbd5e1;display:inline-block}
   #dvtour-dots i.dvtour-cur{background:#2563eb}
@@ -4403,7 +4408,10 @@ DoView.init({
   .dvtour-t9-menu-head{padding:6px 10px;font-weight:600;color:#334155;background:#f1f5f9;border-radius:5px;margin-bottom:4px;display:flex;justify-content:space-between;align-items:center;gap:18px}
   .dvtour-t9-menu-car{color:#64748b}
   .dvtour-t9-menu-item{padding:7px 10px;border-radius:5px;white-space:nowrap;color:#334155}
-  .dvtour-t9-menu-hi{background:#2563eb;color:#fff;font-weight:600;box-shadow:0 0 0 2px rgba(37,99,235,.25)}
+  .dvtour-t9-menu-hi{background:#2563eb;color:#fff;font-weight:700;box-shadow:0 0 0 2px #1d4ed8,0 0 0 4px rgba(37,99,235,.30)}
+  /* Build 10: temporary, spotlight-only group cue for safe save/share/reporting controls. */
+  .dvtour-t10-temp{position:fixed;z-index:2147483644;pointer-events:none;box-sizing:border-box}
+  .dvtour-t10-group{border:2px dashed #2563eb;border-radius:12px;background:rgba(37,99,235,.08);box-shadow:0 0 0 3px rgba(255,255,255,.72)}
 
   @media (max-width:420px){
     #dvtour-card{width:calc(100vw - 24px)}
@@ -4413,6 +4421,7 @@ DoView.init({
   @media (prefers-reduced-motion:reduce){#dvtour-ring{transition:none}}
   @media print{#dvtour-root{display:none !important}}
   body.presentation-view #dvtour-root{display:none !important}
+  body.presentation-view.dvtour-tour-active #dvtour-root{display:block !important}
 </style>
 
 <div id="dvtour-root">
@@ -4420,7 +4429,7 @@ DoView.init({
     <button id="dvtour-launcher" type="button"
       aria-haspopup="dialog" aria-controls="dvtour-menu" aria-expanded="false"
       title="Start a walkthrough tour of this board">Walkthrough Tour</button>
-    <p id="dvtour-intro-text">DoView Boards provide a general-purpose, standardized way to visually model purposeful work in the world, showing aims, actions, responsibilities, evidence, measures and learning (e.g. for organizations, initiatives, strategies, policies, collaborations, research and processes).</p>
+    <p id="dvtour-intro-text" role="button" tabindex="0" aria-controls="dvtour-menu">DoView Boards provide a general-purpose, standardized way to visually model purposeful work in the world, showing aims, actions, responsibilities, evidence, measures and learning (e.g. for organizations, initiatives, strategies, policies, collaborations, research and processes).</p>
     <button id="dvtour-launcher-dismiss" type="button" aria-label="Dismiss intro panel">Dismiss &#x2715;</button>
   </div>
   <div id="dvtour-menu" role="dialog" aria-label="Walkthrough tours" aria-modal="false">
@@ -5557,35 +5566,248 @@ DoView.init({
     {k:"deleteColumn",    label:"Delete this column\u2026"}
   ];
   function t9RemoveActionMenu(){ Array.prototype.slice.call(D.querySelectorAll(".dvtour-t9-menu")).forEach(function(el){ el.remove(); }); }
+  // Find a reliable on-screen anchor for the faux menu. Prefer the real Box
+  // actions control's geometry (correct placement in a real browser). Native
+  // <select> elements can report a 0x0 rect in some engines / headless contexts,
+  // so fall back to the visible page bar, whose layout is always present. This
+  // is why Build 9b does NOT bail out when the select rect is zero.
+  function t9MenuAnchor(){
+    function ok(el){ if(!el) return null; var r=el.getBoundingClientRect(); return (r && r.width>1 && r.height>1)?r:null; }
+    var wrap=D.querySelector(".tt-box-actions-wrap");
+    var sel=t9BoxActionMenu();
+    var bar=D.querySelector("#board .tt-bar")||D.querySelector("#board .how-bar")||D.querySelector(".tt-bar")||D.querySelector(".how-bar");
+    var ab=ok(bar);
+    var aw=ok(wrap); if(aw) return {r:aw, src:"control", bar:ab};
+    var as=ok(sel);  if(as) return {r:as, src:"control", bar:ab};
+    if(ab) return {r:ab, src:"bar", bar:ab};
+    return {r:null, src:"none", bar:null};
+  }
   function t9BuildActionMenu(highlightKey){
     t9RemoveActionMenu();
-    var sel=t9BoxActionMenu(); if(!sel) return null;
-    var r=sel.getBoundingClientRect(); if(!r || (!r.width && !r.height)) return null;
-    var w=Math.max(r.width, 236);
+    var vw=window.innerWidth||document.documentElement.clientWidth||1024;
+    var vh=window.innerHeight||document.documentElement.clientHeight||768;
     var menu=t9Temp("dvtour-t9-menu");
-    menu.style.left=r.left+"px";
-    menu.style.top=r.top+"px";
-    menu.style.minWidth=w+"px";
+    // Belt-and-suspenders inline styling so the panel is always a fixed, high-z,
+    // opaque white card regardless of any stylesheet edge case. z stays just
+    // below the tour card (so the card can never be covered) but above the
+    // dimming/backdrop layers (so the menu is never dimmed or hidden).
+    menu.style.position="fixed";
+    menu.style.zIndex="2147483645";
+    menu.style.background="#fff";
+    menu.style.maxWidth="min(94vw,300px)";
     var html='<div class="dvtour-t9-menu-head">Box actions <span class="dvtour-t9-menu-car">\u25be</span></div>';
     T9_MENU_ITEMS.forEach(function(it){
       html+='<div class="dvtour-t9-menu-item'+(it.k===highlightKey?' dvtour-t9-menu-hi':'')+'">'+it.label+'</div>';
     });
     menu.innerHTML=html;
+    // Initial placement.
+    var a=t9MenuAnchor();
+    // Compact dropdown width (never the full page-bar width). Use the real control's
+    // width when we have it, otherwise a sensible fixed width; always bounded.
+    var menuW=250;
+    if(a.r && a.src==="control"){ menuW=Math.min(Math.max(Math.round(a.r.width),226),300); }
+    menuW=Math.min(menuW, vw-16);
+    menu.style.width=menuW+"px";
+    var left, top;
+    if(a.r){
+      if(a.src==="bar"){
+        // No usable control rect: approximate where "Box actions" sits within the
+        // page bar (just after the page title) so the menu still visually aligns.
+        left=a.r.left + Math.min(Math.max(a.r.width*0.30,150), Math.max(a.r.width-menuW-16,16));
+        top=a.r.bottom + 6;
+      } else {
+        // Anchored to the real control: open the menu just beneath it.
+        left=a.r.left;
+        top=a.r.bottom + 6;
+        if(a.bar) top=Math.max(top, a.bar.bottom + 6); // keep clear of the bar
+      }
+    } else {
+      // Last-resort safe fixed spot near the top page bar.
+      left=Math.min(470, vw-menuW-16);
+      top=150;
+    }
+    menu.style.left=Math.round(left)+"px";
+    menu.style.top=Math.round(top)+"px";
+    // Clamp into the viewport using the real rendered size so the menu is never
+    // clipped or pushed off-screen, and never hangs below the fold.
+    var mw=menu.offsetWidth||menuW, mh=menu.offsetHeight||260;
+    menu.style.left=Math.round(Math.max(8, Math.min(left, vw-mw-8)))+"px";
+    menu.style.top=Math.round(Math.max(8, Math.min(top, vh-mh-8)))+"px";
     return menu;
   }
   // Settle for the action-menu steps: keep the real select in view, then (re)draw the faux
   // menu over it with the requested item highlighted, and reposition the spotlight.
   function t9SettleActionMenu(highlightKey){
     t9ClearTimers();
+    var tries=0, MAX=6;
     function go(){
       var sel=t9BoxActionMenu();
-      if(sel && sel.scrollIntoView){ try{ sel.scrollIntoView({block:"center",inline:"nearest"}); }catch(e){} }
+      if(sel && sel.scrollIntoView){ try{ sel.scrollIntoView({block:"nearest",inline:"nearest"}); }catch(e){} }
       t9BuildActionMenu(highlightKey);
       try{ reposition(); }catch(e){}
+      tries++;
+      if(tries<MAX){ t9SelTimer=setTimeout(go, tries<3?120:280); }
     }
-    t9SelTimer=setTimeout(function(){ go(); t9SelTimer=setTimeout(go,260); },170);
+    go(); // build immediately, then re-build to ride out re-render / layout settle
   }
   function t9ActionMenuEl(){ return D.querySelector(".dvtour-t9-menu"); }
+
+  // ---- Tour 10 helpers ----
+  // Tour 10 demonstrates start/save/share/presentation/reporting/chat controls without
+  // triggering file writes, downloads, printing, copy-to-clipboard, new-board creation,
+  // read-only-copy creation, or AI requests. Dialogs/panels are opened only when safe and
+  // are made pointer-events:none while the tour step is active.
+  var t10RaisedModalId=null;
+  function t10Temp(cls){ var el=D.createElement("div"); el.className="dvtour-t10-temp "+(cls||""); D.body.appendChild(el); return el; }
+  function t10RemoveTemps(){ Array.prototype.slice.call(D.querySelectorAll(".dvtour-t10-temp")).forEach(function(el){ el.remove(); }); }
+  function t10Rect(el){ return el&&el.getBoundingClientRect?el.getBoundingClientRect():null; }
+  function t10IsVisible(el){
+    if(!el) return false;
+    var r=t10Rect(el);
+    if(!r || r.width<1 || r.height<1) return false;
+    var st=window.getComputedStyle?window.getComputedStyle(el):null;
+    return !st || (st.display!=="none" && st.visibility!=="hidden" && st.opacity!=="0");
+  }
+  function t10FindControl(text){
+    var want=String(text||"").toLowerCase();
+    var nodes=D.querySelectorAll("button,a,.hdr-binfo,.presentation-btn,.chat-fab");
+    for(var i=0;i<nodes.length;i++){
+      var label=(nodes[i].textContent||"").replace(/\s+/g," ").trim().toLowerCase();
+      if(label.indexOf(want)>=0 && t10IsVisible(nodes[i])) return nodes[i];
+    }
+    return null;
+  }
+  function t10Control(id,text){ return (id && t10IsVisible($(id)) ? $(id) : null) || t10FindControl(text); }
+  function t10Group(els){
+    t10RemoveTemps();
+    var rect=null;
+    els.forEach(function(el){
+      if(!t10IsVisible(el)) return;
+      var r=t10Rect(el);
+      if(!rect) rect={left:r.left,top:r.top,right:r.right,bottom:r.bottom};
+      else { rect.left=Math.min(rect.left,r.left); rect.top=Math.min(rect.top,r.top); rect.right=Math.max(rect.right,r.right); rect.bottom=Math.max(rect.bottom,r.bottom); }
+    });
+    if(!rect) return null;
+    var pad=8, box=t10Temp("dvtour-t10-group");
+    box.style.left=Math.max(4,rect.left-pad)+"px";
+    box.style.top=Math.max(4,rect.top-pad)+"px";
+    box.style.width=Math.min(window.innerWidth-8,rect.right-rect.left+pad*2)+"px";
+    box.style.height=Math.min(window.innerHeight-8,rect.bottom-rect.top+pad*2)+"px";
+    return box;
+  }
+  function t10BottomControls(names){
+    return t10Group(names.map(function(name){
+      if(name==="save") return t10Control("dlBtn","Save / Download Board");
+      if(name==="new") return t10Control("newBoardBtn","Create and Save New Empty Board");
+      if(name==="readonly") return t10Control("createReadOnlyCopyBtn","Create Read-Only Copy");
+      return t10FindControl(name);
+    }));
+  }
+  function t10RaiseModal(modalId){
+    var m=$(modalId);
+    if(!m) return false;
+    m.style.zIndex="2147483643";
+    m.style.alignItems="flex-start";
+    m.style.paddingTop="24px";
+    m.style.pointerEvents="none";
+    var mb=m.querySelector(".modal-box");
+    if(mb) mb.style.pointerEvents="none";
+    var ring=$("dvtour-ring");
+    if(ring) ring.style.zIndex="2147483645";
+    t10RaisedModalId=modalId;
+    return true;
+  }
+  function t10ResetModal(modalId){
+    var ids=modalId?[modalId]:["saveDownloadModal","newBoardModal"];
+    ids.forEach(function(id){
+      try{
+        var m=$(id);
+        if(m){
+          m.style.zIndex="";
+          m.style.alignItems="";
+          m.style.paddingTop="";
+          m.style.pointerEvents="";
+          var mb=m.querySelector(".modal-box");
+          if(mb) mb.style.pointerEvents="";
+        }
+      }catch(e){}
+    });
+    var ring=$("dvtour-ring");
+    if(ring) ring.style.zIndex="";
+    if(!modalId || t10RaisedModalId===modalId) t10RaisedModalId=null;
+  }
+  function t10CloseModal(modalId){
+    t10ResetModal(modalId);
+    try{ call("closeModal",modalId); }catch(e){}
+  }
+  function t10CloseRaisedModals(){
+    ["saveDownloadModal","newBoardModal","linkDetailModal","howCountListModal","viewPanelModal","cloneChooserModal","updModal","htmlCopyModal"].forEach(function(id){
+      try{ t10CloseModal(id); }catch(e){}
+    });
+  }
+  function t10OpenRaisedModal(openFn,modalId){
+    t10CloseRaisedModals();
+    t10CloseChatPanel();
+    t10RemoveTemps();
+    call(openFn);
+    t10RaiseModal(modalId);
+  }
+  function t10ResetChatStyles(){
+    var p=$("chatPanel");
+    if(p){ p.style.zIndex=""; p.style.pointerEvents=""; }
+    var fab=D.querySelector(".chat-fab");
+    if(fab){ fab.style.zIndex=""; fab.style.pointerEvents=""; }
+    var ring=$("dvtour-ring");
+    if(ring) ring.style.zIndex="";
+  }
+  function t10OpenChatPanel(){
+    t10CloseRaisedModals();
+    t10RemoveTemps();
+    var settings=$("chatSettingsPane");
+    if(settings && settings.classList.contains("open")){ try{ call("toggleChatSettings"); }catch(e){} }
+    var p=$("chatPanel");
+    if(p){
+      p.classList.add("open");
+      p.style.zIndex="2147483643";
+      p.style.pointerEvents="none";
+    }
+    var fab=D.querySelector(".chat-fab");
+    if(fab){ fab.style.zIndex="2147483643"; fab.style.pointerEvents="none"; }
+    var ring=$("dvtour-ring");
+    if(ring) ring.style.zIndex="2147483645";
+  }
+  function t10CloseChatPanel(){
+    var settings=$("chatSettingsPane");
+    if(settings && settings.classList.contains("open")){ try{ call("toggleChatSettings"); }catch(e){} }
+    var p=$("chatPanel");
+    if(p) p.classList.remove("open");
+    t10ResetChatStyles();
+  }
+  function t10ShowPresentation(){
+    t10CloseRaisedModals();
+    t10CloseChatPanel();
+    t10RemoveTemps();
+    if(D.body) D.body.classList.add("dvtour-tour-active");
+    call("setPresentationView",true);
+  }
+  function t10LeavePresentation(){
+    if(D.body && D.body.classList.contains("presentation-view")){ try{ call("setPresentationView",false); }catch(e){} }
+  }
+  function t10ClearBoardContext(){
+    try{ call("closeBoxChooser"); }catch(e){}
+    try{ call("closeEntry"); }catch(e){}
+    try{
+      var board=D.getElementById("board");
+      if(board) board.dispatchEvent(new MouseEvent("click",{bubbles:false,cancelable:false}));
+    }catch(e){}
+  }
+  function t10RestoreAll(){
+    t10CloseRaisedModals();
+    t10CloseChatPanel();
+    t10LeavePresentation();
+    t10RemoveTemps();
+    t10ClearBoardContext();
+  }
 
   // ---- Tour definitions ----
   var TOURS={
@@ -6426,14 +6648,14 @@ DoView.init({
         },
         { page:"p3",
           title:"Add a new box",
-          body:"You can add new boxes when the model needs more detail. For example, you may add another This-Then box, activity, project or capability. Adding boxes lets the board grow as the work becomes clearer.",
+          body:"You can add new boxes by clicking on a box and then selecting Box actions and from this selecting Add Box Below when the model needs more detail. For example, you may add another This-Then box, activity, project or capability.",
           ensure:function(){ t9RemoveTemps(); gotoPage("p3"); t9SelectBox(T9_ACTIONS_BOX); t9SettleActionMenu("addBoxBelow"); },
           cleanup:function(){ t9ClearTimers(); t9RemoveTemps(); t9ClearSelection(); },
           sel:function(){ return t9ActionMenuEl()||t9BoxActionMenu()||t9Box(T9_ACTIONS_BOX)||null; }
         },
         { page:"p3",
           title:"Move or organize boxes",
-          body:"As a model develops, boxes may need to be moved, reordered or grouped more clearly. This helps make the logic of the board easier to read and makes the page more useful for discussion.",
+          body:"As a model develops, boxes may need to be moved, reordered or grouped more clearly. For instance, click on a box and select Box Actions then select Add Column After This Column.",
           ensure:function(){ t9RemoveTemps(); gotoPage("p3"); t9SelectBox(T9_ACTIONS_BOX); t9SettleActionMenu("addColumnAfter"); },
           cleanup:function(){ t9ClearTimers(); t9RemoveTemps(); t9ClearSelection(); },
           sel:function(){ return t9ActionMenuEl()||t9BoxActionMenu()||t9Box(T9_ACTIONS_BOX)||null; }
@@ -6478,6 +6700,103 @@ DoView.init({
           cleanup:function(){ t9RestoreAll(); }
         }
       ]
+    },
+    10:{
+      title:"Starting, saving, sharing and using Board Chat",
+      steps:[
+        { page:"overview",
+          center:true,
+          ensureNow:true,
+          title:"Creating a DoView Board",
+          body:"You create a DoView Board by downloading the DoView Board Building AI prompt from DoViewPlanning.org/prompt. You put it into your AI system and tell it what type of DoView Board you want and what organization, policy, strategy, or other type of initiative you want the board to be about. You need to carefully check it and get it to amend it to, for instance, fill in more detail if it has not done so. For a large board you may want to build it in a number of iterations.",
+          ensure:function(){ t10RestoreAll(); gotoPage("overview"); }
+        },
+        { page:"overview",
+          ensureNow:true,
+          title:"Putting the board to work",
+          body:"Once you can read, review and maintain a DoView Board as shown in this guide, the next step is to use it in practice. You can start a new board, save your work, create copies for others, use the board in meetings, prepare material for reports, and use Chat with Board to ask questions about the model.",
+          ensure:function(){ t10RestoreAll(); gotoPage("overview"); },
+          cleanup:function(){ t10RemoveTemps(); },
+          sel:function(){ return D.querySelector(".control-bar")||$("board")||null; }
+        },
+        { page:"overview",
+          cardBottom:true,
+          ensureNow:true,
+          title:"Create a new empty board",
+          body:"You can create a new empty board when you want to start modelling a new organization, initiative, project or strategy. A new empty board gives you a clean starting point that you can build up with pages, boxes, links, measures, evaluation questions and documentation. When doing this from an existing board check that it is the latest version by looking at DoViewPlanning.org. If not, get the latest version of the prompt.",
+          ensure:function(){ t10CloseRaisedModals(); t10CloseChatPanel(); gotoPage("overview"); t10BottomControls(["new"]); },
+          cleanup:function(){ t10CloseModal("newBoardModal"); t10RemoveTemps(); },
+          sel:function(){ return D.querySelector(".dvtour-t10-group")||t10Control("newBoardBtn","Create and Save New Empty Board")||null; }
+        },
+        { page:"overview",
+          cardBottom:true,
+          ensureNow:true,
+          title:"Save or download your board",
+          body:"After editing a board, you need to save or download it. A DoView Board is a standalone HTML file, so saving or downloading creates a file that can be stored, backed up, emailed, uploaded or opened again later. Read the instructions that pop up when saving a board because single HTML file-based app saving is slightly different from saving from a traditional app.",
+          ensure:function(){ t10CloseRaisedModals(); t10CloseChatPanel(); gotoPage("overview"); t10BottomControls(["save"]); },
+          cleanup:function(){ t10CloseModal("saveDownloadModal"); t10RemoveTemps(); },
+          sel:function(){ return D.querySelector(".dvtour-t10-group")||t10Control("dlBtn","Save / Download Board")||null; }
+        },
+        { page:"overview",
+          ensureNow:true,
+          title:"Create a read-only copy",
+          body:"A read-only copy is useful when you want people to view a board without accidentally editing it. It can be used for review, circulation or archiving a version of the board. You can, for instance, put contract accountabilities as measures with targets in a board and attach a read-only copy of a DoView Board with a contract with a provider. A read-only copy of a board is a practical sharing copy, not a security system.",
+          ensure:function(){ t10CloseRaisedModals(); t10CloseChatPanel(); t10RemoveTemps(); gotoPage("overview"); },
+          cleanup:function(){ t10RemoveTemps(); },
+          sel:function(){ return t10Control("createReadOnlyCopyBtn","Create Read-Only Copy")||D.querySelector(".control-bar")||null; }
+        },
+        { page:"overview",
+          ensureNow:true,
+          title:"Use Presentation View in meetings",
+          body:"Presentation View gives a cleaner view for meetings and workshops. It hides much of the editing interface so people can focus on the board, the pages and the discussion. You can return to the normal view when you need the full editing controls again.",
+          ensure:function(){ t10ShowPresentation(); },
+          cleanup:function(){ t10LeavePresentation(); },
+          sel:function(){ return D.querySelector(".presentation-bar")||D.querySelector(".presentation-btn")||$("board")||null; }
+        },
+        { page:"overview",
+          ensureNow:true,
+          title:"Use the board for reports and updates",
+          body:"A DoView Board is designed to allow you to use it when reporting to politicians, governance, management, staff, stakeholders etc. Using it in meetings means that you always have at your fingertips immediate answers to the 20 key questions that anyone running or having oversight of any organization or initiative has to have answered. You can print the board, or copy pages from the board and put them in another board when you just want to present on part of the board.",
+          ensure:function(){ t10LeavePresentation(); t10CloseRaisedModals(); t10CloseChatPanel(); t10BottomControls(["Print Board","Copy Page for Pasting"]); },
+          cleanup:function(){ t10RemoveTemps(); },
+          sel:function(){ return D.querySelector(".dvtour-t10-group")||t10FindControl("Print Board")||t10FindControl("Copy Page for Pasting")||null; }
+        },
+        { page:"overview",
+          cardLeft:true,
+          ensureNow:true,
+          title:"Use Chat with Board",
+          body:"Chat with Board lets you ask questions about the board. You can use it to help explore the model, summarize what is on the board, ask where measures or evaluation questions are, build whole additional This-Then pages, and help think through other improvements. The board works perfectly well without it. To use Chat with Board, you need an API key from the AI service you are using. Follow that provider's current instructions for creating an API key and entering the required settings in the Chat with Board window. If you are not sure how to do this ask any AI for more information on doing it.",
+          ensure:function(){ t10OpenChatPanel(); },
+          cleanup:function(){ t10CloseChatPanel(); },
+          sel:function(){ return $("chatPanel")||D.querySelector(".chat-fab")||null; }
+        },
+        { page:"overview",
+          ensureNow:true,
+          title:"Use copies and versions carefully",
+          body:"When a board is being used by a team, it is important to be clear about which version is the current working version. Save copies when needed, use read-only copies for circulation, and keep the main editable board as the place where agreed changes are made. It is good to have one 'Keeper of the Board' as you would with an important spreadsheet.",
+          ensure:function(){ t10CloseChatPanel(); t10CloseRaisedModals(); t10BottomControls(["save","readonly"]); },
+          cleanup:function(){ t10RemoveTemps(); },
+          sel:function(){ return D.querySelector(".dvtour-t10-group")||t10Control("dlBtn","Save / Download Board")||t10Control("createReadOnlyCopyBtn","Create Read-Only Copy")||null; }
+        },
+        { page:"overview",
+          center:true,
+          ensureNow:true,
+          title:"This DoView Boards version is a prototype",
+          body:"This version of DoView Boards is a prototype. So it is for use with non-confidential information in low risk situations and for use at your own risk. Back up material you put into a board and back up the board regularly. DoView Boards are an open source project so any developer can harden their security or tailor them for a particular setting. They can be built into any other type of app, platform or system as long as DoViewPlanning.org is acknowledged and they are called DoView Boards.",
+          ensure:function(){ t10RestoreAll(); gotoPage("overview"); }
+        },
+        { page:"overview",
+          center:true,
+          ensureNow:true,
+          title:"Return to the working overview",
+          body:"You now know how to read a DoView Board, inspect links and evidence, review measures and evaluation questions, check alignment, use documentation pages, create links, maintain the board, and put it to work through saving, sharing, presenting and Chat with Board so as to be able to instantly answer the 20 key questions anyone needs to be able to answer about any organization or initiative. Get more information from",
+          linkText:"DoViewPlanning.org/DoViewBoards",
+          linkHref:"https://www.doviewplanning.org/doviewboards",
+          linkAfter:".",
+          ensure:function(){ t10RestoreAll(); gotoPage("overview"); },
+          cleanup:function(){ t10RestoreAll(); }
+        }
+      ]
     }
   };
 
@@ -6487,9 +6806,7 @@ DoView.init({
   // ---- Menu ----
   function buildMenu(){
     var ul=$("dvtour-list"); if(!ul)return;
-    var planned=[
-      "Sharing & reporting"
-    ];
+    var planned=[];
     var html='<li><button type="button" class="dvtour-item" id="dvtour-start-1">'
            + '<span>Tour 1 \u2014 Reading a DoView Board (90 sec)</span><span class="dvtour-badge">Start</span></button></li>'
            + '<li><button type="button" class="dvtour-item" id="dvtour-start-2">'
@@ -6507,7 +6824,9 @@ DoView.init({
            + '<li><button type="button" class="dvtour-item" id="dvtour-start-8">'
            + '<span>Tour 8 - Creating links between boxes</span><span class="dvtour-badge">Start</span></button></li>'
            + '<li><button type="button" class="dvtour-item" id="dvtour-start-9">'
-           + '<span>Tour 9 - Editing and maintaining the board</span><span class="dvtour-badge">Start</span></button></li>';
+           + '<span>Tour 9 - Editing and maintaining the board</span><span class="dvtour-badge">Start</span></button></li>'
+           + '<li><button type="button" class="dvtour-item" id="dvtour-start-10">'
+           + '<span>Tour 10 - Starting, saving, sharing and using Board Chat</span><span class="dvtour-badge">Start</span></button></li>';
     planned.forEach(function(name){
       html+='<li><span class="dvtour-item dvtour-planned" aria-disabled="true">'
           + '<span>'+name+'</span><span class="dvtour-badge">Planned</span></span></li>';
@@ -6522,6 +6841,7 @@ DoView.init({
     $("dvtour-start-7").addEventListener("click",function(){ closeMenu(); startTour(7); });
     $("dvtour-start-8").addEventListener("click",function(){ closeMenu(); startTour(8); });
     $("dvtour-start-9").addEventListener("click",function(){ closeMenu(); startTour(9); });
+    $("dvtour-start-10").addEventListener("click",function(){ closeMenu(); startTour(10); });
   }
 
   // ---- Menu open/close ----
@@ -6534,12 +6854,14 @@ DoView.init({
     var mw=Math.min(320,vw-36);
     var left=Math.max(12,Math.min(rc.left+rc.width/2-mw/2, vw-mw-12));
     var top=rc.bottom+8;
-    if(top+220>vh) top=Math.max(8,rc.top-228);
     menu.style.left=left+"px";
-    menu.style.top=top+"px";
+    menu.style.top="8px";
     menu.style.width=mw+"px";
     menu.style.right="";
     menu.classList.add("dvtour-open");
+    var mh=Math.min(menu.offsetHeight||220,vh-24);
+    if(top+mh>vh) top=Math.max(8,Math.min(rc.top-mh-8,vh-mh-8));
+    menu.style.top=top+"px";
     btn.setAttribute("aria-expanded","true");
   }
   function closeMenu(){
@@ -6637,6 +6959,20 @@ DoView.init({
     for(var k=0;k<steps.length;k++){ s+='<i class="'+(k===tour.i?"dvtour-cur":"")+'"></i>'; }
     d.innerHTML=s;
   }
+  function setStepBody(step){
+    var el=$("dvtour-text");
+    el.textContent=step.body||"";
+    if(step.linkHref && step.linkText){
+      el.appendChild(D.createTextNode(" "));
+      var a=D.createElement("a");
+      a.href=step.linkHref;
+      a.target="_blank";
+      a.rel="noopener noreferrer";
+      a.textContent=step.linkText;
+      el.appendChild(a);
+      if(step.linkAfter) el.appendChild(D.createTextNode(step.linkAfter));
+    }
+  }
   function showStep(){
     var step=steps[tour.i];
     // Run cleanup for the step we are leaving (works in both directions)
@@ -6647,15 +6983,19 @@ DoView.init({
     if(step.page) gotoPage(step.page);
     $("dvtour-kicker").textContent=TOURS[tour.id].title;
     $("dvtour-title").textContent=step.title;
-    $("dvtour-text").textContent=step.body;
+    setStepBody(step);
     $("dvtour-count").textContent="Step "+(tour.i+1)+" of "+steps.length;
     $("dvtour-back").style.visibility=tour.i===0?"hidden":"visible";
     $("dvtour-next").textContent=tour.i===steps.length-1?"Done":"Next";
     renderDots();
     $("dvtour-card").classList.add("dvtour-on");
     tour.lastStep=tour.i;
+    var ensuredNow=false;
+    if(step.ensureNow && typeof step.ensure==="function"){
+      try{ step.ensure(); ensuredNow=true; }catch(e){ if(window.console)console.warn("[dvtour] ensure failed",e); }
+    }
     raf2(function(){
-      if(typeof step.ensure==="function"){ try{ step.ensure(); }catch(e){ if(window.console)console.warn("[dvtour] ensure failed",e); } }
+      if(!ensuredNow && typeof step.ensure==="function"){ try{ step.ensure(); }catch(e){ if(window.console)console.warn("[dvtour] ensure failed",e); } }
       // Bring the spotlight target into view before measuring, so getBoundingClientRect()
       // returns in-viewport coordinates on narrow viewports or horizontally scrolled
       // This-Then pages. Applies to all non-center, non-cardBottom steps and benefits
@@ -6682,6 +7022,7 @@ DoView.init({
     tour.id=tourId||1;
     tour.startPid=currentPid();
     tour.open=true; tour.i=0; tour.lastStep=-1; viewLedger={}; t2ModalIsOpen=false; t3Views=null; t3PanelOpen=false; t3InspectOn=false; t3LinkHoverWasOn=false; t4Views=null; t4PanelOpen=false; t4ModalIsOpen=false; t5Views=null; t5PanelOpen=false; t5HowListOpen=false; t6Views=null; t6PanelOpen=false; t6HowListOpen=false; t7EditPid=null; t8ClearTimers(); t8LinkModalOpen=false; t8RemoveTemps(); t8ResetLinkModal(); t9ClearTimers(); t9RemoveTemps(); t9DocEditPid=null; t9Views=null;
+    if(D.body) D.body.classList.add("dvtour-tour-active");
     hideLauncherWrap();
     D.addEventListener("keydown",onKey,true);
     window.addEventListener("resize",reposition);
@@ -6715,14 +7056,17 @@ DoView.init({
     if(tour.id===8){ try{ t8RestoreAll(); }catch(e){} }
     // Tour 9: always clear selection, temporary cues and documentation edit mode regardless of exit step
     if(tour.id===9){ try{ t9RestoreAll(); }catch(e){} }
+    // Tour 10: always close safe demo dialogs/panels and restore Normal View
+    if(tour.id===10){ try{ t10RestoreAll(); }catch(e){} }
     D.removeEventListener("keydown",onKey,true);
     window.removeEventListener("resize",reposition);
     window.removeEventListener("scroll",reposition,true);
     teardownChrome();
     restoreViews();
+    if(D.body) D.body.classList.remove("dvtour-tour-active");
     // Tours 3, 4, 5 and 6 always return to the Overview page after cleanup to guarantee a clean,
     // known page state and avoid a potential blank content area on the initial page.
-    if(tour.id===3||tour.id===4||tour.id===5||tour.id===6||tour.id===7||tour.id===8||tour.id===9){ try{ call("navTo","overview"); }catch(e){ try{ call("navTo","overview"); }catch(e2){} } }
+    if(tour.id===3||tour.id===4||tour.id===5||tour.id===6||tour.id===7||tour.id===8||tour.id===9||tour.id===10){ try{ call("navTo","overview"); }catch(e){ try{ call("navTo","overview"); }catch(e2){} } }
     else { gotoPage(tour.startPid); }
     showLauncherWrap();
     var l=$("dvtour-launcher"); if(l) l.focus();
@@ -6739,7 +7083,18 @@ DoView.init({
   // ---- Wire up ----
   function init(){
     buildMenu();
-    $("dvtour-launcher").addEventListener("click",function(){ menuOpen()?closeMenu():openMenu(); });
+    function toggleLauncherMenu(e){
+      if(e && e.stopPropagation) e.stopPropagation();
+      menuOpen()?closeMenu():openMenu();
+    }
+    $("dvtour-launcher").addEventListener("click",toggleLauncherMenu);
+    var intro=$("dvtour-intro-text");
+    if(intro){
+      intro.addEventListener("click",toggleLauncherMenu);
+      intro.addEventListener("keydown",function(e){
+        if(e.key==="Enter" || e.key===" "){ e.preventDefault(); toggleLauncherMenu(e); }
+      });
+    }
     $("dvtour-launcher-dismiss").addEventListener("click",function(){
       var w=$("dvtour-launcher-wrap"); if(w) w.classList.add("dvtour-dismissed");
     });
@@ -6750,8 +7105,8 @@ DoView.init({
     // Click away from menu closes it (but not while a tour is running)
     D.addEventListener("click",function(e){
       if(!menuOpen()) return;
-      var m=$("dvtour-menu"), l=$("dvtour-launcher");
-      if(m.contains(e.target)||l.contains(e.target)) return;
+      var m=$("dvtour-menu"), l=$("dvtour-launcher"), intro=$("dvtour-intro-text");
+      if(m.contains(e.target)||l.contains(e.target)||(intro&&intro.contains(e.target))) return;
       closeMenu();
     },true);
     // Escape closes menu when no tour is active
@@ -6768,8 +7123,10 @@ DoView.init({
           if(tour.id===7) t7RestoreAll();
           if(tour.id===8) t8RestoreAll();
           if(tour.id===9) t9RestoreAll();
+          if(tour.id===10) t10RestoreAll();
           restoreViews();
-          if(tour.id===3||tour.id===4||tour.id===5||tour.id===6||tour.id===7||tour.id===8||tour.id===9) gotoPage("overview");
+          if(D.body) D.body.classList.remove("dvtour-tour-active");
+          if(tour.id===3||tour.id===4||tour.id===5||tour.id===6||tour.id===7||tour.id===8||tour.id===9||tour.id===10) gotoPage("overview");
           else gotoPage(tour.startPid);
         }catch(e){}
       }
