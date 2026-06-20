@@ -5,15 +5,15 @@ The boards are intended for viewing, demonstration, and discussion purposes.
 ## Public board links
 DoView Boards in this repository can be opened directly from URLs such as:
 ```text
-https://doviewplanning.github.io/doview-board-collection/boards/example-board.html
+https://doviewplanning.github.io/official-doview-board-collection/boards/example-board.html
 ```
 The main collection index is available at:
 ```text
-https://doviewplanning.github.io/doview-board-collection/
+https://doviewplanning.github.io/official-doview-board-collection/
 ```
 ## Repository structure
 ```text
-doview-board-collection/
+official-doview-board-collection/
   README.md
   index.html
   boards/
@@ -33,7 +33,7 @@ Trademark use and collaboration information:
 https://doviewplanning.org/trademarkuse
 https://doviewplanning.org/collaborate
 DoView Boards developer package:
-https://github.com/DoViewPlanning/doview-boards
+https://github.com/DoViewPlanning/official-doview-boards
 DoView® trademarks, official badges, endorsement, certification, approval, quality assurance, affiliation, and official-status claims are governed separately:
 https://doviewplanning.org/trademarkuse
 ## Important notes
