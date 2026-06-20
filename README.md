@@ -1,20 +1,34 @@
-# DoView Board Collection
+# Official DoView Board Collection
 
-A public collection of standalone DoView Board HTML files created by Dr Paul Duignan. See:
+A public collection of standalone DoView Board HTML files created and maintained Dr Paul Duignan.
+
+General information on DoView Boards is here:
 
 https://doviewplanning.org
 
-The boards are intended for viewing, demonstration, and discussion purposes.
+## Main public page
+
+The main public page for this collection is:
+
+https://doviewplanning.github.io/official-doview-board-collection/boards/
+
+The root GitHub Pages page:
+
+https://doviewplanning.github.io/official-doview-board-collection/
+
+is only a redirect page. It redirects visitors to:
+
+https://doviewplanning.github.io/official-doview-board-collection/boards/
 
 ## Public board links
 
-DoView Boards in this repository can be opened directly from URLs such as:
+DoView Boards in this repository can be opened directly from the collection index:
+
+https://doviewplanning.github.io/official-doview-board-collection/boards/
+
+Individual boards can also be opened directly from their own URLs, for example:
 
 https://doviewplanning.github.io/official-doview-board-collection/boards/generic-initiatives/generic-small-business-doview-board-dr-paul-duignan-doviewplanning-org-a077.html
-
-The main collection index is available at:
-
-https://doviewplanning.github.io/official-doview-board-collection/
 
 ## Repository structure
 
@@ -23,6 +37,7 @@ official-doview-board-collection/
   README.md
   index.html
   boards/
+    index.html
     generic-initiatives/
       generic-small-business-doview-board-dr-paul-duignan-doviewplanning-org-a077.html
   boards.json
@@ -46,15 +61,15 @@ The DoView Boards prompt package and reference engine are maintained separately 
 
 Developers are encouraged to incorporate DoView Boards into any app, platform, or system with acknowledgment.
 
+DoView Boards developer package:
+
+https://github.com/DoViewPlanning/official-doview-boards
+
 Trademark use and collaboration information:
 
 https://doviewplanning.org/trademarkuse
 
 https://doviewplanning.org/collaborate
-
-DoView Boards developer package:
-
-https://github.com/DoViewPlanning/official-doview-boards
 
 DoView® trademarks, official badges, endorsement, certification, approval, quality assurance, affiliation, and official-status claims are governed separately:
 
