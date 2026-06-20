@@ -1,6 +1,6 @@
 # Official DoView Board Collection
 
-A public collection of standalone DoView Board HTML files created and maintained Dr Paul Duignan.
+An official public collection of standalone DoView Board HTML files created and maintained by Dr Paul Duignan.
 
 General information on DoView Boards is here:
 
