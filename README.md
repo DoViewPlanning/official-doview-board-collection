@@ -4,9 +4,9 @@ https://doviewplanning.org
 The boards are intended for viewing, demonstration, and discussion purposes.
 ## Public board links
 DoView Boards in this repository can be opened directly from URLs such as:
-```text
+
 (https://doviewplanning.github.io/official-doview-board-collection/boards/generic-initiatives/generic-small-business-doview-board-dr-paul-duignan-doviewplanning-org-a077.html)
-```
+
 The main collection index is available at:
 ```text
 https://doviewplanning.github.io/official-doview-board-collection/
