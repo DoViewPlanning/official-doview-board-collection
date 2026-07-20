@@ -1,5 +1,5 @@
 {
-  "version": "v1.3.0",
+  "version": "v1.4.1",
   "title": "UK Government DoView Board Collection",
   "subtitle": "A DoView Collection — illustrative UK government department boards under one high-level UK government model",
   "status": "Illustrative only – Not Endorsed",
@@ -7,11 +7,11 @@
   "instruction": "Just click on the white boxes because these currently have live DoView Boards under them.",
   "sectionTitle": "UK Government Department DoView Boards",
   "featured": {
-    "title": "UK Government Plan for Change and Five Missions",
+    "title": "Prime Minister Andy Burnhams UK New Getting Things Done Strategy",
     "eyebrow": "Top-level UK Government Board",
-    "description": "Under this box would be a full DoView Board of all government high-level outcomes (to illustrate this it is currently the UK Plan for Change and Five Missions).",
-    "file": "uk-government-plan-for-change-and-five-missions-doview-board-dr-paul-duignan-doviewplanning-org-a041.html",
-    "ref": "a041"
+    "description": "This box should link to a full articulation of the high-level outcomes the UK government is seeking (to illustrate this, click to see a DoView Board created from information on the internet about new Prime Minister Andy Burnham's likely priorities).",
+    "file": "uk-government-prime-minister-andy-burnhams-uk-new-getting-things-done-strategy-doview-board-dr-paul-duignan-doviewplanning-org-a136.html",
+    "ref": "a136"
   },
   "boards": [
     {
