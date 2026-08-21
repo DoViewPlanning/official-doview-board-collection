@@ -1,0 +1,6344 @@
+{
+  "format": "doview-board-json",
+  "schemaVersion": "V1.3.9",
+  "engineVersion": "V1.4.3",
+  "title": "MartinJenkins Strategic Model",
+  "slug": "martinjenkins_strategic_model_20260821_1547",
+  "subpages": [
+    {
+      "id": "p1",
+      "label": "Client needs, trust and mandate",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#dbeafe",
+        "bdr": "#93c5fd",
+        "tab": "#3b82f6"
+      },
+      "cols": [
+        {
+          "h": "Challenges and context surfaced",
+          "boxes": [
+            "Strategic challenge clarified",
+            "Decision pressures surfaced",
+            "Affected communities recognised",
+            "Public context understood"
+          ],
+          "uid": "col_36a93cb1-53c1-45d3-a1ca-04fa17d7fa8b"
+        },
+        {
+          "h": "Trusted dialogue established",
+          "boxes": [
+            "Client confidence established",
+            "Stakeholder perspectives heard",
+            "Shared problem framing agreed"
+          ],
+          "uid": "col_1368488a-a3b6-4e39-9772-6b38a03ed898"
+        },
+        {
+          "h": "Purposeful mandate formed",
+          "boxes": [
+            "Advisory mandate secured",
+            "Impact ambition made explicit"
+          ],
+          "uid": "col_7c865728-6d2b-421a-a1b8-59f40df4b688"
+        }
+      ],
+      "uid": "page_f387e15e-8830-4dd8-9e28-5176e806c2d9"
+    },
+    {
+      "id": "p2",
+      "label": "Commissioning and mobilisation",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#a855f8"
+      },
+      "cols": [
+        {
+          "h": "Commissioning realities understood",
+          "boxes": [
+            "Client outcome sought",
+            "Delivery constraints recognised"
+          ],
+          "uid": "col_228ea315-461d-4a95-971b-212e03146522"
+        },
+        {
+          "h": "Assignment designed",
+          "boxes": [
+            "Scope and questions agreed",
+            "Methods matched to purpose",
+            "Governance roles agreed",
+            "Commercial terms settled"
+          ],
+          "uid": "col_60a11ac4-dfb7-4346-bbad-c055691eec8a"
+        },
+        {
+          "h": "Delivery conditions assembled",
+          "boxes": [
+            "Team and expertise assembled",
+            "Evidence access arranged",
+            "Delivery rhythm established"
+          ],
+          "uid": "col_0bb4b90b-095b-4196-84b9-e8b6ecd21488"
+        },
+        {
+          "h": "Confident start achieved",
+          "boxes": [
+            "Project mobilised with confidence"
+          ],
+          "uid": "col_f45615ec-ecfe-4416-8089-3df909a24c09"
+        }
+      ],
+      "uid": "page_8a0fe847-24b6-4aa5-998f-1bb10c17cfc8"
+    },
+    {
+      "id": "p3",
+      "label": "Evidence and integrated analysis",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#ccfbf1",
+        "bdr": "#5eead4",
+        "tab": "#0d9488"
+      },
+      "cols": [
+        {
+          "h": "Evidence inputs prepared",
+          "boxes": [
+            "Evidence standards agreed",
+            "Relevant data assembled",
+            "Lived experience included"
+          ],
+          "uid": "col_7787d558-e3b5-4171-86df-60a2a03a8a11"
+        },
+        {
+          "h": "Evidence fitness tested",
+          "boxes": [
+            "Data quality tested",
+            "Knowledge gaps identified"
+          ],
+          "uid": "col_46ba1d4f-3e79-45d0-90f2-60bcf8b13ea0"
+        },
+        {
+          "h": "Specialist analyses completed",
+          "boxes": [
+            "Economic effects modelled",
+            "Policy options compared",
+            "Organisational dynamics diagnosed",
+            "Stakeholder insights synthesised"
+          ],
+          "uid": "col_aacfc81a-90f6-4d34-912a-ea0db039c7cd"
+        },
+        {
+          "h": "Integrated interpretation formed",
+          "boxes": [
+            "Findings triangulated",
+            "Uncertainty made transparent"
+          ],
+          "uid": "col_5b188a2b-59d8-44df-a45d-782573e00908"
+        },
+        {
+          "h": "Evidence confidence established",
+          "boxes": [
+            "Defensible evidence base established"
+          ],
+          "uid": "col_400c904f-528f-4196-a207-5c4b360c8d69"
+        }
+      ],
+      "uid": "page_2a86ec14-4b89-4e6a-a485-1ecef381d9e8"
+    },
+    {
+      "id": "p4",
+      "label": "Strategy, policy and investment advice",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#fef3c7",
+        "bdr": "#fde68a",
+        "tab": "#f59e0b"
+      },
+      "cols": [
+        {
+          "h": "Decision space structured",
+          "boxes": [
+            "Decision criteria agreed",
+            "Feasible options developed",
+            "Trade-offs exposed"
+          ],
+          "uid": "col_38ee4236-442e-41a4-8368-f1e5155428b8"
+        },
+        {
+          "h": "Advice disciplines applied",
+          "boxes": [
+            "Strategic direction translated",
+            "Regulatory consequences tested",
+            "Investment case strengthened"
+          ],
+          "uid": "col_9c8a2997-96cb-4aa0-a9e7-e1c3e4dd592b"
+        },
+        {
+          "h": "Recommendation focus achieved",
+          "boxes": [
+            "Recommendations prioritised"
+          ],
+          "uid": "col_74c5394b-6f52-4b23-baac-fa8572d2d813"
+        },
+        {
+          "h": "Decision capability strengthened",
+          "boxes": [
+            "Decision-ready advice delivered",
+            "Client ownership strengthened"
+          ],
+          "uid": "col_e30f1dc4-236d-447c-bbf8-2c0e36fb4833"
+        }
+      ],
+      "uid": "page_2a18c36b-afc6-46bb-ac31-02ab9eca31cc"
+    },
+    {
+      "id": "p5",
+      "label": "Implementation and engagement",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#fce7f3",
+        "bdr": "#f9a8d4",
+        "tab": "#db2777"
+      },
+      "cols": [
+        {
+          "h": "Readiness and partners assessed",
+          "boxes": [
+            "Change conditions assessed",
+            "Delivery partners identified"
+          ],
+          "uid": "col_932eada3-ccc4-4eca-b6ac-ea79c4776f24"
+        },
+        {
+          "h": "Delivery model shaped",
+          "boxes": [
+            "Operating model aligned",
+            "Engagement approach tailored"
+          ],
+          "uid": "col_327080cf-afef-4075-8fb3-8980674bdd13"
+        },
+        {
+          "h": "Collective action organised",
+          "boxes": [
+            "Implementation roadmap agreed",
+            "Responsibilities made clear",
+            "Communities engaged meaningfully"
+          ],
+          "uid": "col_52e53fbd-c1dc-488f-83bd-9f493f3706c3"
+        },
+        {
+          "h": "Execution supported",
+          "boxes": [
+            "Capabilities transferred",
+            "Risks addressed early"
+          ],
+          "uid": "col_f9ee796e-b082-4009-bcb1-7145556fbd7d"
+        },
+        {
+          "h": "Practice changed",
+          "boxes": [
+            "Change adopted in practice",
+            "Delivery adjusted responsively"
+          ],
+          "uid": "col_094f6f8f-5050-4386-ab14-e0058b96d531"
+        },
+        {
+          "h": "Benefits sustained",
+          "boxes": [
+            "Lasting benefits realised"
+          ],
+          "uid": "col_e40a27c6-6465-4d84-904e-c357610938b9"
+        }
+      ],
+      "uid": "page_d21910f4-e704-4e20-9c2c-75d74813e0a1"
+    },
+    {
+      "id": "p6",
+      "label": "Evaluation and learning",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#dcfce7",
+        "bdr": "#86efac",
+        "tab": "#16a34a"
+      },
+      "cols": [
+        {
+          "h": "Learning purpose clarified",
+          "boxes": [
+            "Purpose and users defined",
+            "Outcomes and assumptions clarified"
+          ],
+          "uid": "col_2e23cbaa-58de-4310-af73-c839b490ccfe"
+        },
+        {
+          "h": "Learning system designed",
+          "boxes": [
+            "Measures selected proportionately",
+            "Evaluation design fitted",
+            "Baseline evidence assembled",
+            "Data collection embedded"
+          ],
+          "uid": "col_434b332b-74fa-49e3-8e66-a108660cb0cd"
+        },
+        {
+          "h": "Performance interpreted",
+          "boxes": [
+            "Performance and impact assessed"
+          ],
+          "uid": "col_195b108b-f422-4c35-8acc-5023deb9328b"
+        },
+        {
+          "h": "Learning decisions made",
+          "boxes": [
+            "Findings interpreted jointly",
+            "Improvement decisions agreed"
+          ],
+          "uid": "col_e421872d-9605-441e-94cd-1373942217e2"
+        },
+        {
+          "h": "Future action improved",
+          "boxes": [
+            "Learning improves future action"
+          ],
+          "uid": "col_fa09d453-a768-4e13-b480-d4c6b874e19b"
+        }
+      ],
+      "uid": "page_fa8b1b0c-411b-44e1-aa0b-c7ae7cd690cc"
+    },
+    {
+      "id": "p7",
+      "label": "AI-enabled delivery",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#e0e7ff",
+        "bdr": "#a5b4fc",
+        "tab": "#6366f1"
+      },
+      "cols": [
+        {
+          "h": "Responsible use conditions set",
+          "boxes": [
+            "Suitable use cases selected",
+            "Client approval obtained",
+            "Ground rules embedded",
+            "Secure data handling assured"
+          ],
+          "uid": "col_51e0a0cf-bb53-4a60-a985-aa1e79aba5ba"
+        },
+        {
+          "h": "Accountability retained",
+          "boxes": [
+            "Human oversight fixed"
+          ],
+          "uid": "col_3590e644-fd24-450e-9094-57bad1ead1fc"
+        },
+        {
+          "h": "Analytical workflow improved",
+          "boxes": [
+            "Analysis cycles accelerated",
+            "Evidence trail strengthened"
+          ],
+          "uid": "col_90640480-932b-4b64-a2f2-b4c6a601af60"
+        },
+        {
+          "h": "Responsible value realised",
+          "boxes": [
+            "Faster defensible advice delivered",
+            "Responsible AI confidence increased"
+          ],
+          "uid": "col_f9ccaca4-e0c1-46e9-abf6-4658b07a753b"
+        }
+      ],
+      "uid": "page_5d63cbe5-0343-408a-aed2-a9a30e60ddf4"
+    },
+    {
+      "id": "p8",
+      "label": "People, quality and business resilience",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#64748b"
+      },
+      "cols": [
+        {
+          "h": "Capability base strengthened",
+          "boxes": [
+            "Expert capability attracted",
+            "Diverse perspectives valued",
+            "Te Tiriti commitments practised"
+          ],
+          "uid": "col_cb1ba6f7-f5fd-47b6-a56a-ec5558454aa4"
+        },
+        {
+          "h": "Culture enacted",
+          "boxes": [
+            "Curiosity and challenge encouraged",
+            "Collaboration habits embedded",
+            "Senior leaders stay hands-on"
+          ],
+          "uid": "col_75dc810b-e01b-4584-9470-795cabb1eee5"
+        },
+        {
+          "h": "Delivery capacity protected",
+          "boxes": [
+            "Quality reviews applied",
+            "Workload and wellbeing balanced"
+          ],
+          "uid": "col_6bc4835a-5f49-4a55-84ba-df6423ba8c68"
+        },
+        {
+          "h": "Firm learns and adapts",
+          "boxes": [
+            "Client feedback used",
+            "Offer innovation sustained",
+            "Ethical operations strengthened"
+          ],
+          "uid": "col_4c88fb16-cc55-4a49-b790-712070b42f23"
+        },
+        {
+          "h": "Resilience maintained",
+          "boxes": [
+            "Trusted firm resilience sustained"
+          ],
+          "uid": "col_02268ca4-fbde-4ecc-a41c-0bb8e6263570"
+        }
+      ],
+      "uid": "page_6f845c39-50e1-4b24-b2c8-0620d1304fc0"
+    },
+    {
+      "id": "p9",
+      "label": "Client delivery workstreams",
+      "pageType": "how",
+      "howLevel": 1,
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#64748b"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Strategic direction assignments",
+          "uid": "box_b35f14ec-38b0-4f9c-b11c-71fb2137d125"
+        },
+        {
+          "id": "H002",
+          "label": "Organisation design assignments",
+          "uid": "box_35b8bdc7-3c05-404c-bad9-eb8831cd3b32"
+        },
+        {
+          "id": "H003",
+          "label": "Policy and regulatory reform",
+          "uid": "box_58f7c8b5-fb26-4402-b3e5-fa82b6ee9595"
+        },
+        {
+          "id": "H004",
+          "label": "Evaluation and insights programmes",
+          "uid": "box_cd2b7b1b-b554-4c9c-bc57-de24e0201e31"
+        },
+        {
+          "id": "H005",
+          "label": "Investment and business cases",
+          "uid": "box_980299c8-ad64-40ca-821a-99f4e3763d3a"
+        },
+        {
+          "id": "H006",
+          "label": "Economic and financial analysis",
+          "uid": "box_e043c544-595f-4b1c-854f-af95192b6c23"
+        },
+        {
+          "id": "H007",
+          "label": "Partnerships and engagement",
+          "uid": "box_29cec8ef-685e-4d76-8829-55788f38f598"
+        },
+        {
+          "id": "H008",
+          "label": "Implementation and change support",
+          "uid": "box_a71eea37-36d5-4f53-86f6-b23c6f254832"
+        },
+        {
+          "id": "H009",
+          "label": "AI-enabled analysis services",
+          "uid": "box_6414f2db-782d-4261-a5a3-fdf958d158e5"
+        },
+        {
+          "id": "H010",
+          "label": "Quality assurance improvement",
+          "uid": "box_245ffdf7-f2b6-4b61-854b-5b1ebe7f8dff"
+        },
+        {
+          "id": "H011",
+          "label": "Sector thought leadership",
+          "uid": "box_d5405767-d42b-4ddc-b7a0-6cf896e3dfbc"
+        },
+        {
+          "id": "H012",
+          "label": "Client relationship development",
+          "uid": "box_310d8b19-beab-42e1-b305-9886d6f1aed3"
+        }
+      ],
+      "nextHowNum": 13,
+      "uid": "page_24ee4b95-cddd-41c0-aedb-c06721cd4083"
+    },
+    {
+      "id": "p10",
+      "label": "Functions and leadership",
+      "pageType": "how",
+      "howLevel": 2,
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#475569"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Consulting leadership",
+          "uid": "box_b9face79-6a00-4ba8-996c-5aef938ba391"
+        },
+        {
+          "id": "H002",
+          "label": "Economics and investment team",
+          "uid": "box_38cd6ac4-8fd5-420a-a5cb-d672795169b1"
+        },
+        {
+          "id": "H003",
+          "label": "Evaluation and research team",
+          "uid": "box_577a735d-a5d6-456e-82a5-77a16284ff12"
+        },
+        {
+          "id": "H004",
+          "label": "Data and digital team",
+          "uid": "box_b2a6701a-8a86-4bcc-ba21-e076c631025c"
+        },
+        {
+          "id": "H005",
+          "label": "Engagement and communications team",
+          "uid": "box_6928d2ea-0ede-4c34-bc23-14d8c5e07065"
+        },
+        {
+          "id": "H006",
+          "label": "Strategy and development function",
+          "uid": "box_316b0d86-f040-428b-96b8-431f90d25e8e"
+        },
+        {
+          "id": "H007",
+          "label": "People and culture function",
+          "uid": "box_df8495c1-59eb-4834-a620-78d7289f71bc"
+        },
+        {
+          "id": "H008",
+          "label": "Board and corporate stewardship",
+          "uid": "box_6e25d7ef-5baa-4ce6-b107-b57f8791047b"
+        }
+      ],
+      "nextHowNum": 9,
+      "uid": "page_9102a5ee-2f32-419d-bf2a-e72a446c225c"
+    },
+    {
+      "id": "p11",
+      "label": "Competencies Cross-Link",
+      "pageType": "how",
+      "howLevel": null,
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#334155"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Public policy judgement",
+          "uid": "box_0fecd05f-d83b-4577-bc3f-655a153b51cd"
+        },
+        {
+          "id": "H002",
+          "label": "Economic modelling",
+          "uid": "box_18a259b3-0ddd-4eb3-8266-5ba27f1c50d9"
+        },
+        {
+          "id": "H003",
+          "label": "Qualitative research",
+          "uid": "box_3f105f11-76a8-44f4-8a2e-0743f6857b25"
+        },
+        {
+          "id": "H004",
+          "label": "Evaluation design",
+          "uid": "box_7f1bd4e1-632a-4f2b-bc92-2ca536f03c45"
+        },
+        {
+          "id": "H005",
+          "label": "Strategy facilitation",
+          "uid": "box_d4a7d47d-25fb-461d-bb29-6be888693c67"
+        },
+        {
+          "id": "H006",
+          "label": "Operating model design",
+          "uid": "box_efb233f1-2c31-4246-926f-6a649eaa2df7"
+        },
+        {
+          "id": "H007",
+          "label": "Investment logic",
+          "uid": "box_8ec9b85b-6fb4-490a-a684-7d70d6672314"
+        },
+        {
+          "id": "H008",
+          "label": "Treaty partnership practice",
+          "uid": "box_eb8398f5-942f-470f-9eb3-25a17b4d4fab"
+        },
+        {
+          "id": "H009",
+          "label": "Stakeholder engagement",
+          "uid": "box_5ebb036f-4fef-4db5-b286-122517dfef2b"
+        },
+        {
+          "id": "H010",
+          "label": "Data visualisation",
+          "uid": "box_d6c7f1b2-4e37-483e-aece-86b3d824e345"
+        },
+        {
+          "id": "H011",
+          "label": "AI assurance",
+          "uid": "box_08012fcc-784d-4f67-a8fc-ef9ce2f3f0da"
+        },
+        {
+          "id": "H012",
+          "label": "Programme delivery",
+          "uid": "box_2dc9ddcf-c8ec-4db8-a775-1db5d3643b76"
+        }
+      ],
+      "nextHowNum": 13,
+      "uid": "page_927e3114-3b41-49aa-a7d4-8a883fa1939c"
+    },
+    {
+      "id": "p12",
+      "label": "Purpose, scope, assumptions, sources and cautions",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#a855f8"
+      },
+      "cols": [],
+      "uid": "page_14798bb6-2eba-4304-9c1f-014bfef46320"
+    },
+    {
+      "id": "p13",
+      "label": "Illustrative monitoring and evaluation plan",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#9333ea"
+      },
+      "cols": [],
+      "uid": "page_4bf972be-96c0-45e8-b39c-f50f7c9cb399"
+    },
+    {
+      "id": "p14",
+      "label": "Using DoView Boards and Disclaimer",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#8b5cf6"
+      },
+      "cols": [],
+      "uid": "page_afd54cd7-5ec0-491b-9936-1a347eeb0a23"
+    }
+  ],
+  "finalOutcomes": [
+    "Trusted decisions strengthened",
+    "Lasting client and community impact created",
+    "MartinJenkins reputation and resilience sustained"
+  ],
+  "sources": [
+    {
+      "title": "Information about DoView Boards",
+      "url": "https://doviewplanning.org/doviewboards"
+    },
+    {
+      "title": "MartinJenkins homepage",
+      "url": "https://www.martinjenkins.co.nz/"
+    },
+    {
+      "title": "MartinJenkins services",
+      "url": "https://www.martinjenkins.co.nz/our-services"
+    },
+    {
+      "title": "MartinJenkins clients",
+      "url": "https://www.martinjenkins.co.nz/our-clients"
+    },
+    {
+      "title": "MartinJenkins story and values",
+      "url": "https://www.martinjenkins.co.nz/our-story"
+    },
+    {
+      "title": "MartinJenkins impact and quality standards",
+      "url": "https://www.martinjenkins.co.nz/our-impact"
+    },
+    {
+      "title": "MartinJenkins AI-powered solutions",
+      "url": "https://www.martinjenkins.co.nz/ai-powered-solutions"
+    },
+    {
+      "title": "MartinJenkins governance and growth news",
+      "url": "https://www.martinjenkins.co.nz/what-we-think/martinjenkins-appoints-new-independent-director"
+    }
+  ],
+  "savedState": {
+    "SP": [
+      {
+        "id": "p1",
+        "label": "Client needs, trust and mandate",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#dbeafe",
+          "bdr": "#93c5fd",
+          "tab": "#3b82f6"
+        },
+        "cols": [
+          {
+            "h": "Challenges and context surfaced",
+            "boxes": [
+              "Strategic challenge clarified",
+              "Decision pressures surfaced",
+              "Affected communities recognised",
+              "Public context understood"
+            ],
+            "uid": "col_36a93cb1-53c1-45d3-a1ca-04fa17d7fa8b"
+          },
+          {
+            "h": "Trusted dialogue established",
+            "boxes": [
+              "Client confidence established",
+              "Stakeholder perspectives heard",
+              "Shared problem framing agreed"
+            ],
+            "uid": "col_1368488a-a3b6-4e39-9772-6b38a03ed898"
+          },
+          {
+            "h": "Purposeful mandate formed",
+            "boxes": [
+              "Advisory mandate secured",
+              "Impact ambition made explicit"
+            ],
+            "uid": "col_7c865728-6d2b-421a-a1b8-59f40df4b688"
+          }
+        ],
+        "uid": "page_f387e15e-8830-4dd8-9e28-5176e806c2d9"
+      },
+      {
+        "id": "p2",
+        "label": "Commissioning and mobilisation",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#a855f8"
+        },
+        "cols": [
+          {
+            "h": "Commissioning realities understood",
+            "boxes": [
+              "Client outcome sought",
+              "Delivery constraints recognised"
+            ],
+            "uid": "col_228ea315-461d-4a95-971b-212e03146522"
+          },
+          {
+            "h": "Assignment designed",
+            "boxes": [
+              "Scope and questions agreed",
+              "Methods matched to purpose",
+              "Governance roles agreed",
+              "Commercial terms settled"
+            ],
+            "uid": "col_60a11ac4-dfb7-4346-bbad-c055691eec8a"
+          },
+          {
+            "h": "Delivery conditions assembled",
+            "boxes": [
+              "Team and expertise assembled",
+              "Evidence access arranged",
+              "Delivery rhythm established"
+            ],
+            "uid": "col_0bb4b90b-095b-4196-84b9-e8b6ecd21488"
+          },
+          {
+            "h": "Confident start achieved",
+            "boxes": [
+              "Project mobilised with confidence"
+            ],
+            "uid": "col_f45615ec-ecfe-4416-8089-3df909a24c09"
+          }
+        ],
+        "uid": "page_8a0fe847-24b6-4aa5-998f-1bb10c17cfc8"
+      },
+      {
+        "id": "p3",
+        "label": "Evidence and integrated analysis",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#ccfbf1",
+          "bdr": "#5eead4",
+          "tab": "#0d9488"
+        },
+        "cols": [
+          {
+            "h": "Evidence inputs prepared",
+            "boxes": [
+              "Evidence standards agreed",
+              "Relevant data assembled",
+              "Lived experience included"
+            ],
+            "uid": "col_7787d558-e3b5-4171-86df-60a2a03a8a11"
+          },
+          {
+            "h": "Evidence fitness tested",
+            "boxes": [
+              "Data quality tested",
+              "Knowledge gaps identified"
+            ],
+            "uid": "col_46ba1d4f-3e79-45d0-90f2-60bcf8b13ea0"
+          },
+          {
+            "h": "Specialist analyses completed",
+            "boxes": [
+              "Economic effects modelled",
+              "Policy options compared",
+              "Organisational dynamics diagnosed",
+              "Stakeholder insights synthesised"
+            ],
+            "uid": "col_aacfc81a-90f6-4d34-912a-ea0db039c7cd"
+          },
+          {
+            "h": "Integrated interpretation formed",
+            "boxes": [
+              "Findings triangulated",
+              "Uncertainty made transparent"
+            ],
+            "uid": "col_5b188a2b-59d8-44df-a45d-782573e00908"
+          },
+          {
+            "h": "Evidence confidence established",
+            "boxes": [
+              "Defensible evidence base established"
+            ],
+            "uid": "col_400c904f-528f-4196-a207-5c4b360c8d69"
+          }
+        ],
+        "uid": "page_2a86ec14-4b89-4e6a-a485-1ecef381d9e8"
+      },
+      {
+        "id": "p4",
+        "label": "Strategy, policy and investment advice",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#fef3c7",
+          "bdr": "#fde68a",
+          "tab": "#f59e0b"
+        },
+        "cols": [
+          {
+            "h": "Decision space structured",
+            "boxes": [
+              "Decision criteria agreed",
+              "Feasible options developed",
+              "Trade-offs exposed"
+            ],
+            "uid": "col_38ee4236-442e-41a4-8368-f1e5155428b8"
+          },
+          {
+            "h": "Advice disciplines applied",
+            "boxes": [
+              "Strategic direction translated",
+              "Regulatory consequences tested",
+              "Investment case strengthened"
+            ],
+            "uid": "col_9c8a2997-96cb-4aa0-a9e7-e1c3e4dd592b"
+          },
+          {
+            "h": "Recommendation focus achieved",
+            "boxes": [
+              "Recommendations prioritised"
+            ],
+            "uid": "col_74c5394b-6f52-4b23-baac-fa8572d2d813"
+          },
+          {
+            "h": "Decision capability strengthened",
+            "boxes": [
+              "Decision-ready advice delivered",
+              "Client ownership strengthened"
+            ],
+            "uid": "col_e30f1dc4-236d-447c-bbf8-2c0e36fb4833"
+          }
+        ],
+        "uid": "page_2a18c36b-afc6-46bb-ac31-02ab9eca31cc"
+      },
+      {
+        "id": "p5",
+        "label": "Implementation and engagement",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#fce7f3",
+          "bdr": "#f9a8d4",
+          "tab": "#db2777"
+        },
+        "cols": [
+          {
+            "h": "Readiness and partners assessed",
+            "boxes": [
+              "Change conditions assessed",
+              "Delivery partners identified"
+            ],
+            "uid": "col_932eada3-ccc4-4eca-b6ac-ea79c4776f24"
+          },
+          {
+            "h": "Delivery model shaped",
+            "boxes": [
+              "Operating model aligned",
+              "Engagement approach tailored"
+            ],
+            "uid": "col_327080cf-afef-4075-8fb3-8980674bdd13"
+          },
+          {
+            "h": "Collective action organised",
+            "boxes": [
+              "Implementation roadmap agreed",
+              "Responsibilities made clear",
+              "Communities engaged meaningfully"
+            ],
+            "uid": "col_52e53fbd-c1dc-488f-83bd-9f493f3706c3"
+          },
+          {
+            "h": "Execution supported",
+            "boxes": [
+              "Capabilities transferred",
+              "Risks addressed early"
+            ],
+            "uid": "col_f9ee796e-b082-4009-bcb1-7145556fbd7d"
+          },
+          {
+            "h": "Practice changed",
+            "boxes": [
+              "Change adopted in practice",
+              "Delivery adjusted responsively"
+            ],
+            "uid": "col_094f6f8f-5050-4386-ab14-e0058b96d531"
+          },
+          {
+            "h": "Benefits sustained",
+            "boxes": [
+              "Lasting benefits realised"
+            ],
+            "uid": "col_e40a27c6-6465-4d84-904e-c357610938b9"
+          }
+        ],
+        "uid": "page_d21910f4-e704-4e20-9c2c-75d74813e0a1"
+      },
+      {
+        "id": "p6",
+        "label": "Evaluation and learning",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#dcfce7",
+          "bdr": "#86efac",
+          "tab": "#16a34a"
+        },
+        "cols": [
+          {
+            "h": "Learning purpose clarified",
+            "boxes": [
+              "Purpose and users defined",
+              "Outcomes and assumptions clarified"
+            ],
+            "uid": "col_2e23cbaa-58de-4310-af73-c839b490ccfe"
+          },
+          {
+            "h": "Learning system designed",
+            "boxes": [
+              "Measures selected proportionately",
+              "Evaluation design fitted",
+              "Baseline evidence assembled",
+              "Data collection embedded"
+            ],
+            "uid": "col_434b332b-74fa-49e3-8e66-a108660cb0cd"
+          },
+          {
+            "h": "Performance interpreted",
+            "boxes": [
+              "Performance and impact assessed"
+            ],
+            "uid": "col_195b108b-f422-4c35-8acc-5023deb9328b"
+          },
+          {
+            "h": "Learning decisions made",
+            "boxes": [
+              "Findings interpreted jointly",
+              "Improvement decisions agreed"
+            ],
+            "uid": "col_e421872d-9605-441e-94cd-1373942217e2"
+          },
+          {
+            "h": "Future action improved",
+            "boxes": [
+              "Learning improves future action"
+            ],
+            "uid": "col_fa09d453-a768-4e13-b480-d4c6b874e19b"
+          }
+        ],
+        "uid": "page_fa8b1b0c-411b-44e1-aa0b-c7ae7cd690cc"
+      },
+      {
+        "id": "p7",
+        "label": "AI-enabled delivery",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#e0e7ff",
+          "bdr": "#a5b4fc",
+          "tab": "#6366f1"
+        },
+        "cols": [
+          {
+            "h": "Responsible use conditions set",
+            "boxes": [
+              "Suitable use cases selected",
+              "Client approval obtained",
+              "Ground rules embedded",
+              "Secure data handling assured"
+            ],
+            "uid": "col_51e0a0cf-bb53-4a60-a985-aa1e79aba5ba"
+          },
+          {
+            "h": "Accountability retained",
+            "boxes": [
+              "Human oversight fixed"
+            ],
+            "uid": "col_3590e644-fd24-450e-9094-57bad1ead1fc"
+          },
+          {
+            "h": "Analytical workflow improved",
+            "boxes": [
+              "Analysis cycles accelerated",
+              "Evidence trail strengthened"
+            ],
+            "uid": "col_90640480-932b-4b64-a2f2-b4c6a601af60"
+          },
+          {
+            "h": "Responsible value realised",
+            "boxes": [
+              "Faster defensible advice delivered",
+              "Responsible AI confidence increased"
+            ],
+            "uid": "col_f9ccaca4-e0c1-46e9-abf6-4658b07a753b"
+          }
+        ],
+        "uid": "page_5d63cbe5-0343-408a-aed2-a9a30e60ddf4"
+      },
+      {
+        "id": "p8",
+        "label": "People, quality and business resilience",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#64748b"
+        },
+        "cols": [
+          {
+            "h": "Capability base strengthened",
+            "boxes": [
+              "Expert capability attracted",
+              "Diverse perspectives valued",
+              "Te Tiriti commitments practised"
+            ],
+            "uid": "col_cb1ba6f7-f5fd-47b6-a56a-ec5558454aa4"
+          },
+          {
+            "h": "Culture enacted",
+            "boxes": [
+              "Curiosity and challenge encouraged",
+              "Collaboration habits embedded",
+              "Senior leaders stay hands-on"
+            ],
+            "uid": "col_75dc810b-e01b-4584-9470-795cabb1eee5"
+          },
+          {
+            "h": "Delivery capacity protected",
+            "boxes": [
+              "Quality reviews applied",
+              "Workload and wellbeing balanced"
+            ],
+            "uid": "col_6bc4835a-5f49-4a55-84ba-df6423ba8c68"
+          },
+          {
+            "h": "Firm learns and adapts",
+            "boxes": [
+              "Client feedback used",
+              "Offer innovation sustained",
+              "Ethical operations strengthened"
+            ],
+            "uid": "col_4c88fb16-cc55-4a49-b790-712070b42f23"
+          },
+          {
+            "h": "Resilience maintained",
+            "boxes": [
+              "Trusted firm resilience sustained"
+            ],
+            "uid": "col_02268ca4-fbde-4ecc-a41c-0bb8e6263570"
+          }
+        ],
+        "uid": "page_6f845c39-50e1-4b24-b2c8-0620d1304fc0"
+      },
+      {
+        "id": "p9",
+        "label": "Client delivery workstreams",
+        "pageType": "how",
+        "howLevel": 1,
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#64748b"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Strategic direction assignments",
+            "uid": "box_b35f14ec-38b0-4f9c-b11c-71fb2137d125"
+          },
+          {
+            "id": "H002",
+            "label": "Organisation design assignments",
+            "uid": "box_35b8bdc7-3c05-404c-bad9-eb8831cd3b32"
+          },
+          {
+            "id": "H003",
+            "label": "Policy and regulatory reform",
+            "uid": "box_58f7c8b5-fb26-4402-b3e5-fa82b6ee9595"
+          },
+          {
+            "id": "H004",
+            "label": "Evaluation and insights programmes",
+            "uid": "box_cd2b7b1b-b554-4c9c-bc57-de24e0201e31"
+          },
+          {
+            "id": "H005",
+            "label": "Investment and business cases",
+            "uid": "box_980299c8-ad64-40ca-821a-99f4e3763d3a"
+          },
+          {
+            "id": "H006",
+            "label": "Economic and financial analysis",
+            "uid": "box_e043c544-595f-4b1c-854f-af95192b6c23"
+          },
+          {
+            "id": "H007",
+            "label": "Partnerships and engagement",
+            "uid": "box_29cec8ef-685e-4d76-8829-55788f38f598"
+          },
+          {
+            "id": "H008",
+            "label": "Implementation and change support",
+            "uid": "box_a71eea37-36d5-4f53-86f6-b23c6f254832"
+          },
+          {
+            "id": "H009",
+            "label": "AI-enabled analysis services",
+            "uid": "box_6414f2db-782d-4261-a5a3-fdf958d158e5"
+          },
+          {
+            "id": "H010",
+            "label": "Quality assurance improvement",
+            "uid": "box_245ffdf7-f2b6-4b61-854b-5b1ebe7f8dff"
+          },
+          {
+            "id": "H011",
+            "label": "Sector thought leadership",
+            "uid": "box_d5405767-d42b-4ddc-b7a0-6cf896e3dfbc"
+          },
+          {
+            "id": "H012",
+            "label": "Client relationship development",
+            "uid": "box_310d8b19-beab-42e1-b305-9886d6f1aed3"
+          }
+        ],
+        "nextHowNum": 13,
+        "uid": "page_24ee4b95-cddd-41c0-aedb-c06721cd4083"
+      },
+      {
+        "id": "p10",
+        "label": "Functions and leadership",
+        "pageType": "how",
+        "howLevel": 2,
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#475569"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Consulting leadership",
+            "uid": "box_b9face79-6a00-4ba8-996c-5aef938ba391"
+          },
+          {
+            "id": "H002",
+            "label": "Economics and investment team",
+            "uid": "box_38cd6ac4-8fd5-420a-a5cb-d672795169b1"
+          },
+          {
+            "id": "H003",
+            "label": "Evaluation and research team",
+            "uid": "box_577a735d-a5d6-456e-82a5-77a16284ff12"
+          },
+          {
+            "id": "H004",
+            "label": "Data and digital team",
+            "uid": "box_b2a6701a-8a86-4bcc-ba21-e076c631025c"
+          },
+          {
+            "id": "H005",
+            "label": "Engagement and communications team",
+            "uid": "box_6928d2ea-0ede-4c34-bc23-14d8c5e07065"
+          },
+          {
+            "id": "H006",
+            "label": "Strategy and development function",
+            "uid": "box_316b0d86-f040-428b-96b8-431f90d25e8e"
+          },
+          {
+            "id": "H007",
+            "label": "People and culture function",
+            "uid": "box_df8495c1-59eb-4834-a620-78d7289f71bc"
+          },
+          {
+            "id": "H008",
+            "label": "Board and corporate stewardship",
+            "uid": "box_6e25d7ef-5baa-4ce6-b107-b57f8791047b"
+          }
+        ],
+        "nextHowNum": 9,
+        "uid": "page_9102a5ee-2f32-419d-bf2a-e72a446c225c"
+      },
+      {
+        "id": "p11",
+        "label": "Competencies Cross-Link",
+        "pageType": "how",
+        "howLevel": null,
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#334155"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Public policy judgement",
+            "uid": "box_0fecd05f-d83b-4577-bc3f-655a153b51cd"
+          },
+          {
+            "id": "H002",
+            "label": "Economic modelling",
+            "uid": "box_18a259b3-0ddd-4eb3-8266-5ba27f1c50d9"
+          },
+          {
+            "id": "H003",
+            "label": "Qualitative research",
+            "uid": "box_3f105f11-76a8-44f4-8a2e-0743f6857b25"
+          },
+          {
+            "id": "H004",
+            "label": "Evaluation design",
+            "uid": "box_7f1bd4e1-632a-4f2b-bc92-2ca536f03c45"
+          },
+          {
+            "id": "H005",
+            "label": "Strategy facilitation",
+            "uid": "box_d4a7d47d-25fb-461d-bb29-6be888693c67"
+          },
+          {
+            "id": "H006",
+            "label": "Operating model design",
+            "uid": "box_efb233f1-2c31-4246-926f-6a649eaa2df7"
+          },
+          {
+            "id": "H007",
+            "label": "Investment logic",
+            "uid": "box_8ec9b85b-6fb4-490a-a684-7d70d6672314"
+          },
+          {
+            "id": "H008",
+            "label": "Treaty partnership practice",
+            "uid": "box_eb8398f5-942f-470f-9eb3-25a17b4d4fab"
+          },
+          {
+            "id": "H009",
+            "label": "Stakeholder engagement",
+            "uid": "box_5ebb036f-4fef-4db5-b286-122517dfef2b"
+          },
+          {
+            "id": "H010",
+            "label": "Data visualisation",
+            "uid": "box_d6c7f1b2-4e37-483e-aece-86b3d824e345"
+          },
+          {
+            "id": "H011",
+            "label": "AI assurance",
+            "uid": "box_08012fcc-784d-4f67-a8fc-ef9ce2f3f0da"
+          },
+          {
+            "id": "H012",
+            "label": "Programme delivery",
+            "uid": "box_2dc9ddcf-c8ec-4db8-a775-1db5d3643b76"
+          }
+        ],
+        "nextHowNum": 13,
+        "uid": "page_927e3114-3b41-49aa-a7d4-8a883fa1939c"
+      },
+      {
+        "id": "p12",
+        "label": "Purpose, scope, assumptions, sources and cautions",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#a855f8"
+        },
+        "cols": [],
+        "uid": "page_14798bb6-2eba-4304-9c1f-014bfef46320"
+      },
+      {
+        "id": "p13",
+        "label": "Illustrative monitoring and evaluation plan",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#9333ea"
+        },
+        "cols": [],
+        "uid": "page_4bf972be-96c0-45e8-b39c-f50f7c9cb399"
+      },
+      {
+        "id": "p14",
+        "label": "Using DoView Boards and Disclaimer",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#8b5cf6"
+        },
+        "cols": [],
+        "uid": "page_afd54cd7-5ec0-491b-9936-1a347eeb0a23"
+      }
+    ],
+    "FO": [
+      "Trusted decisions strengthened",
+      "Lasting client and community impact created",
+      "MartinJenkins reputation and resilience sustained"
+    ],
+    "B": {
+      "p1-c0-b0": {
+        "label": "Strategic challenge clarified",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_14bbe7ee-7a8e-4e21-98d1-5f5ee3fde34d"
+      },
+      "p1-c0-b1": {
+        "label": "Decision pressures surfaced",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_09f79b3d-86b1-4ca2-aa42-efbb41ef1bbf"
+      },
+      "p1-c0-b2": {
+        "label": "Affected communities recognised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_7d9d2ca9-7d20-4ef9-a6dd-c4b3df8ec285"
+      },
+      "p1-c0-b3": {
+        "label": "Public context understood",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_b383f303-1eb2-4884-ada1-70e14b207e32"
+      },
+      "p1-c1-b0": {
+        "label": "Client confidence established",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_f3ca48c9-77d7-4145-9051-75552bef45f5"
+      },
+      "p1-c1-b1": {
+        "label": "Stakeholder perspectives heard",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_0e85a797-ed84-46da-b30b-0599b2349644"
+      },
+      "p1-c1-b2": {
+        "label": "Shared problem framing agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_9e167185-33dc-4eda-ad55-27a01f329472"
+      },
+      "p1-c2-b0": {
+        "label": "Advisory mandate secured",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M001"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a4d066cb-0466-45d5-bf9e-2aaabf679856"
+      },
+      "p1-c2-b1": {
+        "label": "Impact ambition made explicit",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ001"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_3efa55fc-5417-42c9-8b7a-f24f8dcc16ff"
+      },
+      "p2-c0-b0": {
+        "label": "Client outcome sought",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_97688b3c-528a-4afa-b169-c45d8f65bb69"
+      },
+      "p2-c0-b1": {
+        "label": "Delivery constraints recognised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_5d4d8c2c-4b7a-4cfc-8417-b6cf70bf6833"
+      },
+      "p2-c1-b0": {
+        "label": "Scope and questions agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_1aca8f7e-7320-47c9-b122-0c9e8a6c7007"
+      },
+      "p2-c1-b1": {
+        "label": "Methods matched to purpose",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_8da6b8b0-c56a-4b46-8f39-7d73e1a4d5ac"
+      },
+      "p2-c1-b2": {
+        "label": "Governance roles agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_b3c1d00e-683a-4190-81c8-2f42ea967332"
+      },
+      "p2-c1-b3": {
+        "label": "Commercial terms settled",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_6943db19-20ab-4283-ae3b-d85846e43aac"
+      },
+      "p2-c2-b0": {
+        "label": "Team and expertise assembled",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_1d120ff9-e778-4287-9395-4683156cf381"
+      },
+      "p2-c2-b1": {
+        "label": "Evidence access arranged",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_fc354483-0957-4463-b122-9b00cac03b12"
+      },
+      "p2-c2-b2": {
+        "label": "Delivery rhythm established",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_bcc26c13-3aeb-4124-b310-8d698a1453b5"
+      },
+      "p2-c3-b0": {
+        "label": "Project mobilised with confidence",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M002"
+        ],
+        "evalQuestions": [
+          "EQ002"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_76293ffc-f0dd-449a-9e7e-d26f4ab9345e"
+      },
+      "p3-c0-b0": {
+        "label": "Evidence standards agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_fe77bc9b-6424-42fc-a4a2-5a2540bfcb08"
+      },
+      "p3-c0-b1": {
+        "label": "Relevant data assembled",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a6ab25ed-5c18-4cad-8827-5978246e739e"
+      },
+      "p3-c0-b2": {
+        "label": "Lived experience included",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_61b57272-f40b-4474-8a30-82152badff32"
+      },
+      "p3-c1-b0": {
+        "label": "Data quality tested",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a37c17df-48c8-4b3a-8eb0-87364fa0ab5b"
+      },
+      "p3-c1-b1": {
+        "label": "Knowledge gaps identified",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_3a42ed62-ca1b-4ba9-bcbd-0908fcfb164e"
+      },
+      "p3-c2-b0": {
+        "label": "Economic effects modelled",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_9ee82d74-f396-4128-84ae-0e0ecf995ff5"
+      },
+      "p3-c2-b1": {
+        "label": "Policy options compared",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_1a9448d6-4c6c-4d49-bd23-7dfe9a0383d6"
+      },
+      "p3-c2-b2": {
+        "label": "Organisational dynamics diagnosed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_70ffa23e-7761-4a3e-8ecc-e463413777ce"
+      },
+      "p3-c2-b3": {
+        "label": "Stakeholder insights synthesised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_6dc893e8-7e00-4b9c-921d-5ddd9d35fc2c"
+      },
+      "p3-c3-b0": {
+        "label": "Findings triangulated",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_103a59f3-a9dc-4515-9095-424315017b7c"
+      },
+      "p3-c3-b1": {
+        "label": "Uncertainty made transparent",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ003"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_7861abce-f7cc-4166-a9ef-f67109404b6b"
+      },
+      "p3-c4-b0": {
+        "label": "Defensible evidence base established",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M003"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_8a3d93c7-12d8-4fbc-a2c6-2e588c3c37d4"
+      },
+      "p4-c0-b0": {
+        "label": "Decision criteria agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_377834ef-d022-4d64-944d-280868e8e1cb"
+      },
+      "p4-c0-b1": {
+        "label": "Feasible options developed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_6bfdcdda-a2bd-4c08-80e8-3b8ebd2f14b2"
+      },
+      "p4-c0-b2": {
+        "label": "Trade-offs exposed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_e435d691-f3fe-4a57-8abe-eca557227421"
+      },
+      "p4-c1-b0": {
+        "label": "Strategic direction translated",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_37f36223-1781-4270-8b31-1dd962c531fa"
+      },
+      "p4-c1-b1": {
+        "label": "Regulatory consequences tested",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a49e67f2-daf6-4fd4-81cd-527714d41dcc"
+      },
+      "p4-c1-b2": {
+        "label": "Investment case strengthened",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_426d4830-4b25-4f99-83fc-584a6a240c8a"
+      },
+      "p4-c2-b0": {
+        "label": "Recommendations prioritised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_8955b19e-b3eb-4e7c-86c2-4bc35173a531"
+      },
+      "p4-c3-b0": {
+        "label": "Decision-ready advice delivered",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M004"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_7051776a-4700-4f19-a35c-a646f00b8efe"
+      },
+      "p4-c3-b1": {
+        "label": "Client ownership strengthened",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ004"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_c0b65c02-5c1d-482d-a02c-5c4ac891e366"
+      },
+      "p5-c0-b0": {
+        "label": "Change conditions assessed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_ec43ce0f-d8a6-4ade-bcf6-44f47b99fde3"
+      },
+      "p5-c0-b1": {
+        "label": "Delivery partners identified",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_8dda63cd-1f52-4590-8e65-faaa0d4f13af"
+      },
+      "p5-c1-b0": {
+        "label": "Operating model aligned",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_170198b1-4e7b-4b78-993d-51eff890e66e"
+      },
+      "p5-c1-b1": {
+        "label": "Engagement approach tailored",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_85a9108b-b9b7-4fac-b0ba-8d2bc27b63a5"
+      },
+      "p5-c2-b0": {
+        "label": "Implementation roadmap agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_eeb2396e-162f-46ea-b277-d92bdcf23aeb"
+      },
+      "p5-c2-b1": {
+        "label": "Responsibilities made clear",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_f67ac4ed-adab-4293-bc66-cd439938dfc8"
+      },
+      "p5-c2-b2": {
+        "label": "Communities engaged meaningfully",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_f3381410-d247-4936-a2c2-2845382dd3cf"
+      },
+      "p5-c3-b0": {
+        "label": "Capabilities transferred",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_c1a0980f-b472-431f-bc7c-e76f680bece2"
+      },
+      "p5-c3-b1": {
+        "label": "Risks addressed early",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a3a9acbb-ea0d-4071-90e1-6a9f9c0c6b2e"
+      },
+      "p5-c4-b0": {
+        "label": "Change adopted in practice",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_ea064323-c0db-4add-8326-f8935cbdca62"
+      },
+      "p5-c4-b1": {
+        "label": "Delivery adjusted responsively",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_9d9d9fb9-3f4a-4d60-af96-b6c86f5e04cf"
+      },
+      "p5-c5-b0": {
+        "label": "Lasting benefits realised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M005"
+        ],
+        "evalQuestions": [
+          "EQ005"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_3b7813e1-1dd1-4abd-b33c-e16397251881"
+      },
+      "p6-c0-b0": {
+        "label": "Purpose and users defined",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_af72f960-c96e-4da1-9a70-5428e98aa174"
+      },
+      "p6-c0-b1": {
+        "label": "Outcomes and assumptions clarified",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_7afd28fd-72dd-4b37-9ce9-bb9ffdaae03f"
+      },
+      "p6-c1-b0": {
+        "label": "Measures selected proportionately",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_ac13b80d-d8b9-45a2-82c9-9eb24f7bc87e"
+      },
+      "p6-c1-b1": {
+        "label": "Evaluation design fitted",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_bc51bfab-5a26-46aa-84c1-0231a684403e"
+      },
+      "p6-c1-b2": {
+        "label": "Baseline evidence assembled",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_52b77d82-9207-4681-a782-49ef5405be66"
+      },
+      "p6-c1-b3": {
+        "label": "Data collection embedded",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_92080582-a5b6-4379-b2ae-01ce46510feb"
+      },
+      "p6-c2-b0": {
+        "label": "Performance and impact assessed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ006"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a08606c5-dea1-42f4-b7a0-a7a3e7256d7e"
+      },
+      "p6-c3-b0": {
+        "label": "Findings interpreted jointly",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_c6ca5087-3ca7-4255-8cfd-10a9647bc826"
+      },
+      "p6-c3-b1": {
+        "label": "Improvement decisions agreed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_5b76d496-beed-44c4-acab-02c43d0af9d4"
+      },
+      "p6-c4-b0": {
+        "label": "Learning improves future action",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M006"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_773c920e-fd1a-4610-a66e-72ff1e3c2da7"
+      },
+      "p7-c0-b0": {
+        "label": "Suitable use cases selected",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_6a2f08bf-f685-42ff-9341-6c0f400d03be"
+      },
+      "p7-c0-b1": {
+        "label": "Client approval obtained",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_1de3b695-bd88-48b3-b892-1587f9cb35cf"
+      },
+      "p7-c0-b2": {
+        "label": "Ground rules embedded",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_4526df1a-95bf-4d39-ab3f-e38f89f4016e"
+      },
+      "p7-c0-b3": {
+        "label": "Secure data handling assured",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a6287f9e-ff55-4601-9410-8a60c509d945"
+      },
+      "p7-c1-b0": {
+        "label": "Human oversight fixed",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_9466473a-c67d-4c56-9b67-bc8354c3ea74"
+      },
+      "p7-c2-b0": {
+        "label": "Analysis cycles accelerated",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_d794df8f-23aa-4c96-87dc-7bde6c0077c0"
+      },
+      "p7-c2-b1": {
+        "label": "Evidence trail strengthened",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_993dfa18-02dd-4e2c-97b9-2d0328577174"
+      },
+      "p7-c3-b0": {
+        "label": "Faster defensible advice delivered",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M007"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_ce086278-6969-47b5-bdf5-5051438ef9b0"
+      },
+      "p7-c3-b1": {
+        "label": "Responsible AI confidence increased",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ007"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_2f05400d-9018-44a0-abd7-1edf6dfd95f3"
+      },
+      "p8-c0-b0": {
+        "label": "Expert capability attracted",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_70d0d067-13cc-4ac8-b9f0-5c82934b4326"
+      },
+      "p8-c0-b1": {
+        "label": "Diverse perspectives valued",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_3f7a4382-9258-4175-9482-f0b3fe404553"
+      },
+      "p8-c0-b2": {
+        "label": "Te Tiriti commitments practised",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_c072ff52-8aa8-47a3-8dd6-b48f514ae4e0"
+      },
+      "p8-c1-b0": {
+        "label": "Curiosity and challenge encouraged",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_a6572cda-96a8-4647-8e91-56b909e6c86d"
+      },
+      "p8-c1-b1": {
+        "label": "Collaboration habits embedded",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_e815d48a-a386-4879-a0c8-5278942295b2"
+      },
+      "p8-c1-b2": {
+        "label": "Senior leaders stay hands-on",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_d6f841e5-e3df-4421-b842-1929df63ddb9"
+      },
+      "p8-c2-b0": {
+        "label": "Quality reviews applied",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [
+          "EQ009"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_bb06e282-afe0-442e-b947-d7a1c5fcf25b"
+      },
+      "p8-c2-b1": {
+        "label": "Workload and wellbeing balanced",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M008"
+        ],
+        "evalQuestions": [
+          "EQ008"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_31386364-67b2-4b37-bcfd-25e8681244d4"
+      },
+      "p8-c3-b0": {
+        "label": "Client feedback used",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M009"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_67240816-515e-4190-ac3f-d39f74e390ef"
+      },
+      "p8-c3-b1": {
+        "label": "Offer innovation sustained",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_af41d2be-7e6f-41a5-b4b4-017fb0088d35"
+      },
+      "p8-c3-b2": {
+        "label": "Ethical operations strengthened",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_145c7486-44f2-4fd1-8f10-39be60b9e1bd"
+      },
+      "p8-c4-b0": {
+        "label": "Trusted firm resilience sustained",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [
+          "M010"
+        ],
+        "evalQuestions": [
+          "EQ010"
+        ],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "hasSubpage": false,
+        "uid": "box_3fbcaf2f-4534-4ce6-9c3c-2f4514492a0c"
+      },
+      "p9-H001": {
+        "label": "Strategic direction assignments",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b35f14ec-38b0-4f9c-b11c-71fb2137d125",
+        "hasSubpage": false
+      },
+      "p9-H002": {
+        "label": "Organisation design assignments",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_35b8bdc7-3c05-404c-bad9-eb8831cd3b32",
+        "hasSubpage": false
+      },
+      "p9-H003": {
+        "label": "Policy and regulatory reform",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_58f7c8b5-fb26-4402-b3e5-fa82b6ee9595",
+        "hasSubpage": false
+      },
+      "p9-H004": {
+        "label": "Evaluation and insights programmes",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_cd2b7b1b-b554-4c9c-bc57-de24e0201e31",
+        "hasSubpage": false
+      },
+      "p9-H005": {
+        "label": "Investment and business cases",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_980299c8-ad64-40ca-821a-99f4e3763d3a",
+        "hasSubpage": false
+      },
+      "p9-H006": {
+        "label": "Economic and financial analysis",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e043c544-595f-4b1c-854f-af95192b6c23",
+        "hasSubpage": false
+      },
+      "p9-H007": {
+        "label": "Partnerships and engagement",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_29cec8ef-685e-4d76-8829-55788f38f598",
+        "hasSubpage": false
+      },
+      "p9-H008": {
+        "label": "Implementation and change support",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_a71eea37-36d5-4f53-86f6-b23c6f254832",
+        "hasSubpage": false
+      },
+      "p9-H009": {
+        "label": "AI-enabled analysis services",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6414f2db-782d-4261-a5a3-fdf958d158e5",
+        "hasSubpage": false
+      },
+      "p9-H010": {
+        "label": "Quality assurance improvement",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_245ffdf7-f2b6-4b61-854b-5b1ebe7f8dff",
+        "hasSubpage": false
+      },
+      "p9-H011": {
+        "label": "Sector thought leadership",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d5405767-d42b-4ddc-b7a0-6cf896e3dfbc",
+        "hasSubpage": false
+      },
+      "p9-H012": {
+        "label": "Client relationship development",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_310d8b19-beab-42e1-b305-9886d6f1aed3",
+        "hasSubpage": false
+      },
+      "p10-H001": {
+        "label": "Consulting leadership",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b9face79-6a00-4ba8-996c-5aef938ba391",
+        "hasSubpage": false
+      },
+      "p10-H002": {
+        "label": "Economics and investment team",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_38cd6ac4-8fd5-420a-a5cb-d672795169b1",
+        "hasSubpage": false
+      },
+      "p10-H003": {
+        "label": "Evaluation and research team",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_577a735d-a5d6-456e-82a5-77a16284ff12",
+        "hasSubpage": false
+      },
+      "p10-H004": {
+        "label": "Data and digital team",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b2a6701a-8a86-4bcc-ba21-e076c631025c",
+        "hasSubpage": false
+      },
+      "p10-H005": {
+        "label": "Engagement and communications team",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6928d2ea-0ede-4c34-bc23-14d8c5e07065",
+        "hasSubpage": false
+      },
+      "p10-H006": {
+        "label": "Strategy and development function",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_316b0d86-f040-428b-96b8-431f90d25e8e",
+        "hasSubpage": false
+      },
+      "p10-H007": {
+        "label": "People and culture function",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_df8495c1-59eb-4834-a620-78d7289f71bc",
+        "hasSubpage": false
+      },
+      "p10-H008": {
+        "label": "Board and corporate stewardship",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6e25d7ef-5baa-4ce6-b107-b57f8791047b",
+        "hasSubpage": false
+      },
+      "p11-H001": {
+        "label": "Public policy judgement",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_0fecd05f-d83b-4577-bc3f-655a153b51cd",
+        "hasSubpage": false
+      },
+      "p11-H002": {
+        "label": "Economic modelling",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_18a259b3-0ddd-4eb3-8266-5ba27f1c50d9",
+        "hasSubpage": false
+      },
+      "p11-H003": {
+        "label": "Qualitative research",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_3f105f11-76a8-44f4-8a2e-0743f6857b25",
+        "hasSubpage": false
+      },
+      "p11-H004": {
+        "label": "Evaluation design",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7f1bd4e1-632a-4f2b-bc92-2ca536f03c45",
+        "hasSubpage": false
+      },
+      "p11-H005": {
+        "label": "Strategy facilitation",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d4a7d47d-25fb-461d-bb29-6be888693c67",
+        "hasSubpage": false
+      },
+      "p11-H006": {
+        "label": "Operating model design",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_efb233f1-2c31-4246-926f-6a649eaa2df7",
+        "hasSubpage": false
+      },
+      "p11-H007": {
+        "label": "Investment logic",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_8ec9b85b-6fb4-490a-a684-7d70d6672314",
+        "hasSubpage": false
+      },
+      "p11-H008": {
+        "label": "Treaty partnership practice",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_eb8398f5-942f-470f-9eb3-25a17b4d4fab",
+        "hasSubpage": false
+      },
+      "p11-H009": {
+        "label": "Stakeholder engagement",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_5ebb036f-4fef-4db5-b286-122517dfef2b",
+        "hasSubpage": false
+      },
+      "p11-H010": {
+        "label": "Data visualisation",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d6c7f1b2-4e37-483e-aece-86b3d824e345",
+        "hasSubpage": false
+      },
+      "p11-H011": {
+        "label": "AI assurance",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_08012fcc-784d-4f67-a8fc-ef9ce2f3f0da",
+        "hasSubpage": false
+      },
+      "p11-H012": {
+        "label": "Programme delivery",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_2dc9ddcf-c8ec-4db8-a775-1db5d3643b76",
+        "hasSubpage": false
+      },
+      "final-b0": {
+        "label": "Trusted decisions strengthened",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "hasSubpage": false,
+        "detailText": "",
+        "borderColor": "",
+        "boxColor": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "jumpToPage": "",
+        "uid": "final_ba8b1ae0-f20f-426a-b29c-61fb278b9b75"
+      },
+      "final-b1": {
+        "label": "Lasting client and community impact created",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "hasSubpage": false,
+        "detailText": "",
+        "borderColor": "",
+        "boxColor": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "jumpToPage": "",
+        "uid": "final_5a378273-60dc-4fac-9ba4-1bd5b0c04f09"
+      },
+      "final-b2": {
+        "label": "MartinJenkins reputation and resilience sustained",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "hasSubpage": false,
+        "detailText": "",
+        "borderColor": "",
+        "boxColor": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "jumpToPage": "",
+        "uid": "final_da039a21-ceef-466d-8f3b-d5be23e4432b"
+      }
+    },
+    "ttLinks": [
+      {
+        "id": "ttl_1",
+        "from": "p1-c0-b0",
+        "to": "p1-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5fc8d50b-cc3e-4ecb-afc5-5f1fccde2fec"
+      },
+      {
+        "id": "ttl_2",
+        "from": "p1-c0-b1",
+        "to": "p1-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e0c4e645-4027-4bb4-a944-6fa972f8f11c"
+      },
+      {
+        "id": "ttl_3",
+        "from": "p1-c0-b1",
+        "to": "p1-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2b458078-ee18-466f-9f85-2f1f6cb48e7b"
+      },
+      {
+        "id": "ttl_4",
+        "from": "p1-c0-b2",
+        "to": "p1-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_cadbc7cf-1338-4401-ad64-e731cd8dbc9d"
+      },
+      {
+        "id": "ttl_5",
+        "from": "p1-c0-b3",
+        "to": "p1-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4f40bc7a-9ca3-4808-97e9-54599194824c"
+      },
+      {
+        "id": "ttl_6",
+        "from": "p1-c0-b3",
+        "to": "p1-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1a6db928-244f-4abb-b110-b3036037f796"
+      },
+      {
+        "id": "ttl_7",
+        "from": "p1-c1-b0",
+        "to": "p1-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c1e2290b-8f0b-4e95-b100-e1eb03d0ed38"
+      },
+      {
+        "id": "ttl_8",
+        "from": "p1-c1-b0",
+        "to": "p1-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_72ca5766-fb35-49d1-bd57-458bde462529"
+      },
+      {
+        "id": "ttl_9",
+        "from": "p1-c1-b1",
+        "to": "p1-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8ee0211e-2aa2-4110-a82f-2ed361ebe45d"
+      },
+      {
+        "id": "ttl_10",
+        "from": "p1-c1-b2",
+        "to": "p1-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4ed2298c-3c2f-4efe-a3b6-e0ae47780d59"
+      },
+      {
+        "id": "ttl_11",
+        "from": "p1-c1-b2",
+        "to": "p1-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_71c2cbd0-1553-4e55-aa48-c890f0188b87"
+      },
+      {
+        "id": "ttl_12",
+        "from": "p2-c0-b0",
+        "to": "p2-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7793626a-784b-44c2-b241-56e6726d8040"
+      },
+      {
+        "id": "ttl_13",
+        "from": "p2-c0-b0",
+        "to": "p2-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c375fe8d-d7de-454e-8c52-38c90544efcf"
+      },
+      {
+        "id": "ttl_14",
+        "from": "p2-c0-b0",
+        "to": "p2-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_10d44cd7-1536-4a2b-ac9f-3267ada54769"
+      },
+      {
+        "id": "ttl_15",
+        "from": "p2-c0-b1",
+        "to": "p2-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_431b1fee-8338-4972-adb0-f90cef39c7ff"
+      },
+      {
+        "id": "ttl_16",
+        "from": "p2-c0-b1",
+        "to": "p2-c1-b3",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7b91e8f3-b743-42dd-8686-53633cd702bb"
+      },
+      {
+        "id": "ttl_17",
+        "from": "p2-c1-b0",
+        "to": "p2-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_cf2c8470-d808-463f-a5b1-e9cbcb443e62"
+      },
+      {
+        "id": "ttl_18",
+        "from": "p2-c1-b1",
+        "to": "p2-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_88113d92-9b56-4c2c-9518-c0592d4a07f6"
+      },
+      {
+        "id": "ttl_19",
+        "from": "p2-c1-b1",
+        "to": "p2-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e648fc3a-2b10-4fcc-9807-5623abb5fec2"
+      },
+      {
+        "id": "ttl_20",
+        "from": "p2-c1-b2",
+        "to": "p2-c2-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d0706450-8640-41bf-9dc9-31ab3be6be5c"
+      },
+      {
+        "id": "ttl_21",
+        "from": "p2-c1-b3",
+        "to": "p2-c2-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_3053dd7e-d738-4f05-afbd-9c75f4074a45"
+      },
+      {
+        "id": "ttl_22",
+        "from": "p2-c2-b0",
+        "to": "p2-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5bec878f-3f8e-4cb0-9cbb-f79255249df6"
+      },
+      {
+        "id": "ttl_23",
+        "from": "p2-c2-b1",
+        "to": "p2-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_ef244036-de6b-42f5-aebc-72e204817fb8"
+      },
+      {
+        "id": "ttl_24",
+        "from": "p2-c2-b2",
+        "to": "p2-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_44ff9013-27fa-43c2-8e3c-b94dece6bb3f"
+      },
+      {
+        "id": "ttl_25",
+        "from": "p3-c0-b0",
+        "to": "p3-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7ce1cc65-6c0f-41c2-b51a-508bbb378380"
+      },
+      {
+        "id": "ttl_26",
+        "from": "p3-c0-b1",
+        "to": "p3-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_ee17d378-f742-41ba-9a89-9f59e0eb182b"
+      },
+      {
+        "id": "ttl_27",
+        "from": "p3-c0-b1",
+        "to": "p3-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0959a4f5-0b72-4e2c-b9c3-d4bfae2fe2d7"
+      },
+      {
+        "id": "ttl_28",
+        "from": "p3-c0-b2",
+        "to": "p3-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d38b8f89-abfd-4ea5-8ec9-64babba4025d"
+      },
+      {
+        "id": "ttl_29",
+        "from": "p3-c1-b0",
+        "to": "p3-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_edceda9d-355d-4c74-8489-2e8e5501ac81"
+      },
+      {
+        "id": "ttl_30",
+        "from": "p3-c1-b0",
+        "to": "p3-c2-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_22187b13-fb2b-4ace-adfd-8934168cf72f"
+      },
+      {
+        "id": "ttl_31",
+        "from": "p3-c1-b1",
+        "to": "p3-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_36a0c72b-fd4c-46e4-9e64-4ee1cbbd27ae"
+      },
+      {
+        "id": "ttl_32",
+        "from": "p3-c1-b1",
+        "to": "p3-c2-b3",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_24b66596-e606-4430-86b6-e2e0ab5fa772"
+      },
+      {
+        "id": "ttl_33",
+        "from": "p3-c2-b0",
+        "to": "p3-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6071a4eb-93e1-42af-83a9-c0d28dae900d"
+      },
+      {
+        "id": "ttl_34",
+        "from": "p3-c2-b1",
+        "to": "p3-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0368a12d-10cd-4353-8f92-75e833e51520"
+      },
+      {
+        "id": "ttl_35",
+        "from": "p3-c2-b2",
+        "to": "p3-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c34cc770-d940-4d8d-8ec4-9d75f0aa90e2"
+      },
+      {
+        "id": "ttl_36",
+        "from": "p3-c2-b2",
+        "to": "p3-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a970c1dd-62f8-47bc-9716-2324127d889a"
+      },
+      {
+        "id": "ttl_37",
+        "from": "p3-c2-b3",
+        "to": "p3-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4dd25fad-e849-4e60-b9cf-4fedd43cc01b"
+      },
+      {
+        "id": "ttl_38",
+        "from": "p3-c2-b3",
+        "to": "p3-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1183e1c5-09df-42c6-ad04-2a9105a7e428"
+      },
+      {
+        "id": "ttl_39",
+        "from": "p3-c3-b0",
+        "to": "p3-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b33769cc-aaab-46f6-94ee-72a9586abbf7"
+      },
+      {
+        "id": "ttl_40",
+        "from": "p3-c3-b1",
+        "to": "p3-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_09c11ad6-4a6c-4c19-a031-b5d18f72a35f"
+      },
+      {
+        "id": "ttl_41",
+        "from": "p4-c0-b0",
+        "to": "p4-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8ca790d9-923d-4097-ab76-65fc19fd3da7"
+      },
+      {
+        "id": "ttl_42",
+        "from": "p4-c0-b0",
+        "to": "p4-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e8001b35-f2e6-4921-8683-7303efe4a828"
+      },
+      {
+        "id": "ttl_43",
+        "from": "p4-c0-b1",
+        "to": "p4-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_419e3832-cded-4f21-85d8-340988bb351e"
+      },
+      {
+        "id": "ttl_44",
+        "from": "p4-c0-b1",
+        "to": "p4-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5c555736-b1e0-4063-bf9e-009e19b4ec39"
+      },
+      {
+        "id": "ttl_45",
+        "from": "p4-c0-b2",
+        "to": "p4-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d121cf67-72a8-4599-81df-a60a6bfe0bad"
+      },
+      {
+        "id": "ttl_46",
+        "from": "p4-c0-b2",
+        "to": "p4-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e5f1ddb5-79b4-4b16-a31c-c35412d42b6d"
+      },
+      {
+        "id": "ttl_47",
+        "from": "p4-c1-b0",
+        "to": "p4-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7b26b832-eba1-4936-99a0-17d27d387527"
+      },
+      {
+        "id": "ttl_48",
+        "from": "p4-c1-b1",
+        "to": "p4-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7d0fd8f6-b3f9-467f-b9a9-3a3554b0864a"
+      },
+      {
+        "id": "ttl_49",
+        "from": "p4-c1-b2",
+        "to": "p4-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e8aeb5ba-d5ac-4abb-976d-e548c17b7f00"
+      },
+      {
+        "id": "ttl_50",
+        "from": "p4-c2-b0",
+        "to": "p4-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_764b2248-c129-4223-9ecc-39bb54437a65"
+      },
+      {
+        "id": "ttl_51",
+        "from": "p4-c2-b0",
+        "to": "p4-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_92958098-dc8f-457f-921e-322da251297a"
+      },
+      {
+        "id": "ttl_52",
+        "from": "p5-c0-b0",
+        "to": "p5-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d8d8ab7c-9a03-46dc-9034-29b26dab5989"
+      },
+      {
+        "id": "ttl_53",
+        "from": "p5-c0-b0",
+        "to": "p5-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8c449e65-c531-4b94-b60f-7398adeecec6"
+      },
+      {
+        "id": "ttl_54",
+        "from": "p5-c0-b1",
+        "to": "p5-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c067d03b-d88b-4a9f-a4a0-c09b55a3bf0d"
+      },
+      {
+        "id": "ttl_55",
+        "from": "p5-c1-b0",
+        "to": "p5-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4befdb5e-0b10-4b0c-88da-61c8f24f27bf"
+      },
+      {
+        "id": "ttl_56",
+        "from": "p5-c1-b0",
+        "to": "p5-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_f877e089-8066-45c2-83a8-84c4bc849924"
+      },
+      {
+        "id": "ttl_57",
+        "from": "p5-c1-b1",
+        "to": "p5-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1c4e7ebe-1164-40e0-8b56-5d465841d91e"
+      },
+      {
+        "id": "ttl_58",
+        "from": "p5-c1-b1",
+        "to": "p5-c2-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_760ab2a9-6182-46a0-84f9-2af1eea33675"
+      },
+      {
+        "id": "ttl_59",
+        "from": "p5-c2-b0",
+        "to": "p5-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_22647853-c78b-4eee-ab12-d35ffd472625"
+      },
+      {
+        "id": "ttl_60",
+        "from": "p5-c2-b1",
+        "to": "p5-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b274dff9-4686-439d-aa23-d9b5b24495da"
+      },
+      {
+        "id": "ttl_61",
+        "from": "p5-c2-b2",
+        "to": "p5-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a7a1ac63-b6a1-4461-8546-b2e87628e511"
+      },
+      {
+        "id": "ttl_62",
+        "from": "p5-c3-b0",
+        "to": "p5-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8e5ad4f2-831c-4089-afaf-6cc854f734c7"
+      },
+      {
+        "id": "ttl_63",
+        "from": "p5-c3-b0",
+        "to": "p5-c4-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_284783dc-8f5b-4def-b62e-faec2d3bfbde"
+      },
+      {
+        "id": "ttl_64",
+        "from": "p5-c3-b1",
+        "to": "p5-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4e72b497-504b-4bc2-b94d-584b82f8057b"
+      },
+      {
+        "id": "ttl_65",
+        "from": "p5-c3-b1",
+        "to": "p5-c4-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_71a7dbd0-2645-42db-87a1-cce4033e0672"
+      },
+      {
+        "id": "ttl_66",
+        "from": "p5-c4-b0",
+        "to": "p5-c5-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_3bacc8c1-1955-4d70-81c2-5ad56849d25f"
+      },
+      {
+        "id": "ttl_67",
+        "from": "p5-c4-b1",
+        "to": "p5-c5-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b44059c8-4bfe-45ce-842a-29d2ca224bbf"
+      },
+      {
+        "id": "ttl_68",
+        "from": "p6-c0-b0",
+        "to": "p6-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_37821fbb-2571-4ffd-bfc9-ff6b471a02ad"
+      },
+      {
+        "id": "ttl_69",
+        "from": "p6-c0-b0",
+        "to": "p6-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_51049c73-7b1b-4fde-a4bf-8f4a3ad30159"
+      },
+      {
+        "id": "ttl_70",
+        "from": "p6-c0-b1",
+        "to": "p6-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0254c69d-622a-443f-960f-7c9c48529d86"
+      },
+      {
+        "id": "ttl_71",
+        "from": "p6-c0-b1",
+        "to": "p6-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7fdbcff1-a1d9-4894-a794-46eeeb479d6a"
+      },
+      {
+        "id": "ttl_72",
+        "from": "p6-c0-b1",
+        "to": "p6-c1-b3",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_128fe2b5-732c-498f-a6bc-c55603d4beca"
+      },
+      {
+        "id": "ttl_73",
+        "from": "p6-c1-b0",
+        "to": "p6-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2d08db31-3227-41f0-a56b-49c92ea677a4"
+      },
+      {
+        "id": "ttl_74",
+        "from": "p6-c1-b1",
+        "to": "p6-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_14bbb5aa-aff7-47e3-b109-645f30a3b9e8"
+      },
+      {
+        "id": "ttl_75",
+        "from": "p6-c1-b2",
+        "to": "p6-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1d4a6311-7c60-4e57-883c-2c563b755f48"
+      },
+      {
+        "id": "ttl_76",
+        "from": "p6-c1-b3",
+        "to": "p6-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_bf6f814a-be4e-4c22-a598-f81e52ba6102"
+      },
+      {
+        "id": "ttl_77",
+        "from": "p6-c2-b0",
+        "to": "p6-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5b6be351-c115-4973-90f5-b9bdbfa8b674"
+      },
+      {
+        "id": "ttl_78",
+        "from": "p6-c2-b0",
+        "to": "p6-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c3484d7f-22a4-4860-965e-2b4a576cff50"
+      },
+      {
+        "id": "ttl_79",
+        "from": "p6-c3-b0",
+        "to": "p6-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_bc465df3-a190-40a7-931d-6b5a3e9c2e9d"
+      },
+      {
+        "id": "ttl_80",
+        "from": "p6-c3-b1",
+        "to": "p6-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_65fcbd57-4cc5-4306-844b-1909ed6165f1"
+      },
+      {
+        "id": "ttl_81",
+        "from": "p7-c0-b0",
+        "to": "p7-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_01fbc46e-5ade-448c-aa80-e0c35a9da8d5"
+      },
+      {
+        "id": "ttl_82",
+        "from": "p7-c0-b1",
+        "to": "p7-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0ef16ad0-4f23-4b32-83f7-f9793aaa76b5"
+      },
+      {
+        "id": "ttl_83",
+        "from": "p7-c0-b2",
+        "to": "p7-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_ed90c683-8f27-4163-8044-37b545712692"
+      },
+      {
+        "id": "ttl_84",
+        "from": "p7-c0-b3",
+        "to": "p7-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_ce01157d-c064-46ae-8e65-3f8fccf330f5"
+      },
+      {
+        "id": "ttl_85",
+        "from": "p7-c1-b0",
+        "to": "p7-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d0addf23-d8ab-4797-8691-dbcb1eced754"
+      },
+      {
+        "id": "ttl_86",
+        "from": "p7-c1-b0",
+        "to": "p7-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0de0f3e1-8913-46dc-8bdf-fd10715c8ba6"
+      },
+      {
+        "id": "ttl_87",
+        "from": "p7-c2-b0",
+        "to": "p7-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d61c6ecb-9472-4f48-bc84-cfd2f4409652"
+      },
+      {
+        "id": "ttl_88",
+        "from": "p7-c2-b1",
+        "to": "p7-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_607293f0-cd8e-4dec-a463-42ea3aec8442"
+      },
+      {
+        "id": "ttl_89",
+        "from": "p7-c2-b1",
+        "to": "p7-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_15330102-42d3-4380-a2c5-84ec3bdcf4b5"
+      },
+      {
+        "id": "ttl_90",
+        "from": "p8-c0-b0",
+        "to": "p8-c1-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_93ebe44c-9d59-49cd-bc38-3270966ddef5"
+      },
+      {
+        "id": "ttl_91",
+        "from": "p8-c0-b0",
+        "to": "p8-c1-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_47af3861-8db7-4745-b910-9dd0f38b85b3"
+      },
+      {
+        "id": "ttl_92",
+        "from": "p8-c0-b1",
+        "to": "p8-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c668c8ca-fea6-4328-bc6e-fcee14b14418"
+      },
+      {
+        "id": "ttl_93",
+        "from": "p8-c0-b2",
+        "to": "p8-c1-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_692045c0-29ca-4b89-9264-4ef08f8f5942"
+      },
+      {
+        "id": "ttl_94",
+        "from": "p8-c1-b0",
+        "to": "p8-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b4d5a07f-3b42-4a0e-8637-f8d19fad57b2"
+      },
+      {
+        "id": "ttl_95",
+        "from": "p8-c1-b1",
+        "to": "p8-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_85627c95-2e44-49ef-b093-82c34bac316a"
+      },
+      {
+        "id": "ttl_96",
+        "from": "p8-c1-b2",
+        "to": "p8-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5f2b735b-dbe1-4bf2-9872-6eb2bc19925e"
+      },
+      {
+        "id": "ttl_97",
+        "from": "p8-c1-b2",
+        "to": "p8-c2-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1c1a928c-81a5-42f5-a37c-f1f33c72acc2"
+      },
+      {
+        "id": "ttl_98",
+        "from": "p8-c2-b0",
+        "to": "p8-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2147d96d-fbf5-4593-8c54-51360cf0884b"
+      },
+      {
+        "id": "ttl_99",
+        "from": "p8-c2-b0",
+        "to": "p8-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0d82d519-6689-478d-a86d-5ec835bfc081"
+      },
+      {
+        "id": "ttl_100",
+        "from": "p8-c2-b1",
+        "to": "p8-c3-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2a858bc7-e3b5-4166-9339-5fe757ce9d2e"
+      },
+      {
+        "id": "ttl_101",
+        "from": "p8-c2-b1",
+        "to": "p8-c3-b2",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2adda1f6-b32f-40dc-8edb-65a2c1660664"
+      },
+      {
+        "id": "ttl_102",
+        "from": "p8-c3-b0",
+        "to": "p8-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_26e3c7d7-5b7e-4ecc-a118-454000f80e06"
+      },
+      {
+        "id": "ttl_103",
+        "from": "p8-c3-b1",
+        "to": "p8-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_620b7a3a-e923-4311-acd7-bd71a901f28c"
+      },
+      {
+        "id": "ttl_104",
+        "from": "p8-c3-b2",
+        "to": "p8-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_00975df1-50ba-4c44-816f-5b61688146ab"
+      },
+      {
+        "id": "ttl_105",
+        "from": "p1-c2-b0",
+        "to": "p2-c0-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_3a3acbd1-c991-407d-bb17-0290917f675a"
+      },
+      {
+        "id": "ttl_106",
+        "from": "p2-c3-b0",
+        "to": "p3-c0-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b6c1abce-4c5b-431d-bec3-6f2da1cf8700"
+      },
+      {
+        "id": "ttl_107",
+        "from": "p3-c4-b0",
+        "to": "p4-c0-b1",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2399e907-7a0a-4bfb-bab1-c39c0fd4c85e"
+      },
+      {
+        "id": "ttl_108",
+        "from": "p4-c3-b0",
+        "to": "p5-c2-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2f6f732a-af04-490f-be0e-8b10033247f9"
+      },
+      {
+        "id": "ttl_109",
+        "from": "p5-c2-b0",
+        "to": "p6-c0-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_61844ef1-b77e-4c79-9c31-b29c67de5ed2"
+      },
+      {
+        "id": "ttl_110",
+        "from": "p6-c4-b0",
+        "to": "p4-c0-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6d0c3381-63b4-4fe5-ba54-8b0948896c30"
+      },
+      {
+        "id": "ttl_111",
+        "from": "p7-c3-b0",
+        "to": "p4-c3-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_86f0da68-b5ad-4838-a089-62c2e31b8b77"
+      },
+      {
+        "id": "ttl_112",
+        "from": "p8-c2-b0",
+        "to": "p3-c4-b0",
+        "polarity": "positive",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b96795cb-7022-4644-bdbe-167b5e77dd29"
+      }
+    ],
+    "ttLinkNextId": 113,
+    "howLinks": [
+      {
+        "id": "hwl_1",
+        "from": "p9-H001",
+        "to": "p1-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_001"
+      },
+      {
+        "id": "hwl_2",
+        "from": "p9-H001",
+        "to": "p4-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_002"
+      },
+      {
+        "id": "hwl_3",
+        "from": "p9-H001",
+        "to": "p4-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_003"
+      },
+      {
+        "id": "hwl_4",
+        "from": "p9-H001",
+        "to": "p4-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_004"
+      },
+      {
+        "id": "hwl_5",
+        "from": "p9-H002",
+        "to": "p3-c2-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_005"
+      },
+      {
+        "id": "hwl_6",
+        "from": "p9-H002",
+        "to": "p5-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_006"
+      },
+      {
+        "id": "hwl_7",
+        "from": "p9-H002",
+        "to": "p5-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_007"
+      },
+      {
+        "id": "hwl_8",
+        "from": "p9-H003",
+        "to": "p3-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_008"
+      },
+      {
+        "id": "hwl_9",
+        "from": "p9-H003",
+        "to": "p4-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_009"
+      },
+      {
+        "id": "hwl_10",
+        "from": "p9-H003",
+        "to": "p4-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_010"
+      },
+      {
+        "id": "hwl_11",
+        "from": "p9-H004",
+        "to": "p6-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_011"
+      },
+      {
+        "id": "hwl_12",
+        "from": "p9-H004",
+        "to": "p6-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_012"
+      },
+      {
+        "id": "hwl_13",
+        "from": "p9-H004",
+        "to": "p6-c4-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_013"
+      },
+      {
+        "id": "hwl_14",
+        "from": "p9-H005",
+        "to": "p3-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_014"
+      },
+      {
+        "id": "hwl_15",
+        "from": "p9-H005",
+        "to": "p4-c0-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_015"
+      },
+      {
+        "id": "hwl_16",
+        "from": "p9-H005",
+        "to": "p4-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_016"
+      },
+      {
+        "id": "hwl_17",
+        "from": "p9-H005",
+        "to": "p4-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_017"
+      },
+      {
+        "id": "hwl_18",
+        "from": "p9-H006",
+        "to": "p3-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_018"
+      },
+      {
+        "id": "hwl_19",
+        "from": "p9-H006",
+        "to": "p3-c4-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_019"
+      },
+      {
+        "id": "hwl_20",
+        "from": "p9-H006",
+        "to": "p4-c0-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_020"
+      },
+      {
+        "id": "hwl_21",
+        "from": "p9-H007",
+        "to": "p1-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_021"
+      },
+      {
+        "id": "hwl_22",
+        "from": "p9-H007",
+        "to": "p5-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_022"
+      },
+      {
+        "id": "hwl_23",
+        "from": "p9-H007",
+        "to": "p5-c2-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_023"
+      },
+      {
+        "id": "hwl_24",
+        "from": "p9-H007",
+        "to": "p4-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_024"
+      },
+      {
+        "id": "hwl_25",
+        "from": "p9-H008",
+        "to": "p5-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_025"
+      },
+      {
+        "id": "hwl_26",
+        "from": "p9-H008",
+        "to": "p5-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_026"
+      },
+      {
+        "id": "hwl_27",
+        "from": "p9-H008",
+        "to": "p5-c4-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_027"
+      },
+      {
+        "id": "hwl_28",
+        "from": "p9-H008",
+        "to": "p5-c5-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_028"
+      },
+      {
+        "id": "hwl_29",
+        "from": "p9-H009",
+        "to": "p7-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_029"
+      },
+      {
+        "id": "hwl_30",
+        "from": "p9-H009",
+        "to": "p7-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_030"
+      },
+      {
+        "id": "hwl_31",
+        "from": "p9-H009",
+        "to": "p7-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_031"
+      },
+      {
+        "id": "hwl_32",
+        "from": "p9-H009",
+        "to": "p7-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_032"
+      },
+      {
+        "id": "hwl_33",
+        "from": "p9-H009",
+        "to": "p7-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_033"
+      },
+      {
+        "id": "hwl_34",
+        "from": "p9-H010",
+        "to": "p3-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_034"
+      },
+      {
+        "id": "hwl_35",
+        "from": "p9-H010",
+        "to": "p3-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_035"
+      },
+      {
+        "id": "hwl_36",
+        "from": "p9-H010",
+        "to": "p3-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_036"
+      },
+      {
+        "id": "hwl_37",
+        "from": "p9-H010",
+        "to": "p3-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_037"
+      },
+      {
+        "id": "hwl_38",
+        "from": "p9-H010",
+        "to": "p8-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_038"
+      },
+      {
+        "id": "hwl_39",
+        "from": "p9-H011",
+        "to": "p1-c0-b3",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_039"
+      },
+      {
+        "id": "hwl_40",
+        "from": "p9-H011",
+        "to": "p4-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_040"
+      },
+      {
+        "id": "hwl_41",
+        "from": "p9-H011",
+        "to": "p4-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_041"
+      },
+      {
+        "id": "hwl_42",
+        "from": "p9-H012",
+        "to": "p1-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_042"
+      },
+      {
+        "id": "hwl_43",
+        "from": "p9-H012",
+        "to": "p1-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_043"
+      },
+      {
+        "id": "hwl_44",
+        "from": "p9-H012",
+        "to": "p1-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_044"
+      },
+      {
+        "id": "hwl_45",
+        "from": "p9-H012",
+        "to": "p4-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_045"
+      },
+      {
+        "id": "hwl_46",
+        "from": "p10-H001",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_046"
+      },
+      {
+        "id": "hwl_47",
+        "from": "p10-H001",
+        "to": "p9-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_047"
+      },
+      {
+        "id": "hwl_48",
+        "from": "p10-H001",
+        "to": "p9-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_048"
+      },
+      {
+        "id": "hwl_49",
+        "from": "p10-H001",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_049"
+      },
+      {
+        "id": "hwl_50",
+        "from": "p10-H001",
+        "to": "p9-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_050"
+      },
+      {
+        "id": "hwl_51",
+        "from": "p10-H002",
+        "to": "p9-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_051"
+      },
+      {
+        "id": "hwl_52",
+        "from": "p10-H002",
+        "to": "p9-H005",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_052"
+      },
+      {
+        "id": "hwl_53",
+        "from": "p10-H002",
+        "to": "p9-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_053"
+      },
+      {
+        "id": "hwl_54",
+        "from": "p10-H003",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_054"
+      },
+      {
+        "id": "hwl_55",
+        "from": "p10-H003",
+        "to": "p9-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_055"
+      },
+      {
+        "id": "hwl_56",
+        "from": "p10-H003",
+        "to": "p9-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_056"
+      },
+      {
+        "id": "hwl_57",
+        "from": "p10-H004",
+        "to": "p9-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_057"
+      },
+      {
+        "id": "hwl_58",
+        "from": "p10-H004",
+        "to": "p9-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_058"
+      },
+      {
+        "id": "hwl_59",
+        "from": "p10-H004",
+        "to": "p9-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_059"
+      },
+      {
+        "id": "hwl_60",
+        "from": "p10-H005",
+        "to": "p9-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_060"
+      },
+      {
+        "id": "hwl_61",
+        "from": "p10-H005",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_061"
+      },
+      {
+        "id": "hwl_62",
+        "from": "p10-H005",
+        "to": "p9-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_062"
+      },
+      {
+        "id": "hwl_63",
+        "from": "p10-H006",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_063"
+      },
+      {
+        "id": "hwl_64",
+        "from": "p10-H006",
+        "to": "p9-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_064"
+      },
+      {
+        "id": "hwl_65",
+        "from": "p10-H006",
+        "to": "p9-H005",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_065"
+      },
+      {
+        "id": "hwl_66",
+        "from": "p10-H006",
+        "to": "p9-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_066"
+      },
+      {
+        "id": "hwl_67",
+        "from": "p10-H006",
+        "to": "p9-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_067"
+      },
+      {
+        "id": "hwl_68",
+        "from": "p10-H007",
+        "to": "p9-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_068"
+      },
+      {
+        "id": "hwl_69",
+        "from": "p10-H007",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_069"
+      },
+      {
+        "id": "hwl_70",
+        "from": "p10-H007",
+        "to": "p9-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_070"
+      },
+      {
+        "id": "hwl_71",
+        "from": "p10-H008",
+        "to": "p9-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_071"
+      },
+      {
+        "id": "hwl_72",
+        "from": "p10-H008",
+        "to": "p9-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_072"
+      },
+      {
+        "id": "hwl_73",
+        "from": "p10-H008",
+        "to": "p9-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_073"
+      },
+      {
+        "id": "hwl_74",
+        "from": "p10-H008",
+        "to": "p9-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_074"
+      },
+      {
+        "id": "hwl_75",
+        "from": "p11-H001",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_075"
+      },
+      {
+        "id": "hwl_76",
+        "from": "p11-H001",
+        "to": "p9-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_076"
+      },
+      {
+        "id": "hwl_77",
+        "from": "p11-H001",
+        "to": "p9-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_077"
+      },
+      {
+        "id": "hwl_78",
+        "from": "p11-H002",
+        "to": "p9-H005",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_078"
+      },
+      {
+        "id": "hwl_79",
+        "from": "p11-H002",
+        "to": "p9-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_079"
+      },
+      {
+        "id": "hwl_80",
+        "from": "p11-H003",
+        "to": "p9-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_080"
+      },
+      {
+        "id": "hwl_81",
+        "from": "p11-H003",
+        "to": "p9-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_081"
+      },
+      {
+        "id": "hwl_82",
+        "from": "p11-H004",
+        "to": "p9-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_082"
+      },
+      {
+        "id": "hwl_83",
+        "from": "p11-H005",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_083"
+      },
+      {
+        "id": "hwl_84",
+        "from": "p11-H005",
+        "to": "p9-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_084"
+      },
+      {
+        "id": "hwl_85",
+        "from": "p11-H005",
+        "to": "p9-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_085"
+      },
+      {
+        "id": "hwl_86",
+        "from": "p11-H006",
+        "to": "p9-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_086"
+      },
+      {
+        "id": "hwl_87",
+        "from": "p11-H006",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_087"
+      },
+      {
+        "id": "hwl_88",
+        "from": "p11-H007",
+        "to": "p9-H005",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_088"
+      },
+      {
+        "id": "hwl_89",
+        "from": "p11-H007",
+        "to": "p9-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_089"
+      },
+      {
+        "id": "hwl_90",
+        "from": "p11-H008",
+        "to": "p9-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_090"
+      },
+      {
+        "id": "hwl_91",
+        "from": "p11-H008",
+        "to": "p9-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_091"
+      },
+      {
+        "id": "hwl_92",
+        "from": "p11-H009",
+        "to": "p9-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_092"
+      },
+      {
+        "id": "hwl_93",
+        "from": "p11-H009",
+        "to": "p9-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_093"
+      },
+      {
+        "id": "hwl_94",
+        "from": "p11-H009",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_094"
+      },
+      {
+        "id": "hwl_95",
+        "from": "p11-H010",
+        "to": "p9-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_095"
+      },
+      {
+        "id": "hwl_96",
+        "from": "p11-H010",
+        "to": "p9-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_096"
+      },
+      {
+        "id": "hwl_97",
+        "from": "p11-H010",
+        "to": "p9-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_097"
+      },
+      {
+        "id": "hwl_98",
+        "from": "p11-H011",
+        "to": "p9-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_098"
+      },
+      {
+        "id": "hwl_99",
+        "from": "p11-H011",
+        "to": "p9-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_099"
+      },
+      {
+        "id": "hwl_100",
+        "from": "p11-H012",
+        "to": "p9-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_100"
+      },
+      {
+        "id": "hwl_101",
+        "from": "p11-H012",
+        "to": "p9-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "link_martinjenkins_hwl_101"
+      }
+    ],
+    "howLinkNextId": 102,
+    "measures": [
+      {
+        "id": "M001",
+        "title": "Qualified mandates and repeat-client work",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_47bb264b-5f40-484d-9571-7d4f79141512"
+      },
+      {
+        "id": "M002",
+        "title": "Projects mobilised to agreed scope and timing",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_4333d24d-1ef9-425a-9818-222326c7b2e0"
+      },
+      {
+        "id": "M003",
+        "title": "Deliverables accepted after senior quality review",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_94dfa279-b010-4d8b-9cb4-a7911116b114"
+      },
+      {
+        "id": "M004",
+        "title": "Client decisions directly supported by advice",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_da6d7f8d-e551-4df1-9a9a-be4b119acdb4"
+      },
+      {
+        "id": "M005",
+        "title": "Implementation milestones and intended benefits achieved",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_c7667b39-6509-4261-91af-b606719d43e5"
+      },
+      {
+        "id": "M006",
+        "title": "Evaluation findings used in improvement decisions",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_61bb8f8d-9c01-4325-bfd9-1428784f95e7"
+      },
+      {
+        "id": "M007",
+        "title": "AI-supported cycle time and correction rate",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_b1a7ecbc-a572-47f8-a15d-706ff84d26df"
+      },
+      {
+        "id": "M008",
+        "title": "Staff capability, retention and wellbeing",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_403cbded-e0c1-46b4-a7c8-a55bc3fbd124"
+      },
+      {
+        "id": "M009",
+        "title": "Client feedback on quality, trust and value",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_4fbf5f9c-c720-4ccf-8d14-5f281213ce7c"
+      },
+      {
+        "id": "M010",
+        "title": "Portfolio diversity and financial resilience",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_9ead7672-6174-4abc-9361-5658f4cb5837"
+      }
+    ],
+    "measureNextId": 11,
+    "evalQuestions": [
+      {
+        "id": "EQ001",
+        "questionText": "Which client needs are not yet visible in the mandate?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_12c5221b-9aae-4708-aeec-96c9e23f8641"
+      },
+      {
+        "id": "EQ002",
+        "questionText": "Did commissioning choices create the right conditions for delivery?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_588d4379-88a0-4cff-bce7-bc82598cdf95"
+      },
+      {
+        "id": "EQ003",
+        "questionText": "Where does uncertainty materially change the advice?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_ee198058-7605-4d2f-b97f-5d2b393cbe04"
+      },
+      {
+        "id": "EQ004",
+        "questionText": "Did the advice improve both decision quality and client ownership?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_a2a2ff0c-81a5-42ad-8e4d-d02c1939a0b6"
+      },
+      {
+        "id": "EQ005",
+        "questionText": "Which implementation conditions most affected adoption and benefit?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_24b58baa-0b9d-47d7-9634-f4fe233b2693"
+      },
+      {
+        "id": "EQ006",
+        "questionText": "Whose experience is missing from the evaluation evidence?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_8a27b986-d40e-49c1-8604-907d2d29937e"
+      },
+      {
+        "id": "EQ007",
+        "questionText": "Where did AI improve value without weakening assurance?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_3a397507-c751-4e86-85a3-dcd91936dc6d"
+      },
+      {
+        "id": "EQ008",
+        "questionText": "How well are capability, workload and wellbeing balanced?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_9abe3fa3-68c4-4c4f-bbd7-d7e7731e1986"
+      },
+      {
+        "id": "EQ009",
+        "questionText": "Which quality failures or near misses should change firm practice?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_830b1880-f728-43bc-8152-0bf9a3f097f0"
+      },
+      {
+        "id": "EQ010",
+        "questionText": "How resilient is the firm to shifts in public and private demand?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_a7314dca-b655-4ed6-9d3b-197b290cc9e9"
+      }
+    ],
+    "eqNextId": 11,
+    "boardInfo": "Proof-of-concept model derived from public MartinJenkins website information accessed on 21 August 2026. It represents an external causal hypothesis, not MartinJenkins internal strategy, confidential information, assurance, endorsement or approval. The model uses New Zealand spelling and should be checked with MartinJenkins leaders, staff, clients and relevant partners before operational use.",
+    "pageInfo": {
+      "overview": "A public-information proof-of-concept of the firm’s causal pathways. The pages are deliberately shaped differently to match their domains.",
+      "p1": "Client needs and trust form a short diagnostic-to-mandate pathway.",
+      "p2": "Commissioning expands into scope, methods, governance and commercial terms before mobilisation.",
+      "p3": "Evidence branches into specialist analyses and reconverges through triangulation and explicit uncertainty.",
+      "p4": "Strategy, policy and investment disciplines converge into prioritised, decision-ready advice.",
+      "p5": "Implementation requires distinct readiness, design, organisation, execution, adoption and benefit stages.",
+      "p6": "Evaluation is designed as a learning loop that changes future action.",
+      "p7": "Responsible AI delivery depends on a narrow human-accountability bottleneck.",
+      "p8": "People, culture, quality, feedback, ethics and innovation combine into firm resilience.",
+      "p9": "Level 1 How Page: client delivery workstreams. Mapping is deferred to Step 2.",
+      "p10": "Level 2 How Page: functions and leadership. Mapping is deferred to Step 2.",
+      "p11": "No-level competencies page. Selective mapping is deferred to Step 2.",
+      "p12": "Combined purpose, scope, assumptions, sources and cautions.",
+      "p13": "Illustrative monitoring and evaluation plan; not an agreed performance framework."
+    },
+    "docContent": {
+      "p12": "<h2>Purpose</h2><p>This proof-of-concept board models how MartinJenkins may create value: moving from client needs and trusted mandates through evidence, advice, implementation, evaluation and organisational stewardship to lasting impact.</p><h2>Scope</h2><p>The board covers publicly described consulting and advisory services, client groups, values, quality practices and AI-enabled delivery. It is an external analytical model, not an internal strategy, operating plan, organisation chart or assurance review.</p><h2>Assumptions</h2><ul><li>The firm seeks impact through trusted advice and practical implementation support.</li><li>Different service disciplines share an integrated evidence and quality pathway.</li><li>Client ownership, partnership and engagement are necessary for lasting change.</li><li>People, senior involvement and quality control underpin delivery resilience.</li></ul><h2>Sources</h2><p>The structure draws on MartinJenkins public pages for its story, services, client groups, impact and AI-enabled solutions. Source URLs are available in the board Sources registry.</p><h2>Cautions and limitations</h2><p>Public website material describes the firm’s offer but does not disclose internal economics, strategic priorities, project data, client-confidential work or all causal dependencies. Labels and links are hypotheses for human review. Current facts should be rechecked before operational use.</p>",
+      "p13": "<h2>Illustrative approach</h2><p>Use a small balanced set of indicators and evaluation questions. Agree definitions, baselines, owners, cadence and disaggregation with MartinJenkins before use. Measures should support decisions rather than create reporting burden.</p><h3>Example measure</h3><div class=\"doc-clone\" data-clone-type=\"measure\" data-clone-key=\"M009\"></div><h3>Example evaluation question</h3><div class=\"doc-clone\" data-clone-type=\"eval_question\" data-clone-key=\"EQ004\"></div><h3>Example outcome box</h3><div class=\"doc-clone\" data-clone-type=\"box_title\" data-clone-key=\"p5-c5-b0\"></div><h2>Cadence</h2><ul><li>Monthly: delivery, quality, workload and emerging risk review.</li><li>At project gates: scope, evidence quality, stakeholder participation and recommendation readiness.</li><li>Quarterly: client feedback, portfolio, capability and innovation review.</li><li>Annually: strategic outcomes, firm resilience and contribution to Aotearoa review.</li></ul><h2>Learning use</h2><p>Interpret quantitative trends with client, staff and stakeholder evidence. Record unintended effects, distributional impacts and uncertainty. Convert findings into named improvement decisions and revisit them in the next cycle.</p>",
+      "p14": "<h1>Using DoView Boards and Disclaimer</h1>\n<p>See the disclaimer section below.</p>\n<p>The DoView Board prompt and the DoView Board built within this DoView Board prototype app are provided free of charge so that anyone can experiment with DoView Boards and explore for themselves how they can answer the 20 key questions that anyone running or overseeing an organization needs to answer. See <a href=\"https://doviewplanning.org/doviewboards\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/doviewboards</a>.</p>\n<h2>Walk-Through</h2>\n<p>To get a walk-through for using DoView Boards, see <a href=\"https://doviewplanning.org/walkthrough\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/walkthrough</a>.</p>\n<h2>Accessing Consulting or Training</h2>\n<p>We can provide consulting or training on integrating the use of DoView Boards into your existing planning, implementation and reporting workflows in business, government, or nonprofit settings. See <a href=\"https://doviewplanning.org/offerings\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/offerings</a>.</p>\n<h2>Adapting the DoView Board Prototype App to your setting</h2>\n<p>This DoView Board is being used within the DoView Board prototype app. It is a free of charge app that runs inside any browser window and can be used for piloting, testing, proof-of-concept and for use where confidential information is not being included and where there is a low security risk.</p>\n<p>The DoView Board app is an open-source developer project under an Apache-2.0 open-source license. See <a href=\"https://github.com/doviewplanning/official-doview-boards\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/doviewplanning/official-doview-boards</a>. The wider DoView Planning methodology and DoView® trademarks are governed separately. See <a href=\"https://doviewplanning.org/trademarkuse\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/trademarkuse</a>.</p>\n<p>Because it is an open-source project, any developer can extend, harden, adapt, or include features of the DoView Board app in other planning products or systems to suit specific deployment requirements. For example, adding enhanced stability, scalability, security, authentication, data handling, or integration features needed for production use, sensitive content, or higher-security environments. If you are looking to deploy DoView Boards in a live operational setting, you can work with any developer to tailor the app to your needs. You can also get in touch with us for advice and methodological input into the best way for you to adapt and extend your use of DoView Boards in your particular setting. <a href=\"https://doviewplanning.org/contact\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/contact</a>.</p>\n<h2>Disclaimer</h2>\n<p>DoView Boards are provided for planning and illustrative purposes only. The content of any DoView Board does not constitute professional advice of any kind, including but not limited to legal, financial, medical, strategic, or organizational advice. No warranty is given as to the accuracy, completeness, or fitness for purpose of any content. The usual precautions for AI-generated material need to be taken. Dr Paul Duignan, DoViewPlanning.org, The Ideas Web Ltd, DoView Corporation Ltd and any associated parties accept no liability whatsoever for any loss, damage, or adverse outcome arising directly or indirectly from the use of, or reliance on, any DoView Board or its contents. Use entirely at your own risk.</p>\n<p>Please note that this DoView Board is in an interactive HTML file and contains active JavaScript so the board can work. Only open boards from sources you trust. Read-only copies disable editing through the board interface but are not security protection.</p>"
+    },
+    "topRightText": "Proof of Concept – Not Endorsed",
+    "viewSettings": {
+      "thisThen": {
+        "showCounts": false,
+        "showTrafficLights": false,
+        "showPriorities": false,
+        "showHowCounts": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": false,
+        "showLateralHow": false,
+        "showTags": false,
+        "showLinkInfoOnHover": true,
+        "showMainTextCodeStyle": false,
+        "showLinkInfoCodeStyle": false,
+        "showFullMainText": false
+      },
+      "how": {
+        "showNumbering": false,
+        "showTrafficLights": false,
+        "showPriorities": false,
+        "showWhyCounts": false,
+        "showLateralHow": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": false,
+        "showTags": false,
+        "showMainTextCodeStyle": false,
+        "showFullMainText": false
+      },
+      "finalOutcomes": {
+        "showTrafficLights": false,
+        "showPriorities": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": false,
+        "showTags": false,
+        "showMainTextCodeStyle": false,
+        "showFullMainText": false
+      }
+    },
+    "tags": [],
+    "sourcesInitialized": true,
+    "presentationView": false,
+    "boardUid": "board_fafc1fb9-65e5-467a-9fdf-404aa16b7010"
+  },
+  "builderValidation": {
+    "builderVersion": "V1.4.3",
+    "validationVersion": "V1.4.3",
+    "mode": "strict-generated",
+    "passed": true,
+    "validatedAt": "2026-08-21T05:07:49.622Z",
+    "checks": {
+      "noLevelHowPages": "passed",
+      "uniqueNumberedHowLevels": "passed",
+      "thisThenLinkAnnotations": "blank-as-required",
+      "howLinkAnnotations": "blank-as-required",
+      "documentationClones": "passed",
+      "measureEqAttachment": "passed",
+      "viewSettings": "passed",
+      "displayTextTrafficPriority": "passed",
+      "sourcesRegistry": "passed",
+      "documentationPagePlan": "passed",
+      "compactBoxLabels": "passed",
+      "competencyMappingReview": "passed",
+      "mappingBreadthReview": "passed",
+      "evidenceReviewWorkflow": "not-part-of-v1.4.3",
+      "thisThenCausalReview": "passed",
+      "selfReview": "passed",
+      "completionCounts": "passed",
+      "completionParagraphDeclaration": "passed"
+    },
+    "warnings": [],
+    "autoFixes": [
+      "Removed input builderValidation metadata after validating the V1.4.3 workflow transition. The builder creates a fresh validation stamp only after validation passes."
+    ],
+    "workflowStep": "step-2-how-mapping",
+    "structureDigest": "sha256:a9bd9d35cc843816eec254a5435885e24e4b842c9f51895342f1c330d8dd0f6a",
+    "howLinkGenerationAudit": "passed",
+    "mappingDigest": "sha256:fb0f0add0573718eaf02819fabdcb4b631f3dcfd5e884f3efe0655120c4835a1",
+    "competencyMappingDensity": 0.1875,
+    "competencyPermittedTargetCount": 12,
+    "competencyTargetMode": "level-1-only-default",
+    "competencyPermittedTargetRefs": [
+      "p9-H001",
+      "p9-H002",
+      "p9-H003",
+      "p9-H004",
+      "p9-H005",
+      "p9-H006",
+      "p9-H007",
+      "p9-H008",
+      "p9-H009",
+      "p9-H010",
+      "p9-H011",
+      "p9-H012"
+    ],
+    "denseCompetencySources": 0,
+    "denseCompetencyTargets": 0,
+    "uniformCompetencyDegreePattern": false,
+    "broadMappingSourcesReviewed": 0,
+    "broadMappingSourceRefs": [],
+    "step1CausalReviewHistory": {
+      "crossPageLinkIds": [
+        "ttl_105",
+        "ttl_106",
+        "ttl_107",
+        "ttl_108",
+        "ttl_109",
+        "ttl_110",
+        "ttl_111",
+        "ttl_112"
+      ],
+      "denseAdjacentPairKeys": [
+        "p1:c1->c2",
+        "p5:c3->c4",
+        "p6:c1->c2",
+        "p7:c0->c1"
+      ],
+      "semanticRiskLinkIds": [
+        "ttl_73"
+      ],
+      "questionableLinkIds": []
+    },
+    "step1QuestionableCausalLinks": 0,
+    "crossPageLinksReviewed": 8,
+    "denseAdjacentPatternsReviewed": 4,
+    "semanticRiskLinksReviewed": 1,
+    "selfReviewSummary": "The final How graph was reviewed source by source and revised for directness, correct target layers, selective competency contribution and restrained organisational breadth before packaging.",
+    "selfReviewCorrectionCount": 3,
+    "selfReviewDeferredJudgementCount": 2,
+    "chatHandoffValidated": true,
+    "completionMetrics": {
+      "thisThenPageCount": 8,
+      "ordinaryBoxCount": 83,
+      "thisThenLinkCount": 112,
+      "crossPageLinkCount": 8,
+      "howPageCount": 3,
+      "howBoxCount": 32,
+      "howLinkCount": 101,
+      "measureCount": 10,
+      "evaluationQuestionCount": 10,
+      "documentationPageCount": 3,
+      "finalOutcomeCount": 3
+    },
+    "deterministicGraphMetrics": {
+      "thisThenBoxCount": 83,
+      "thisThenLinkCount": 112,
+      "howLinkCount": 101,
+      "crossPageLinkCount": 8,
+      "componentCount": 1,
+      "isolatedThisThenRefs": [],
+      "disconnectedFinalOutcomeRefs": [],
+      "maxFanIn": 4,
+      "maxFanOut": 3
+    }
+  }
+}
