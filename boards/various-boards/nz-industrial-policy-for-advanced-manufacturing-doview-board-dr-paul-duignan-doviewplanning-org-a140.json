@@ -1,0 +1,5615 @@
+{
+  "format": "doview-board-json",
+  "schemaVersion": "V1.3.9",
+  "engineVersion": "V1.4.3",
+  "title": "New Zealand industrial policy for advanced manufacturing",
+  "slug": "nz_industrial_policy_doherty",
+  "subpages": [
+    {
+      "id": "p1",
+      "label": "Policy direction and mandate",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#dbeafe",
+        "bdr": "#93c5fd",
+        "tab": "#3b82f6"
+      },
+      "cols": [
+        {
+          "h": "Current settings examined",
+          "boxes": [
+            "Productivity gap honestly diagnosed",
+            "Diffuse policy response acknowledged",
+            "Comparator country lessons drawn",
+            "Implicit industrial policy recognised",
+            "Narrow export base risk understood"
+          ],
+          "uid": "col_7ad20bcc-07ea-433c-b021-bce238283017"
+        },
+        {
+          "h": "Political argument settled",
+          "boxes": [
+            "Picking-winners debate reframed",
+            "Safeguards against propping weak firms agreed",
+            "Cross-party durability sought"
+          ],
+          "uid": "col_dcb4c7d4-0da8-4738-b6ee-8e0d2066d7a5"
+        },
+        {
+          "h": "Direction set",
+          "boxes": [
+            "Focused industrial policy adopted",
+            "Priority sectors selected transparently",
+            "Long-term funding commitment made"
+          ],
+          "uid": "col_15af5e3d-455c-46c0-9b68-3bf143bce04d"
+        },
+        {
+          "h": "Mandate holds",
+          "boxes": [
+            "Stable long-term direction sustained",
+            "Policy credibility with firms established"
+          ],
+          "uid": "col_472a9546-6748-40d1-b98d-e97f6a4d13e3"
+        }
+      ],
+      "uid": "page_c8f3e8f7-134c-42a5-b7f1-a1de27e7beac"
+    },
+    {
+      "id": "p2",
+      "label": "Skills and workforce capability",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#ccfbf1",
+        "bdr": "#5eead4",
+        "tab": "#0d9488"
+      },
+      "cols": [
+        {
+          "h": "Skill demand understood",
+          "boxes": [
+            "Advanced manufacturing skill needs identified",
+            "Employer demand signals collected"
+          ],
+          "uid": "col_b3b7974e-b01e-4088-8a69-57b4f941f251"
+        },
+        {
+          "h": "Provision reshaped",
+          "boxes": [
+            "Vocational provision aligned to industry",
+            "Engineering and technician places expanded",
+            "Work-based learning strengthened"
+          ],
+          "uid": "col_3693e409-a927-4523-b53c-44b26cf8bed6"
+        },
+        {
+          "h": "Pipeline flows",
+          "boxes": [
+            "Trainee and apprentice numbers lifted",
+            "Specialist skills sourced through migration"
+          ],
+          "uid": "col_43526053-65ac-417c-bc57-69f76bf44c47"
+        },
+        {
+          "h": "Capability lands in firms",
+          "boxes": [
+            "Firms recruit needed technical skills",
+            "Existing workforce reskilled for automation",
+            "Management and leadership capability lifted",
+            "Skilled staff retained in New Zealand"
+          ],
+          "uid": "col_1d0cd759-30ad-4a80-9804-510bdcc05940"
+        },
+        {
+          "h": "Skills base built",
+          "boxes": [
+            "Commercially relevant skills base built"
+          ],
+          "uid": "col_7702b327-ee4e-49d5-ba64-1e8c2978d12c"
+        }
+      ],
+      "uid": "page_66ea7108-476f-4a3c-9d8d-ce45fd8657fe"
+    },
+    {
+      "id": "p3",
+      "label": "Technology adoption and firm productivity",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#fef3c7",
+        "bdr": "#fde68a",
+        "tab": "#f59e0b"
+      },
+      "cols": [
+        {
+          "h": "Adoption barriers surfaced",
+          "boxes": [
+            "Low capital intensity diagnosed",
+            "Small firm adoption barriers identified",
+            "Weak business investment understood"
+          ],
+          "uid": "col_c5bda8df-0286-4c69-b71b-1fe67e8017dc"
+        },
+        {
+          "h": "Adoption support in place",
+          "boxes": [
+            "Advisory and diagnostic support available",
+            "Co-investment for automation offered",
+            "Digital tools proven through demonstrators"
+          ],
+          "uid": "col_762a3627-74a9-4dde-8496-0e19b76a0e81"
+        },
+        {
+          "h": "Firms invest and adopt",
+          "boxes": [
+            "Firms invest in automation and digital tools",
+            "Process improvement capability embedded"
+          ],
+          "uid": "col_ff2592c1-f451-46df-9ddd-6128be08164a"
+        },
+        {
+          "h": "Productivity lifts",
+          "boxes": [
+            "Firm-level productivity lifted",
+            "Higher-value work retained onshore"
+          ],
+          "uid": "col_396bee55-a14d-4215-bdd6-9fee81b5b2d5"
+        }
+      ],
+      "uid": "page_dedf9af4-49bc-4e47-9027-f012f25ea9ec"
+    },
+    {
+      "id": "p4",
+      "label": "Industrial land, energy and consenting",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#dcfce7",
+        "bdr": "#86efac",
+        "tab": "#16a34a"
+      },
+      "cols": [
+        {
+          "h": "Constraints quantified",
+          "boxes": [
+            "Energy cost and reliability constraints mapped",
+            "Industrial land shortages identified",
+            "Consent processing delays quantified",
+            "Grid connection bottlenecks understood"
+          ],
+          "uid": "col_7c34e3d5-a7e1-45eb-8757-b1ca73c2e6e4"
+        },
+        {
+          "h": "Enabling conditions delivered",
+          "boxes": [
+            "Affordable reliable industrial energy secured",
+            "Serviced industrial land made available",
+            "Consent and connection timelines shortened"
+          ],
+          "uid": "col_2b37d17f-f7e8-49fe-8a1c-f60c3ecd3fda"
+        },
+        {
+          "h": "Investment proceeds onshore",
+          "boxes": [
+            "Industrial projects proceed in New Zealand",
+            "Expansion decisions kept onshore"
+          ],
+          "uid": "col_f02efb79-cefa-4357-8ff5-217c8584aeff"
+        }
+      ],
+      "uid": "page_99e8d93c-ad25-4f3e-8130-5875a784517d"
+    },
+    {
+      "id": "p5",
+      "label": "Applied research and commercialisation",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#a855f8"
+      },
+      "cols": [
+        {
+          "h": "Research direction set with industry",
+          "boxes": [
+            "Applied research priorities set with industry",
+            "Research centres focused on industry needs"
+          ],
+          "uid": "col_5e506f6c-71f2-4c68-84b9-512aeba2af34"
+        },
+        {
+          "h": "Firms and researchers connect",
+          "boxes": [
+            "Firms connected to research providers",
+            "Industry secondment and doctoral routes used",
+            "Shared testbeds and pilot lines available",
+            "Intellectual property terms made simpler"
+          ],
+          "uid": "col_11ddccd4-063d-4c9b-90e3-d9f547f0c464"
+        },
+        {
+          "h": "Ideas move toward market",
+          "boxes": [
+            "Prototypes validated at production scale",
+            "Commercialisation pathways navigated",
+            "Clusters formed around real strengths"
+          ],
+          "uid": "col_cd5e5278-ff51-497d-ae59-bf1b1aff9efa"
+        },
+        {
+          "h": "New products earn revenue",
+          "boxes": [
+            "New high-value products launched",
+            "Export revenue from local ideas grown"
+          ],
+          "uid": "col_00984bbb-ab6b-45f6-ab5c-75de8d2ef604"
+        },
+        {
+          "h": "Value stays onshore",
+          "boxes": [
+            "Value from local research retained onshore"
+          ],
+          "uid": "col_e36843e8-9074-4da9-8065-3a3d08fda9fc"
+        }
+      ],
+      "uid": "page_38ba1151-53c0-4297-9b3a-387f65b53b7a"
+    },
+    {
+      "id": "p6",
+      "label": "Capital, scaling and export growth",
+      "pageType": "this_then",
+      "color": {
+        "bg": "#ffe4e6",
+        "bdr": "#fecdd3",
+        "tab": "#e11d48"
+      },
+      "cols": [
+        {
+          "h": "Scaling gap diagnosed",
+          "boxes": [
+            "Scale-up gap identified beyond start-ups",
+            "Growth capital gaps identified",
+            "Small firm scale constraints understood"
+          ],
+          "uid": "col_046b1346-2048-4ae5-9470-e5bedfe801bc"
+        },
+        {
+          "h": "Capital available",
+          "boxes": [
+            "Growth and expansion capital available",
+            "Export credit and guarantees accessible"
+          ],
+          "uid": "col_1df106c6-79c8-4b95-b466-e966c5a5a4fa"
+        },
+        {
+          "h": "Firms build capability to scale",
+          "boxes": [
+            "Management depth built in growing firms",
+            "Firms invest in productive assets",
+            "International standards and compliance met",
+            "Export market knowledge built"
+          ],
+          "uid": "col_7d01bda3-ac62-4b7f-8430-4c8ab1246103"
+        },
+        {
+          "h": "Markets entered and held",
+          "boxes": [
+            "Export markets entered and held",
+            "Places won in global supply chains"
+          ],
+          "uid": "col_f4a25c10-7ae8-41b2-b496-b6cfd4b00c84"
+        },
+        {
+          "h": "Scale achieved",
+          "boxes": [
+            "More firms scaled beyond small size",
+            "High-value employment expanded",
+            "Manufacturing base broadened"
+          ],
+          "uid": "col_99eb6b3c-7224-4318-b7ae-9a9ba17f1403"
+        },
+        {
+          "h": "Export mix shifts",
+          "boxes": [
+            "Reliance on narrow primary exports reduced"
+          ],
+          "uid": "col_8b681d19-489f-4221-a7aa-ddb2d030a535"
+        }
+      ],
+      "uid": "page_958844ba-09c2-41ab-b1cb-485f36551981"
+    },
+    {
+      "id": "p7",
+      "label": "Industrial policy workstreams",
+      "pageType": "how",
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#64748b"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Publish a focused industrial policy",
+          "uid": "box_ebeff950-7ca1-4418-b756-a80ec50eb4d2"
+        },
+        {
+          "id": "H002",
+          "label": "Run transparent sector prioritisation",
+          "uid": "box_29af60f5-8f4a-4476-bec7-2bcc2834d1e8"
+        },
+        {
+          "id": "H003",
+          "label": "Build the advanced manufacturing skills pipeline",
+          "uid": "box_830e2ced-eb80-4f24-92dc-a296dddd33a6"
+        },
+        {
+          "id": "H004",
+          "label": "Deliver a technology adoption programme",
+          "uid": "box_5516a00e-e411-4f7c-a49c-a39dbd7fefc8"
+        },
+        {
+          "id": "H005",
+          "label": "Establish co-investment for automation",
+          "uid": "box_f8a6edc7-70cc-40eb-b392-9391ef1d7a21"
+        },
+        {
+          "id": "H006",
+          "label": "Fund applied research and shared testbeds",
+          "uid": "box_089b1a16-8803-4501-bd85-262bbf283051"
+        },
+        {
+          "id": "H007",
+          "label": "Run a commercialisation support service",
+          "uid": "box_e983f1e5-55af-4d4a-a2b2-9368e47a93e1"
+        },
+        {
+          "id": "H008",
+          "label": "Unlock serviced industrial land",
+          "uid": "box_6a11a5e0-ac16-486d-bcea-5c9fc5a7ed22"
+        },
+        {
+          "id": "H009",
+          "label": "Shorten consenting and grid connection",
+          "uid": "box_6a0da819-b909-4c64-8afa-533d3a2b27c8"
+        },
+        {
+          "id": "H010",
+          "label": "Secure affordable reliable industrial energy",
+          "uid": "box_91a128fb-3b23-466c-8dce-bf2be29fcbfb"
+        },
+        {
+          "id": "H011",
+          "label": "Provide growth and export capital",
+          "uid": "box_b1d588d6-2696-4b47-9937-7e9aff8dfe1e"
+        },
+        {
+          "id": "H012",
+          "label": "Attract and anchor global investment",
+          "uid": "box_63f8378a-fcbe-4e09-8aec-5fd96766952d"
+        },
+        {
+          "id": "H013",
+          "label": "Set up monitoring, evaluation and learning",
+          "uid": "box_b9ef6591-fe9a-4d09-9385-7f4c09ab6eec"
+        }
+      ],
+      "nextHowNum": 14,
+      "howLevel": 1,
+      "uid": "page_056b83c1-291e-4080-8d2f-980692709ea5"
+    },
+    {
+      "id": "p8",
+      "label": "Organisations and functions",
+      "pageType": "how",
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#64748b"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Economic development and industry ministry",
+          "uid": "box_4a6838d1-9354-4a04-a65a-e1d33b288103"
+        },
+        {
+          "id": "H002",
+          "label": "Trade and enterprise agency",
+          "uid": "box_6eb04888-e9c4-494b-8c85-b191422c9784"
+        },
+        {
+          "id": "H003",
+          "label": "Research and innovation funders",
+          "uid": "box_6ca08866-6ddb-470a-92ff-b64729dc61bf"
+        },
+        {
+          "id": "H004",
+          "label": "Tertiary and vocational education system",
+          "uid": "box_9465004d-4cb9-4476-83a7-4bbf50adb20e"
+        },
+        {
+          "id": "H005",
+          "label": "Energy regulators and system operators",
+          "uid": "box_b3a09c60-8163-4769-a172-4309b119561f"
+        },
+        {
+          "id": "H006",
+          "label": "Infrastructure and planning bodies",
+          "uid": "box_8cf9eaab-87a0-4d89-a3e2-919374c441d2"
+        },
+        {
+          "id": "H007",
+          "label": "Regional development organisations",
+          "uid": "box_7f5ac35c-71ee-4985-a737-3bf216be0dd9"
+        },
+        {
+          "id": "H008",
+          "label": "Industry and manufacturing associations",
+          "uid": "box_7be4d391-dbf6-49fc-942f-3e7572889c43"
+        },
+        {
+          "id": "H009",
+          "label": "Treasury and fiscal agencies",
+          "uid": "box_eb53ebfb-61b0-494c-9490-6b31cc40977f"
+        },
+        {
+          "id": "H010",
+          "label": "Universities and research institutes",
+          "uid": "box_39f2ab78-d50b-4323-b467-9c4c55cf6069"
+        }
+      ],
+      "nextHowNum": 11,
+      "howLevel": 2,
+      "uid": "page_07239e91-1223-4850-8efa-9dc698f8518f"
+    },
+    {
+      "id": "p9",
+      "label": "Competencies Cross-Link",
+      "pageType": "how",
+      "color": {
+        "bg": "#f1f5f9",
+        "bdr": "#cbd5e1",
+        "tab": "#64748b"
+      },
+      "cols": [],
+      "howBoxes": [
+        {
+          "id": "H001",
+          "label": "Sector analysis and evidence",
+          "uid": "box_00d641bd-fcd2-4dea-a345-fd733d8c7535"
+        },
+        {
+          "id": "H002",
+          "label": "Programme design and delivery",
+          "uid": "box_39e34bf9-4d79-4124-b07d-26d136ccbe72"
+        },
+        {
+          "id": "H003",
+          "label": "Firm-level advisory capability",
+          "uid": "box_9cd23c9d-6f24-4f08-84a8-792a7be9f775"
+        },
+        {
+          "id": "H004",
+          "label": "Capital markets expertise",
+          "uid": "box_37fe1461-6ca3-4dce-a6f8-d5da95402b12"
+        },
+        {
+          "id": "H005",
+          "label": "Consenting and planning expertise",
+          "uid": "box_20d3dee5-31b0-46c3-89b4-e57671159fc5"
+        },
+        {
+          "id": "H006",
+          "label": "Energy system planning",
+          "uid": "box_b21022b8-7e58-4a97-9cd1-88bee9ad05aa"
+        },
+        {
+          "id": "H007",
+          "label": "International investment attraction",
+          "uid": "box_4d26acad-20d2-46fa-aeb1-8a2328ed24a6"
+        },
+        {
+          "id": "H008",
+          "label": "Evaluation and learning",
+          "uid": "box_cf12ec47-2899-476b-b75d-656632934036"
+        },
+        {
+          "id": "H009",
+          "label": "Industry engagement and trust",
+          "uid": "box_72b08731-c007-45f5-8c95-2fd4ee649aa2"
+        },
+        {
+          "id": "H010",
+          "label": "Long-term stewardship",
+          "uid": "box_57a8b804-2283-4d0d-95c4-ccd7eae3836e"
+        }
+      ],
+      "nextHowNum": 11,
+      "howLevel": null,
+      "uid": "page_a39a8eed-2cad-4070-beac-1d73e06d0bef"
+    },
+    {
+      "id": "p10",
+      "label": "Purpose, scope, assumptions, sources and cautions",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3f4f6",
+        "bdr": "#d1d5db",
+        "tab": "#6b7280"
+      },
+      "cols": [],
+      "uid": "page_5329b337-0a4f-4cb9-af34-2f6bdda56b7e"
+    },
+    {
+      "id": "p11",
+      "label": "Illustrative monitoring and evaluation plan",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3f4f6",
+        "bdr": "#d1d5db",
+        "tab": "#6b7280"
+      },
+      "cols": [],
+      "uid": "page_f931747e-78da-4d8e-a6b2-552e3acfd424"
+    },
+    {
+      "id": "p12",
+      "label": "Using DoView Boards and Disclaimer",
+      "pageType": "documentation",
+      "color": {
+        "bg": "#f3e8ff",
+        "bdr": "#d8b4fe",
+        "tab": "#8b5cf6"
+      },
+      "cols": [],
+      "uid": "page_17fd03a2-954e-46fc-b666-71196c132b76"
+    }
+  ],
+  "finalOutcomes": [
+    "Productivity and economic growth lifted",
+    "High-value manufacturing base grown",
+    "Better-paid jobs and export earnings sustained",
+    "Living standards maintained without more borrowing"
+  ],
+  "sources": [
+    {
+      "title": "Information about DoView Boards",
+      "url": "https://doviewplanning.org/doviewboards"
+    },
+    {
+      "title": "Sean Doherty, \"New Zealand's favourite economies do not succeed by accident\", NZ Manufacturer, 19 August 2026",
+      "url": "https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/"
+    },
+    {
+      "title": "OECD Economic Surveys: New Zealand 2026",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en.html"
+    },
+    {
+      "title": "OECD New Zealand Economic Snapshot",
+      "url": "https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html"
+    },
+    {
+      "title": "OECD 2026 — Towards a more affordable, secure and sustainable electricity system",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en/full-report/towards-a-more-affordable-secure-and-sustainable-electricity-system_8422a0e1.html"
+    },
+    {
+      "title": "OECD 2026 — Unlocking capital markets to drive growth",
+      "url": "https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html"
+    },
+    {
+      "title": "OECD Foundations for Growth and Competitiveness 2026 — New Zealand",
+      "url": "https://www.oecd.org/en/publications/2026/04/foundations-for-growth-and-competitiveness-2026_f68a156b/full-report/new-zealand_c6b7a0e7.html"
+    },
+    {
+      "title": "Stats NZ, Research and development survey: 2025",
+      "url": "https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/"
+    },
+    {
+      "title": "Stats NZ, Manufacturing and production statistics",
+      "url": "https://stats.govt.nz/topics/manufacturing-and-production"
+    },
+    {
+      "title": "MBIE, Advanced Manufacturing Industry Transformation Plan (programme closed)",
+      "url": "https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing"
+    },
+    {
+      "title": "The Treasury, New Zealand Productivity Commission 2011–2024 archive",
+      "url": "https://www.treasury.govt.nz/information-and-services/nz-economy/productivity/productivity-commission-2011-2024"
+    },
+    {
+      "title": "The Treasury, Government response to the National Infrastructure Plan 2026",
+      "url": "https://www.treasury.govt.nz/publications/infrastructure-plan/government-response-national-infrastructure-plan-2026"
+    },
+    {
+      "title": "Ministry of Education, Redesign of the Vocational Education and Training system",
+      "url": "https://www.education.govt.nz/our-work/strategies-policies-and-programmes/tertiary-and-further-education/redesign-vocational-education-and-training-system"
+    },
+    {
+      "title": "Tertiary Education Commission, Work-based learning changes from 2026",
+      "url": "https://www.tec.govt.nz/strategic-initiatives/vocational-education-system/changes-to-the-vocational-education-and-training-vet-system/new-work-based-learning-model"
+    },
+    {
+      "title": "Beehive, Delivering on our promise to disestablish Te Pūkenga",
+      "url": "https://www.beehive.govt.nz/release/delivering-our-promise-disestablish-te-p%C5%ABkenga"
+    },
+    {
+      "title": "MBIE, New Zealand Energy Quarterly",
+      "url": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/new-zealand-energy-quarterly"
+    },
+    {
+      "title": "MBIE, Energy prices",
+      "url": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-statistics/energy-prices"
+    },
+    {
+      "title": "PwC, New Zealand 2026 Gas Supply and Demand Study",
+      "url": "https://www.pwc.co.nz/pdfs/2026-pdfs/pwc-new-zealand-2026-gas-supply-and-demand-study.pdf"
+    },
+    {
+      "title": "Beehive, RMA reforms to deliver jobs and growth",
+      "url": "https://www.beehive.govt.nz/release/rma-reforms-deliver-jobs-and-growth"
+    },
+    {
+      "title": "Bell Gully, Resource Management Act replacements unveiled",
+      "url": "https://www.bellgully.com/insights/resource-management-act-replacements-unveiled/"
+    },
+    {
+      "title": "The Treasury, New Zealand's increasing export concentration",
+      "url": "https://www.treasury.govt.nz/publications/research-and-commentary/rangitaki-blog/mei-special-topic-new-zealands-increasing-export-concentration"
+    },
+    {
+      "title": "MPI, Situation and Outlook for Primary Industries, June 2026",
+      "url": "https://www.mpi.govt.nz/resources-and-forms/economic-intelligence/situation-and-outlook-for-primary-industries"
+    },
+    {
+      "title": "New Zealand Government, Investment Boost factsheet",
+      "url": "https://budget.govt.nz/budget/pdfs/releases/l25a-factsheet-investment-boost.pdf"
+    },
+    {
+      "title": "Inland Revenue, Investment Boost monitoring and evaluation analytical note",
+      "url": "https://www.taxpolicy.ird.govt.nz/-/media/project/ir/tp/publications/2026/analytical-note-investment-boost.pdf"
+    },
+    {
+      "title": "BusinessNZ, Support for business R&D in New Zealand",
+      "url": "https://businessnz.org.nz/wp-content/uploads/2024/09/240919-Support-for-business-RD.pdf"
+    },
+    {
+      "title": "NZ Super Fund, Elevate NZ Venture Fund",
+      "url": "https://nzsuperfund.nz/how-we-invest/investing-in-nz/venture-capital/"
+    }
+  ],
+  "savedState": {
+    "B": {
+      "p1-c0-b0": {
+        "label": "Productivity gap honestly diagnosed",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "The gap itself is thoroughly and repeatedly documented — the OECD's 2026 survey finds output per capita persistently below the top half of the OECD with convergence stalled. Marked down because the dedicated institution for diagnosing it, the Productivity Commission, was disestablished in February 2024. Evidence: https://www.oecd.org/en/publications/2026/04/foundations-for-growth-and-competitiveness-2026_f68a156b/full-report/new-zealand_c6b7a0e7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_f1aafaab-d604-4d92-94ed-d7e6afcd0fec"
+      },
+      "p1-c0-b1": {
+        "label": "Diffuse policy response acknowledged",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Government and officials acknowledge weak productivity, and the OECD notes broad reforms are starting to address its roots. What is far less acknowledged is the specific charge in the article — that the response is diffuse rather than focused. Evidence: https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_43fd526b-55cb-4857-a7f8-460fb34e4e5f"
+      },
+      "p1-c0-b2": {
+        "label": "Comparator country lessons drawn",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Comparator economies are cited frequently in New Zealand debate, but citation is not the same as systematically drawing and applying the policy lessons. This is the article's central complaint and the assessment reflects it. Evidence: https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/",
+        "measures": [],
+        "evalQuestions": [
+          "EQ005"
+        ],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7398c8ae-592e-4fbc-8b0d-291d5fc71785"
+      },
+      "p1-c0-b3": {
+        "label": "Implicit industrial policy recognised",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "New Zealand already runs de facto industrial policy — an R&D tax incentive, the uncapped Investment Boost, fast-track approvals, a defence industrial strategy — but rarely names it as such, so the 'neutrality' framing survives largely unchallenged. Evidence: https://budget.govt.nz/budget/pdfs/releases/l25a-factsheet-investment-boost.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_df532d07-94b1-4db9-9cec-fcbb9bb2b68a"
+      },
+      "p1-c0-b4": {
+        "label": "Narrow export base risk understood",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Well understood and formally analysed: Treasury has measured rising export concentration, and dairy's dominance is tracked in every SOPI release. Understanding is strong; response is not. Evidence: https://www.treasury.govt.nz/publications/research-and-commentary/rangitaki-blog/mei-special-topic-new-zealands-increasing-export-concentration",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_c0ef655a-f884-40df-a087-dc120136aa10"
+      },
+      "p1-c1-b0": {
+        "label": "Picking-winners debate reframed",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "The picking-winners objection remains the default position rather than a settled debate. The clearest signal is the closure of the Industry Transformation Plan programme, which was the main sector-specific vehicle. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_bbf5519d-8ca1-4bfe-9986-70b94a8ee4d5"
+      },
+      "p1-c1-b1": {
+        "label": "Safeguards against propping weak firms agreed",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "No explicit framework exists for stopping support propping up weak firms. Because most support is broad and untargeted rather than selective, the risk is lower — but that is an accident of design, not a safeguard. Evidence: https://budget.govt.nz/budget/pdfs/releases/l25a-factsheet-investment-boost.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_5959a814-5392-497e-b488-d2225fa0bdfb"
+      },
+      "p1-c1-b2": {
+        "label": "Cross-party durability sought",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "The record is one of reversal: Industry Transformation Plans closed, Te Pūkenga disestablished, the Productivity Commission repealed, resource management law rewritten twice. The National Infrastructure Plan, where the Government accepted all sixteen recommendations and sought cross-party engagement, is the notable exception. Evidence: https://www.treasury.govt.nz/publications/infrastructure-plan/government-response-national-infrastructure-plan-2026",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_db2ca720-42e5-4791-af1e-74b02a5cf1db"
+      },
+      "p1-c2-b0": {
+        "label": "Focused industrial policy adopted",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "New Zealand has no focused industrial policy. The Industry Transformation Plan programme, the closest thing to one, has been closed. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_af26821c-a11b-4096-9c25-499bded1bb5c"
+      },
+      "p1-c2-b1": {
+        "label": "Priority sectors selected transparently",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "There is no current transparent mechanism for selecting priority sectors. The ITP programme performed this function and was discontinued. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [
+          "EQ001"
+        ],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_5f1f714c-2d4c-450a-ad3d-e7efce1a333e"
+      },
+      "p1-c2-b2": {
+        "label": "Long-term funding commitment made",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Investment Boost is a genuinely large commitment at roughly $1.7 billion a year, but it is a broad capital subsidy rather than a long-term industrial commitment, and reported policy flip-flopping undercuts its planning value. Evidence: https://budget.govt.nz/budget/pdfs/releases/l25a-factsheet-investment-boost.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_de82e22a-3620-4436-b2cb-b28cc6d0638f"
+      },
+      "p1-c3-b0": {
+        "label": "Stable long-term direction sustained",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Direction has not been stable across electoral cycles in vocational education, science, productivity institutions or resource management. Infrastructure is the one area where a genuinely long-horizon plan now exists. Evidence: https://www.treasury.govt.nz/publications/infrastructure-plan/government-response-national-infrastructure-plan-2026",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_615a4c72-8af9-4503-9b83-2f2c69e1f8ac"
+      },
+      "p1-c3-b1": {
+        "label": "Policy credibility with firms established",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Firms face a planning environment where major settings change between governments. Credibility is the casualty, and it is the hardest thing on this page to rebuild. Evidence: https://www.treasury.govt.nz/publications/infrastructure-plan/government-response-national-infrastructure-plan-2026",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_34413002-0462-476b-8b21-f2a30bc343e8"
+      },
+      "p2-c0-b0": {
+        "label": "Advanced manufacturing skill needs identified",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Industry Skills Boards, operating from January 2026 with majority industry governance, are designed precisely to identify sector skill needs. The mechanism is sound but brand new and unproven. Evidence: https://www.education.govt.nz/our-work/strategies-policies-and-programmes/tertiary-and-further-education/redesign-vocational-education-and-training-system",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_f047f1ac-66e5-4fd5-a3f4-ce36a9636111"
+      },
+      "p2-c0-b1": {
+        "label": "Employer demand signals collected",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Majority industry governance of the new standard-setting bodies is a real structural improvement in how employer demand reaches the training system. Evidence: https://www.education.govt.nz/our-work/strategies-policies-and-programmes/tertiary-and-further-education/redesign-vocational-education-and-training-system",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_74b33107-1fcd-4b01-b75b-e74a7bc2b522"
+      },
+      "p2-c1-b0": {
+        "label": "Vocational provision aligned to industry",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Alignment to industry is the stated purpose of the 2026 reform, but the system is mid-transition and the Ministry's own advice differed from the Minister's on core design decisions. Evidence: https://www.education.govt.nz/our-work/strategies-policies-and-programmes/tertiary-and-further-education/redesign-vocational-education-and-training-system",
+        "measures": [],
+        "evalQuestions": [
+          "EQ004"
+        ],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_c9b96ead-ea50-4014-a4d3-e8fe5deafa2e"
+      },
+      "p2-c1-b1": {
+        "label": "Engineering and technician places expanded",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "No evidence of expanded engineering or technician provision. Polytechnic financial difficulties, acknowledged as decades in the making, point the other way. Evidence: https://www.beehive.govt.nz/release/delivering-our-promise-disestablish-te-p%C5%ABkenga",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d6b44c68-8d34-47b5-926f-0eb98bb7d9a3"
+      },
+      "p2-c1-b2": {
+        "label": "Work-based learning strengthened",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Work-based learning is being moved twice in two years — into Industry Skills Boards, then out again to polytechnics, wānanga or private providers. Continuity is the risk. Evidence: https://www.tec.govt.nz/strategic-initiatives/vocational-education-system/changes-to-the-vocational-education-and-training-vet-system/new-work-based-learning-model",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b10693d6-0918-41e6-9346-c6f9dd888a98"
+      },
+      "p2-c2-b0": {
+        "label": "Trainee and apprentice numbers lifted",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Around 250,000 people are in vocational education annually with roughly half training on the job, so the base is substantial. Whether numbers lift through the transition is untested. Evidence: https://www.education.govt.nz/our-work/strategies-policies-and-programmes/tertiary-and-further-education/redesign-vocational-education-and-training-system",
+        "measures": [
+          "M005"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_9eca334e-0805-4e42-9367-15a46d445a95"
+      },
+      "p2-c2-b1": {
+        "label": "Specialist skills sourced through migration",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Skilled migration settings function reasonably well for scarce specialist roles, and this is one of the faster levers New Zealand actually has. Evidence: https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d49be7a3-e937-4090-8687-b947bc69b496"
+      },
+      "p2-c3-b0": {
+        "label": "Firms recruit needed technical skills",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Persistent labour shortages are cited as a driver of automation interest, which indicates firms are not readily recruiting the technical skills they need. Evidence: https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_cdc0ac9b-6338-44c0-87f6-9f14f8384b72"
+      },
+      "p2-c3-b1": {
+        "label": "Existing workforce reskilled for automation",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "There is no substantial national programme for reskilling the existing workforce for automation, which is exactly the gap the article points to in comparator countries. Evidence: https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_68ab9d1f-e7df-4af7-a7a7-4a6764b1f5ac"
+      },
+      "p2-c3-b2": {
+        "label": "Management and leadership capability lifted",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "The OECD finds New Zealand SME owners have strong operational skills but significant gaps in financial and capital-structure capability, which constrains their ability to scale. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_ed250477-3e1a-4d7b-b073-4144f8f11e36"
+      },
+      "p2-c3-b3": {
+        "label": "Skilled staff retained in New Zealand",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Retention is structurally hard while output per capita and wages lag the countries competing for the same people. Convergence with the OECD top half has stalled. Evidence: https://www.oecd.org/en/publications/2026/04/foundations-for-growth-and-competitiveness-2026_f68a156b/full-report/new-zealand_c6b7a0e7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_cf6c2ff9-814c-44f8-9dfe-0031a879b44a"
+      },
+      "p2-c4-b0": {
+        "label": "Commercially relevant skills base built",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "The reform is aimed at commercial relevance and the governance change is real, but the outcome cannot yet be observed part-way through a two-year transition. Evidence: https://www.tec.govt.nz/strategic-initiatives/vocational-education-system/changes-to-the-vocational-education-and-training-vet-system/new-work-based-learning-model",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_ecb82436-3956-4013-bfcd-90e1a03d00ff"
+      },
+      "p3-c0-b0": {
+        "label": "Low capital intensity diagnosed",
+        "light": "green",
+        "priority": "",
+        "entries": [],
+        "detailText": "Explicitly and repeatedly diagnosed. The OECD's 2026 capital markets chapter names persistently low capital intensity as a direct contributor to the productivity gap. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_10ee7582-146c-4163-adfa-b88700d7a2f4"
+      },
+      "p3-c0-b1": {
+        "label": "Small firm adoption barriers identified",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Barriers facing smaller firms are reasonably well identified, including financial capability gaps, and a government AI pilot for small businesses targets them directly. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_516c605a-d95a-43ef-aa8c-b74f6e2572c9"
+      },
+      "p3-c0-b2": {
+        "label": "Weak business investment understood",
+        "light": "green",
+        "priority": "",
+        "entries": [],
+        "detailText": "Well understood. The OECD finds labour utilisation strong but the investment rate low — the diagnosis is not in dispute. Evidence: https://www.oecd.org/en/publications/2026/04/foundations-for-growth-and-competitiveness-2026_f68a156b/full-report/new-zealand_c6b7a0e7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b30e45fc-f1c8-4d72-8c98-714b9caabfdb"
+      },
+      "p3-c1-b0": {
+        "label": "Advisory and diagnostic support available",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Support exists through the Regional Business Partner Network and NZTE readiness programmes, but the OECD describes current SME support as limited relative to the capability gap. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [
+          "EQ002"
+        ],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_ba3053e5-2ee9-42e5-9633-4aa09240664f"
+      },
+      "p3-c1-b1": {
+        "label": "Co-investment for automation offered",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Investment Boost is a broad tax deduction available to any business for almost any asset, not targeted automation co-investment. The $30 million of ITP actions that were sector-specific have ended. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_79e92d8d-e367-47e1-aee2-44de196dd71b"
+      },
+      "p3-c1-b2": {
+        "label": "Digital tools proven through demonstrators",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Demonstrator activity is thin. A small-business AI pilot is the main current example, well short of the shared demonstration infrastructure the article attributes to comparator economies. Evidence: https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_c7fc8f7b-1337-4438-b679-3c382a8610c9"
+      },
+      "p3-c2-b0": {
+        "label": "Firms invest in automation and digital tools",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Early Inland Revenue monitoring of Investment Boost finds firms adjusting timing and prioritisation, but concludes it will take time for effects to flow through, and that survey uptake is likely overstated. Evidence: https://www.taxpolicy.ird.govt.nz/-/media/project/ir/tp/publications/2026/analytical-note-investment-boost.pdf",
+        "measures": [
+          "M001"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_2f620b94-e7ca-466f-a8fc-f07961ef8d3d"
+      },
+      "p3-c2-b1": {
+        "label": "Process improvement capability embedded",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Process improvement capability is uneven across the sector and not systematically supported; no national programme addresses it directly. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_1215e6fe-91f4-4c7d-9e35-40d23ea0af2e"
+      },
+      "p3-c3-b0": {
+        "label": "Firm-level productivity lifted",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Recent movement is genuinely positive — manufacturing grew 1.9 percent in the March 2026 quarter and was the largest contributor to GDP growth. The long-run trend remains the problem. Evidence: https://stats.govt.nz/topics/manufacturing-and-production",
+        "measures": [
+          "M002"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_a2b0f231-2e0d-4498-905a-4ff054a5fe27"
+      },
+      "p3-c3-b1": {
+        "label": "Higher-value work retained onshore",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "The OECD warns of a markedly raised risk of rapid deindustrialisation, with high contract electricity prices forcing temporary and permanent industrial shutdowns. Value is moving offshore, not being retained. Evidence: https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en/full-report/towards-a-more-affordable-secure-and-sustainable-electricity-system_8422a0e1.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d5fdf1d5-70cd-458e-bb9d-e6452080f25f"
+      },
+      "p4-c0-b0": {
+        "label": "Energy cost and reliability constraints mapped",
+        "light": "green",
+        "priority": "",
+        "entries": [],
+        "detailText": "Exceptionally well mapped. The OECD devoted a survey chapter to it, PwC's 2026 gas study models supply and demand, and MBIE publishes quarterly price and consumption data. Evidence: https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en/full-report/towards-a-more-affordable-secure-and-sustainable-electricity-system_8422a0e1.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_5ee76c88-558c-4ae3-b83d-c3aac7bbe439"
+      },
+      "p4-c0-b1": {
+        "label": "Industrial land shortages identified",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Industrial land supply is not tracked nationally with anything like the rigour applied to energy, so the constraint is understood locally and anecdotally rather than systematically. Evidence: https://www.treasury.govt.nz/publications/infrastructure-plan/government-response-national-infrastructure-plan-2026",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_da4708da-521e-4fce-abdb-3014e74294d3"
+      },
+      "p4-c0-b2": {
+        "label": "Consent processing delays quantified",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Quantified in concrete terms: the Infrastructure Commission found consenting delays put New Zealand on track to miss 11 to 15 percent of energy and transport emissions reductions by 2050. Evidence: https://www.beehive.govt.nz/release/rma-reforms-deliver-jobs-and-growth",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_38ad6812-1b71-4e90-9f37-466ab2e30aaa"
+      },
+      "p4-c0-b3": {
+        "label": "Grid connection bottlenecks understood",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Connection and firming constraints are recognised — the OECD points to barriers to investment in non-gas firming capacity — but grid queue transparency is weaker than the price analysis. Evidence: https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en/full-report/towards-a-more-affordable-secure-and-sustainable-electricity-system_8422a0e1.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_2e190ccd-6885-41fe-8712-65704b585bef"
+      },
+      "p4-c1-b0": {
+        "label": "Affordable reliable industrial energy secured",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "The clearest red on the board. The OECD finds wholesale and forward prices uncomfortably high internationally, far above Nordic countries with similarly renewables-dominated systems, with falling gas reserves compounding it. Evidence: https://www.oecd.org/en/publications/oecd-economic-surveys-new-zealand-2026_3ec5de98-en/full-report/towards-a-more-affordable-secure-and-sustainable-electricity-system_8422a0e1.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_836fcb51-1561-41bc-9077-97a04d374fa1"
+      },
+      "p4-c1-b1": {
+        "label": "Serviced industrial land made available",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "No national programme delivers serviced industrial land. It sits with councils and is shaped by a planning system currently mid-replacement. Evidence: https://www.bellgully.com/insights/resource-management-act-replacements-unveiled/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_56fcbb35-e8a7-437b-be11-15e451264ca8"
+      },
+      "p4-c1-b2": {
+        "label": "Consent and connection timelines shortened",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Real movement: the Fast-track Approvals Act is operating and the Natural Environment and Planning Bills passed select committee in July 2026. But the new system is not in effect until 2027, so the gain is prospective. Evidence: https://www.bellgully.com/insights/resource-management-act-replacements-unveiled/",
+        "measures": [
+          "M006"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_25d14098-708e-4932-931e-318b788e7a37"
+      },
+      "p4-c2-b0": {
+        "label": "Industrial projects proceed in New Zealand",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Mixed evidence pulling both ways — fast-track approval was granted for New Zealand's largest wind farm, while energy costs are forcing industrial closures elsewhere. Evidence: https://www.beehive.govt.nz/release/rma-reforms-deliver-jobs-and-growth",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_697b555a-e4c7-478c-908b-8c7c804cb56b"
+      },
+      "p4-c2-b1": {
+        "label": "Expansion decisions kept onshore",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Major industrial users including Methanex and Ballance's Kapuni plant face closure or exit decisions, with PwC noting uncertainty over the future of several large users. Evidence: https://www.pwc.co.nz/pdfs/2026-pdfs/pwc-new-zealand-2026-gas-supply-and-demand-study.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6e1bce87-6c27-4da1-ab79-d1b62113a5bf"
+      },
+      "p5-c0-b0": {
+        "label": "Applied research priorities set with industry",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Business R&D reached $4.1 billion in 2025 but grew only 0.4 percent on 2024, suggesting priorities are not being reset with industry at any pace. Evidence: https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_76a7914a-4e55-4f3d-8570-4cd478138312"
+      },
+      "p5-c0-b1": {
+        "label": "Research centres focused on industry needs",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "The research institute system has been under repeated restructuring, which makes sustained industry focus harder to establish than the structure itself implies. Evidence: https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_0d6550d4-d534-43e6-882f-eacff2f97677"
+      },
+      "p5-c1-b0": {
+        "label": "Firms connected to research providers",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Direct evidence of weak connection: analysis of business R&D finds only about 5 percent of business-funded R&D happens in the government sector and even less in higher education. Evidence: https://businessnz.org.nz/wp-content/uploads/2024/09/240919-Support-for-business-RD.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e58a75b4-0c6f-4a5b-bf43-c6d9d106bdf5"
+      },
+      "p5-c1-b1": {
+        "label": "Industry secondment and doctoral routes used",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Follows from the same finding — very little business R&D money flows into universities, which is where secondment and industry doctoral routes would show up. Evidence: https://businessnz.org.nz/wp-content/uploads/2024/09/240919-Support-for-business-RD.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7dd945e1-0927-4311-bcd6-0103e66ecfd0"
+      },
+      "p5-c1-b2": {
+        "label": "Shared testbeds and pilot lines available",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Shared testbeds and pilot lines were an explicit ITP action area, and that programme has closed without an evident successor. Evidence: https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/industry-transformation-plans/advanced-manufacturing",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_79f217ef-690c-42f2-bfd8-7e55c60cbbc6"
+      },
+      "p5-c1-b3": {
+        "label": "Intellectual property terms made simpler",
+        "light": "grey",
+        "priority": "",
+        "entries": [],
+        "detailText": "Deliberately not assessed. Public evidence on whether intellectual property and contracting terms between firms and research providers have become simpler is not available at a national level, and a colour here would be a guess. Evidence: https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e593e227-4611-4801-bb79-8524fc8ed6a0"
+      },
+      "p5-c2-b0": {
+        "label": "Prototypes validated at production scale",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Some genuine capability exists in agritech, medtech and space, but validation at production scale is firm-by-firm rather than systematically supported. Evidence: https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b72695e6-25b4-44a3-907a-e8551263eba2"
+      },
+      "p5-c2-b1": {
+        "label": "Commercialisation pathways navigated",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Business R&D is heavily concentrated in computer services and miscellaneous services; all manufacturing outside machinery and equipment accounts for roughly 9 percent. Commercialisation into physical products is thin. Evidence: https://businessnz.org.nz/wp-content/uploads/2024/09/240919-Support-for-business-RD.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_20763aa8-2054-4ead-af0d-623953993fa3"
+      },
+      "p5-c2-b2": {
+        "label": "Clusters formed around real strengths",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Real clusters have formed in agritech, medtech and aerospace, but around firm-level success rather than deliberate cluster policy of the kind the article describes in Ireland. Evidence: https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7c568901-3047-4688-8f46-257a3de4b9b9"
+      },
+      "p5-c3-b0": {
+        "label": "New high-value products launched",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "New Zealand does launch genuinely high-value products, and total R&D expenditure has risen to $6.4 billion. Volume relative to the size of the economy remains the constraint. Evidence: https://www.stats.govt.nz/information-releases/research-and-development-survey-2025/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_62b25edf-636c-4f66-bc63-4b3a2d2449eb"
+      },
+      "p5-c3-b1": {
+        "label": "Export revenue from local ideas grown",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Export revenue is growing strongly, but overwhelmingly from primary production rather than from commercialised local research — food and fibre alone is forecast at $64.3 billion. Evidence: https://www.mpi.govt.nz/resources-and-forms/economic-intelligence/situation-and-outlook-for-primary-industries",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_51f58b82-97c9-41b7-b5b2-d04099e6c9e4"
+      },
+      "p5-c4-b0": {
+        "label": "Value from local research retained onshore",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "The capital gap pushes companies offshore. The Elevate fund exists specifically because the Series A and B gap was leading innovative young companies to leave. Evidence: https://nzsuperfund.nz/how-we-invest/investing-in-nz/venture-capital/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_d876e491-5207-431a-9db9-9f018a70d44d"
+      },
+      "p6-c0-b0": {
+        "label": "Scale-up gap identified beyond start-ups",
+        "light": "green",
+        "priority": "",
+        "entries": [],
+        "detailText": "Precisely identified and acted on institutionally — the Elevate NZ Venture Fund was created specifically to address the Series A and B gap for companies past the start-up stage. Evidence: https://nzsuperfund.nz/how-we-invest/investing-in-nz/venture-capital/",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e4d66857-fcff-4083-b907-a097302fcadf"
+      },
+      "p6-c0-b1": {
+        "label": "Growth capital gaps identified",
+        "light": "green",
+        "priority": "",
+        "entries": [],
+        "detailText": "The OECD devoted an entire 2026 survey chapter to New Zealand's shallow capital markets and limited access to long-term domestic funding. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6a9ee03e-f80d-4296-834b-40bee361b7c0"
+      },
+      "p6-c0-b2": {
+        "label": "Small firm scale constraints understood",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Well characterised: the OECD identifies SME gaps in capital structure and equity financing knowledge as a direct constraint on scaling. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e255e7ef-3e57-45a4-891c-914840d43600"
+      },
+      "p6-c1-b0": {
+        "label": "Growth and expansion capital available",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Improving but still shallow. New Zealand private capital funds raised roughly $1.9 billion across 2024 and 2025 and venture activity is rising, against an OECD finding of limited risk capital overall. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [
+          "EQ003"
+        ],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_99ffbd73-282b-4a42-89f3-03c8431e6611"
+      },
+      "p6-c1-b1": {
+        "label": "Export credit and guarantees accessible",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Export credit facilities exist, but the OECD's diagnosis of limited long-term finance applies to exporters as much as to domestic firms. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_40b25b7c-9377-4501-8155-3e7f5ba45851"
+      },
+      "p6-c2-b0": {
+        "label": "Management depth built in growing firms",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "Management depth is a documented constraint — strong operational skills paired with weak financial and capital-structure capability is precisely what limits firms at the scaling point. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_1934b410-7300-4876-a022-352eff09d6c4"
+      },
+      "p6-c2-b1": {
+        "label": "Firms invest in productive assets",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Investment Boost is designed to shift exactly this, and early monitoring shows firms adjusting investment timing and prioritisation, but the effect on the capital stock is not yet observable. Evidence: https://www.taxpolicy.ird.govt.nz/-/media/project/ir/tp/publications/2026/analytical-note-investment-boost.pdf",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_fe3b9708-ed8c-4240-8b33-d00e7133cce7"
+      },
+      "p6-c2-b2": {
+        "label": "International standards and compliance met",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "A relative strength. New Zealand exporters meet demanding traceability, food safety and provenance requirements in major markets as a matter of course. Evidence: https://www.mpi.govt.nz/resources-and-forms/economic-intelligence/situation-and-outlook-for-primary-industries",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_a4178530-c329-4c73-859c-02d6992c132e"
+      },
+      "p6-c2-b3": {
+        "label": "Export market knowledge built",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "NZTE provides market knowledge and readiness support, but the OECD still points to reduced foreign investment screening and faster technology adoption as unfinished work. Evidence: https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7777b1c4-44f7-4f03-9d3e-c5523c71e443"
+      },
+      "p6-c3-b0": {
+        "label": "Export markets entered and held",
+        "light": "greenYellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Exports have been resilient and are supporting the current recovery, with food and fibre revenue forecast to rise 6 percent to a record $64.3 billion. Evidence: https://www.mpi.govt.nz/resources-and-forms/economic-intelligence/situation-and-outlook-for-primary-industries",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_95c16845-eac8-41c8-a3fe-6c77d78d26ec"
+      },
+      "p6-c3-b1": {
+        "label": "Places won in global supply chains",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Positions in global supply chains are real in some niches but limited outside primary products, and the OECD recommends reducing FDI screening restrictions to improve integration. Evidence: https://www.oecd.org/en/topics/sub-issues/economic-surveys/new-zealand-economic-snapshot.html",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6bebaf0e-5b25-4e03-96f0-9e601719fba1"
+      },
+      "p6-c4-b0": {
+        "label": "More firms scaled beyond small size",
+        "light": "yellowRed",
+        "priority": "",
+        "entries": [],
+        "detailText": "The scale-up problem persists — this is the gap Elevate was built to close, and shallow capital markets continue to constrain firm growth and diversification. Evidence: https://www.oecd.org/en/publications/2026/05/oecd-economic-surveys-new-zealand-2026_27daa8d8/full-report/unlocking-capital-markets-to-drive-growth_d1f7a7f7.html",
+        "measures": [
+          "M004"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_4bc03bea-b3d2-4759-88d6-f2a8f347731b"
+      },
+      "p6-c4-b1": {
+        "label": "High-value employment expanded",
+        "light": "yellow",
+        "priority": "",
+        "entries": [],
+        "detailText": "Manufacturing employs more than 220,000 people and employment indicators have recently improved, but this sits against a long decline in the sector's share of the economy. Evidence: https://stats.govt.nz/topics/manufacturing-and-production",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_a9fdb706-69cc-49b1-b684-1558b142a117"
+      },
+      "p6-c4-b2": {
+        "label": "Manufacturing base broadened",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "The base has narrowed, not broadened. Manufacturing's share of real GDP has fallen from around 15 percent in 1990 to about 8 percent, with non-food manufacturing essentially flat for three decades. Evidence: https://stats.govt.nz/topics/manufacturing-and-production",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_05630259-2bab-448e-bdc9-10dd90e80dba"
+      },
+      "p6-c5-b0": {
+        "label": "Reliance on narrow primary exports reduced",
+        "light": "red",
+        "priority": "",
+        "entries": [],
+        "detailText": "Reliance has increased rather than reduced. Dairy alone is around 30 percent of exports, food and fibre is at a record $64.3 billion, and Treasury has documented rising export concentration. Evidence: https://www.treasury.govt.nz/publications/research-and-commentary/rangitaki-blog/mei-special-topic-new-zealands-increasing-export-concentration",
+        "measures": [
+          "M003"
+        ],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_173b3cd2-ffeb-481b-915b-465a6f30fe07"
+      },
+      "p7-H001": {
+        "label": "Publish a focused industrial policy",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_ebeff950-7ca1-4418-b756-a80ec50eb4d2"
+      },
+      "p7-H002": {
+        "label": "Run transparent sector prioritisation",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_29af60f5-8f4a-4476-bec7-2bcc2834d1e8"
+      },
+      "p7-H003": {
+        "label": "Build the advanced manufacturing skills pipeline",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_830e2ced-eb80-4f24-92dc-a296dddd33a6"
+      },
+      "p7-H004": {
+        "label": "Deliver a technology adoption programme",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_5516a00e-e411-4f7c-a49c-a39dbd7fefc8"
+      },
+      "p7-H005": {
+        "label": "Establish co-investment for automation",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_f8a6edc7-70cc-40eb-b392-9391ef1d7a21"
+      },
+      "p7-H006": {
+        "label": "Fund applied research and shared testbeds",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_089b1a16-8803-4501-bd85-262bbf283051"
+      },
+      "p7-H007": {
+        "label": "Run a commercialisation support service",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_e983f1e5-55af-4d4a-a2b2-9368e47a93e1"
+      },
+      "p7-H008": {
+        "label": "Unlock serviced industrial land",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6a11a5e0-ac16-486d-bcea-5c9fc5a7ed22"
+      },
+      "p7-H009": {
+        "label": "Shorten consenting and grid connection",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6a0da819-b909-4c64-8afa-533d3a2b27c8"
+      },
+      "p7-H010": {
+        "label": "Secure affordable reliable industrial energy",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_91a128fb-3b23-466c-8dce-bf2be29fcbfb"
+      },
+      "p7-H011": {
+        "label": "Provide growth and export capital",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b1d588d6-2696-4b47-9937-7e9aff8dfe1e"
+      },
+      "p7-H012": {
+        "label": "Attract and anchor global investment",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_63f8378a-fcbe-4e09-8aec-5fd96766952d"
+      },
+      "p7-H013": {
+        "label": "Set up monitoring, evaluation and learning",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b9ef6591-fe9a-4d09-9385-7f4c09ab6eec"
+      },
+      "p8-H001": {
+        "label": "Economic development and industry ministry",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_4a6838d1-9354-4a04-a65a-e1d33b288103"
+      },
+      "p8-H002": {
+        "label": "Trade and enterprise agency",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6eb04888-e9c4-494b-8c85-b191422c9784"
+      },
+      "p8-H003": {
+        "label": "Research and innovation funders",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_6ca08866-6ddb-470a-92ff-b64729dc61bf"
+      },
+      "p8-H004": {
+        "label": "Tertiary and vocational education system",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_9465004d-4cb9-4476-83a7-4bbf50adb20e"
+      },
+      "p8-H005": {
+        "label": "Energy regulators and system operators",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b3a09c60-8163-4769-a172-4309b119561f"
+      },
+      "p8-H006": {
+        "label": "Infrastructure and planning bodies",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_8cf9eaab-87a0-4d89-a3e2-919374c441d2"
+      },
+      "p8-H007": {
+        "label": "Regional development organisations",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7f5ac35c-71ee-4985-a737-3bf216be0dd9"
+      },
+      "p8-H008": {
+        "label": "Industry and manufacturing associations",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_7be4d391-dbf6-49fc-942f-3e7572889c43"
+      },
+      "p8-H009": {
+        "label": "Treasury and fiscal agencies",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_eb53ebfb-61b0-494c-9490-6b31cc40977f"
+      },
+      "p8-H010": {
+        "label": "Universities and research institutes",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_39f2ab78-d50b-4323-b467-9c4c55cf6069"
+      },
+      "p9-H001": {
+        "label": "Sector analysis and evidence",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_00d641bd-fcd2-4dea-a345-fd733d8c7535"
+      },
+      "p9-H002": {
+        "label": "Programme design and delivery",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_39e34bf9-4d79-4124-b07d-26d136ccbe72"
+      },
+      "p9-H003": {
+        "label": "Firm-level advisory capability",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_9cd23c9d-6f24-4f08-84a8-792a7be9f775"
+      },
+      "p9-H004": {
+        "label": "Capital markets expertise",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_37fe1461-6ca3-4dce-a6f8-d5da95402b12"
+      },
+      "p9-H005": {
+        "label": "Consenting and planning expertise",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_20d3dee5-31b0-46c3-89b4-e57671159fc5"
+      },
+      "p9-H006": {
+        "label": "Energy system planning",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_b21022b8-7e58-4a97-9cd1-88bee9ad05aa"
+      },
+      "p9-H007": {
+        "label": "International investment attraction",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_4d26acad-20d2-46fa-aeb1-8a2328ed24a6"
+      },
+      "p9-H008": {
+        "label": "Evaluation and learning",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_cf12ec47-2899-476b-b75d-656632934036"
+      },
+      "p9-H009": {
+        "label": "Industry engagement and trust",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_72b08731-c007-45f5-8c95-2fd4ee649aa2"
+      },
+      "p9-H010": {
+        "label": "Long-term stewardship",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "box_57a8b804-2283-4d0d-95c4-ccd7eae3836e"
+      },
+      "final-b0": {
+        "label": "Productivity and economic growth lifted",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "final_f4030ee1-fd0c-4122-8074-f374ad73631c"
+      },
+      "final-b1": {
+        "label": "High-value manufacturing base grown",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "final_ce0d7dec-bb79-4a9e-b8e9-5a64a4b5f3d6"
+      },
+      "final-b2": {
+        "label": "Better-paid jobs and export earnings sustained",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "final_fda256c1-8658-4718-b9b6-71d4278d0559"
+      },
+      "final-b3": {
+        "label": "Living standards maintained without more borrowing",
+        "light": "",
+        "priority": "",
+        "entries": [],
+        "detailText": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "hasSubpage": false,
+        "borderColor": "",
+        "boxColor": "",
+        "jumpToPage": "",
+        "uid": "final_45278fcd-9f9b-4a27-b279-60b3b902e1ac"
+      }
+    },
+    "SP": [
+      {
+        "id": "p1",
+        "label": "Policy direction and mandate",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#dbeafe",
+          "bdr": "#93c5fd",
+          "tab": "#3b82f6"
+        },
+        "cols": [
+          {
+            "h": "Current settings examined",
+            "boxes": [
+              "Productivity gap honestly diagnosed",
+              "Diffuse policy response acknowledged",
+              "Comparator country lessons drawn",
+              "Implicit industrial policy recognised",
+              "Narrow export base risk understood"
+            ],
+            "uid": "col_7ad20bcc-07ea-433c-b021-bce238283017"
+          },
+          {
+            "h": "Political argument settled",
+            "boxes": [
+              "Picking-winners debate reframed",
+              "Safeguards against propping weak firms agreed",
+              "Cross-party durability sought"
+            ],
+            "uid": "col_dcb4c7d4-0da8-4738-b6ee-8e0d2066d7a5"
+          },
+          {
+            "h": "Direction set",
+            "boxes": [
+              "Focused industrial policy adopted",
+              "Priority sectors selected transparently",
+              "Long-term funding commitment made"
+            ],
+            "uid": "col_15af5e3d-455c-46c0-9b68-3bf143bce04d"
+          },
+          {
+            "h": "Mandate holds",
+            "boxes": [
+              "Stable long-term direction sustained",
+              "Policy credibility with firms established"
+            ],
+            "uid": "col_472a9546-6748-40d1-b98d-e97f6a4d13e3"
+          }
+        ],
+        "uid": "page_c8f3e8f7-134c-42a5-b7f1-a1de27e7beac"
+      },
+      {
+        "id": "p2",
+        "label": "Skills and workforce capability",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#ccfbf1",
+          "bdr": "#5eead4",
+          "tab": "#0d9488"
+        },
+        "cols": [
+          {
+            "h": "Skill demand understood",
+            "boxes": [
+              "Advanced manufacturing skill needs identified",
+              "Employer demand signals collected"
+            ],
+            "uid": "col_b3b7974e-b01e-4088-8a69-57b4f941f251"
+          },
+          {
+            "h": "Provision reshaped",
+            "boxes": [
+              "Vocational provision aligned to industry",
+              "Engineering and technician places expanded",
+              "Work-based learning strengthened"
+            ],
+            "uid": "col_3693e409-a927-4523-b53c-44b26cf8bed6"
+          },
+          {
+            "h": "Pipeline flows",
+            "boxes": [
+              "Trainee and apprentice numbers lifted",
+              "Specialist skills sourced through migration"
+            ],
+            "uid": "col_43526053-65ac-417c-bc57-69f76bf44c47"
+          },
+          {
+            "h": "Capability lands in firms",
+            "boxes": [
+              "Firms recruit needed technical skills",
+              "Existing workforce reskilled for automation",
+              "Management and leadership capability lifted",
+              "Skilled staff retained in New Zealand"
+            ],
+            "uid": "col_1d0cd759-30ad-4a80-9804-510bdcc05940"
+          },
+          {
+            "h": "Skills base built",
+            "boxes": [
+              "Commercially relevant skills base built"
+            ],
+            "uid": "col_7702b327-ee4e-49d5-ba64-1e8c2978d12c"
+          }
+        ],
+        "uid": "page_66ea7108-476f-4a3c-9d8d-ce45fd8657fe"
+      },
+      {
+        "id": "p3",
+        "label": "Technology adoption and firm productivity",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#fef3c7",
+          "bdr": "#fde68a",
+          "tab": "#f59e0b"
+        },
+        "cols": [
+          {
+            "h": "Adoption barriers surfaced",
+            "boxes": [
+              "Low capital intensity diagnosed",
+              "Small firm adoption barriers identified",
+              "Weak business investment understood"
+            ],
+            "uid": "col_c5bda8df-0286-4c69-b71b-1fe67e8017dc"
+          },
+          {
+            "h": "Adoption support in place",
+            "boxes": [
+              "Advisory and diagnostic support available",
+              "Co-investment for automation offered",
+              "Digital tools proven through demonstrators"
+            ],
+            "uid": "col_762a3627-74a9-4dde-8496-0e19b76a0e81"
+          },
+          {
+            "h": "Firms invest and adopt",
+            "boxes": [
+              "Firms invest in automation and digital tools",
+              "Process improvement capability embedded"
+            ],
+            "uid": "col_ff2592c1-f451-46df-9ddd-6128be08164a"
+          },
+          {
+            "h": "Productivity lifts",
+            "boxes": [
+              "Firm-level productivity lifted",
+              "Higher-value work retained onshore"
+            ],
+            "uid": "col_396bee55-a14d-4215-bdd6-9fee81b5b2d5"
+          }
+        ],
+        "uid": "page_dedf9af4-49bc-4e47-9027-f012f25ea9ec"
+      },
+      {
+        "id": "p4",
+        "label": "Industrial land, energy and consenting",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#dcfce7",
+          "bdr": "#86efac",
+          "tab": "#16a34a"
+        },
+        "cols": [
+          {
+            "h": "Constraints quantified",
+            "boxes": [
+              "Energy cost and reliability constraints mapped",
+              "Industrial land shortages identified",
+              "Consent processing delays quantified",
+              "Grid connection bottlenecks understood"
+            ],
+            "uid": "col_7c34e3d5-a7e1-45eb-8757-b1ca73c2e6e4"
+          },
+          {
+            "h": "Enabling conditions delivered",
+            "boxes": [
+              "Affordable reliable industrial energy secured",
+              "Serviced industrial land made available",
+              "Consent and connection timelines shortened"
+            ],
+            "uid": "col_2b37d17f-f7e8-49fe-8a1c-f60c3ecd3fda"
+          },
+          {
+            "h": "Investment proceeds onshore",
+            "boxes": [
+              "Industrial projects proceed in New Zealand",
+              "Expansion decisions kept onshore"
+            ],
+            "uid": "col_f02efb79-cefa-4357-8ff5-217c8584aeff"
+          }
+        ],
+        "uid": "page_99e8d93c-ad25-4f3e-8130-5875a784517d"
+      },
+      {
+        "id": "p5",
+        "label": "Applied research and commercialisation",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#a855f8"
+        },
+        "cols": [
+          {
+            "h": "Research direction set with industry",
+            "boxes": [
+              "Applied research priorities set with industry",
+              "Research centres focused on industry needs"
+            ],
+            "uid": "col_5e506f6c-71f2-4c68-84b9-512aeba2af34"
+          },
+          {
+            "h": "Firms and researchers connect",
+            "boxes": [
+              "Firms connected to research providers",
+              "Industry secondment and doctoral routes used",
+              "Shared testbeds and pilot lines available",
+              "Intellectual property terms made simpler"
+            ],
+            "uid": "col_11ddccd4-063d-4c9b-90e3-d9f547f0c464"
+          },
+          {
+            "h": "Ideas move toward market",
+            "boxes": [
+              "Prototypes validated at production scale",
+              "Commercialisation pathways navigated",
+              "Clusters formed around real strengths"
+            ],
+            "uid": "col_cd5e5278-ff51-497d-ae59-bf1b1aff9efa"
+          },
+          {
+            "h": "New products earn revenue",
+            "boxes": [
+              "New high-value products launched",
+              "Export revenue from local ideas grown"
+            ],
+            "uid": "col_00984bbb-ab6b-45f6-ab5c-75de8d2ef604"
+          },
+          {
+            "h": "Value stays onshore",
+            "boxes": [
+              "Value from local research retained onshore"
+            ],
+            "uid": "col_e36843e8-9074-4da9-8065-3a3d08fda9fc"
+          }
+        ],
+        "uid": "page_38ba1151-53c0-4297-9b3a-387f65b53b7a"
+      },
+      {
+        "id": "p6",
+        "label": "Capital, scaling and export growth",
+        "pageType": "this_then",
+        "color": {
+          "bg": "#ffe4e6",
+          "bdr": "#fecdd3",
+          "tab": "#e11d48"
+        },
+        "cols": [
+          {
+            "h": "Scaling gap diagnosed",
+            "boxes": [
+              "Scale-up gap identified beyond start-ups",
+              "Growth capital gaps identified",
+              "Small firm scale constraints understood"
+            ],
+            "uid": "col_046b1346-2048-4ae5-9470-e5bedfe801bc"
+          },
+          {
+            "h": "Capital available",
+            "boxes": [
+              "Growth and expansion capital available",
+              "Export credit and guarantees accessible"
+            ],
+            "uid": "col_1df106c6-79c8-4b95-b466-e966c5a5a4fa"
+          },
+          {
+            "h": "Firms build capability to scale",
+            "boxes": [
+              "Management depth built in growing firms",
+              "Firms invest in productive assets",
+              "International standards and compliance met",
+              "Export market knowledge built"
+            ],
+            "uid": "col_7d01bda3-ac62-4b7f-8430-4c8ab1246103"
+          },
+          {
+            "h": "Markets entered and held",
+            "boxes": [
+              "Export markets entered and held",
+              "Places won in global supply chains"
+            ],
+            "uid": "col_f4a25c10-7ae8-41b2-b496-b6cfd4b00c84"
+          },
+          {
+            "h": "Scale achieved",
+            "boxes": [
+              "More firms scaled beyond small size",
+              "High-value employment expanded",
+              "Manufacturing base broadened"
+            ],
+            "uid": "col_99eb6b3c-7224-4318-b7ae-9a9ba17f1403"
+          },
+          {
+            "h": "Export mix shifts",
+            "boxes": [
+              "Reliance on narrow primary exports reduced"
+            ],
+            "uid": "col_8b681d19-489f-4221-a7aa-ddb2d030a535"
+          }
+        ],
+        "uid": "page_958844ba-09c2-41ab-b1cb-485f36551981"
+      },
+      {
+        "id": "p7",
+        "label": "Industrial policy workstreams",
+        "pageType": "how",
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#64748b"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Publish a focused industrial policy",
+            "uid": "box_ebeff950-7ca1-4418-b756-a80ec50eb4d2"
+          },
+          {
+            "id": "H002",
+            "label": "Run transparent sector prioritisation",
+            "uid": "box_29af60f5-8f4a-4476-bec7-2bcc2834d1e8"
+          },
+          {
+            "id": "H003",
+            "label": "Build the advanced manufacturing skills pipeline",
+            "uid": "box_830e2ced-eb80-4f24-92dc-a296dddd33a6"
+          },
+          {
+            "id": "H004",
+            "label": "Deliver a technology adoption programme",
+            "uid": "box_5516a00e-e411-4f7c-a49c-a39dbd7fefc8"
+          },
+          {
+            "id": "H005",
+            "label": "Establish co-investment for automation",
+            "uid": "box_f8a6edc7-70cc-40eb-b392-9391ef1d7a21"
+          },
+          {
+            "id": "H006",
+            "label": "Fund applied research and shared testbeds",
+            "uid": "box_089b1a16-8803-4501-bd85-262bbf283051"
+          },
+          {
+            "id": "H007",
+            "label": "Run a commercialisation support service",
+            "uid": "box_e983f1e5-55af-4d4a-a2b2-9368e47a93e1"
+          },
+          {
+            "id": "H008",
+            "label": "Unlock serviced industrial land",
+            "uid": "box_6a11a5e0-ac16-486d-bcea-5c9fc5a7ed22"
+          },
+          {
+            "id": "H009",
+            "label": "Shorten consenting and grid connection",
+            "uid": "box_6a0da819-b909-4c64-8afa-533d3a2b27c8"
+          },
+          {
+            "id": "H010",
+            "label": "Secure affordable reliable industrial energy",
+            "uid": "box_91a128fb-3b23-466c-8dce-bf2be29fcbfb"
+          },
+          {
+            "id": "H011",
+            "label": "Provide growth and export capital",
+            "uid": "box_b1d588d6-2696-4b47-9937-7e9aff8dfe1e"
+          },
+          {
+            "id": "H012",
+            "label": "Attract and anchor global investment",
+            "uid": "box_63f8378a-fcbe-4e09-8aec-5fd96766952d"
+          },
+          {
+            "id": "H013",
+            "label": "Set up monitoring, evaluation and learning",
+            "uid": "box_b9ef6591-fe9a-4d09-9385-7f4c09ab6eec"
+          }
+        ],
+        "nextHowNum": 14,
+        "howLevel": 1,
+        "uid": "page_056b83c1-291e-4080-8d2f-980692709ea5"
+      },
+      {
+        "id": "p8",
+        "label": "Organisations and functions",
+        "pageType": "how",
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#64748b"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Economic development and industry ministry",
+            "uid": "box_4a6838d1-9354-4a04-a65a-e1d33b288103"
+          },
+          {
+            "id": "H002",
+            "label": "Trade and enterprise agency",
+            "uid": "box_6eb04888-e9c4-494b-8c85-b191422c9784"
+          },
+          {
+            "id": "H003",
+            "label": "Research and innovation funders",
+            "uid": "box_6ca08866-6ddb-470a-92ff-b64729dc61bf"
+          },
+          {
+            "id": "H004",
+            "label": "Tertiary and vocational education system",
+            "uid": "box_9465004d-4cb9-4476-83a7-4bbf50adb20e"
+          },
+          {
+            "id": "H005",
+            "label": "Energy regulators and system operators",
+            "uid": "box_b3a09c60-8163-4769-a172-4309b119561f"
+          },
+          {
+            "id": "H006",
+            "label": "Infrastructure and planning bodies",
+            "uid": "box_8cf9eaab-87a0-4d89-a3e2-919374c441d2"
+          },
+          {
+            "id": "H007",
+            "label": "Regional development organisations",
+            "uid": "box_7f5ac35c-71ee-4985-a737-3bf216be0dd9"
+          },
+          {
+            "id": "H008",
+            "label": "Industry and manufacturing associations",
+            "uid": "box_7be4d391-dbf6-49fc-942f-3e7572889c43"
+          },
+          {
+            "id": "H009",
+            "label": "Treasury and fiscal agencies",
+            "uid": "box_eb53ebfb-61b0-494c-9490-6b31cc40977f"
+          },
+          {
+            "id": "H010",
+            "label": "Universities and research institutes",
+            "uid": "box_39f2ab78-d50b-4323-b467-9c4c55cf6069"
+          }
+        ],
+        "nextHowNum": 11,
+        "howLevel": 2,
+        "uid": "page_07239e91-1223-4850-8efa-9dc698f8518f"
+      },
+      {
+        "id": "p9",
+        "label": "Competencies Cross-Link",
+        "pageType": "how",
+        "color": {
+          "bg": "#f1f5f9",
+          "bdr": "#cbd5e1",
+          "tab": "#64748b"
+        },
+        "cols": [],
+        "howBoxes": [
+          {
+            "id": "H001",
+            "label": "Sector analysis and evidence",
+            "uid": "box_00d641bd-fcd2-4dea-a345-fd733d8c7535"
+          },
+          {
+            "id": "H002",
+            "label": "Programme design and delivery",
+            "uid": "box_39e34bf9-4d79-4124-b07d-26d136ccbe72"
+          },
+          {
+            "id": "H003",
+            "label": "Firm-level advisory capability",
+            "uid": "box_9cd23c9d-6f24-4f08-84a8-792a7be9f775"
+          },
+          {
+            "id": "H004",
+            "label": "Capital markets expertise",
+            "uid": "box_37fe1461-6ca3-4dce-a6f8-d5da95402b12"
+          },
+          {
+            "id": "H005",
+            "label": "Consenting and planning expertise",
+            "uid": "box_20d3dee5-31b0-46c3-89b4-e57671159fc5"
+          },
+          {
+            "id": "H006",
+            "label": "Energy system planning",
+            "uid": "box_b21022b8-7e58-4a97-9cd1-88bee9ad05aa"
+          },
+          {
+            "id": "H007",
+            "label": "International investment attraction",
+            "uid": "box_4d26acad-20d2-46fa-aeb1-8a2328ed24a6"
+          },
+          {
+            "id": "H008",
+            "label": "Evaluation and learning",
+            "uid": "box_cf12ec47-2899-476b-b75d-656632934036"
+          },
+          {
+            "id": "H009",
+            "label": "Industry engagement and trust",
+            "uid": "box_72b08731-c007-45f5-8c95-2fd4ee649aa2"
+          },
+          {
+            "id": "H010",
+            "label": "Long-term stewardship",
+            "uid": "box_57a8b804-2283-4d0d-95c4-ccd7eae3836e"
+          }
+        ],
+        "nextHowNum": 11,
+        "howLevel": null,
+        "uid": "page_a39a8eed-2cad-4070-beac-1d73e06d0bef"
+      },
+      {
+        "id": "p10",
+        "label": "Purpose, scope, assumptions, sources and cautions",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3f4f6",
+          "bdr": "#d1d5db",
+          "tab": "#6b7280"
+        },
+        "cols": [],
+        "uid": "page_5329b337-0a4f-4cb9-af34-2f6bdda56b7e"
+      },
+      {
+        "id": "p11",
+        "label": "Illustrative monitoring and evaluation plan",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3f4f6",
+          "bdr": "#d1d5db",
+          "tab": "#6b7280"
+        },
+        "cols": [],
+        "uid": "page_f931747e-78da-4d8e-a6b2-552e3acfd424"
+      },
+      {
+        "id": "p12",
+        "label": "Using DoView Boards and Disclaimer",
+        "pageType": "documentation",
+        "color": {
+          "bg": "#f3e8ff",
+          "bdr": "#d8b4fe",
+          "tab": "#8b5cf6"
+        },
+        "cols": [],
+        "uid": "page_17fd03a2-954e-46fc-b666-71196c132b76"
+      }
+    ],
+    "FO": [
+      "Productivity and economic growth lifted",
+      "High-value manufacturing base grown",
+      "Better-paid jobs and export earnings sustained",
+      "Living standards maintained without more borrowing"
+    ],
+    "boardInfo": "Proof-of-concept DoView Board modelling the argument in Sean Doherty's article \"New Zealand's favourite economies do not succeed by accident\" (NZ Manufacturer, 19 August 2026). The board sets out what would have to happen, and in what order, for the focused industrial policy the article calls for to produce the productivity, export and wage outcomes it points to in Singapore, Ireland and Denmark.\n\nThis is a model of one commentator's argument. It is not government policy, not an agreed plan, and not endorsed by the author, NZ Manufacturer, or any agency. The causal links express the article's reasoning and several are genuinely contestable — that is the point of putting them on a board where they can be seen and argued with.\n\nBuilt with the official DoView Boards V1.4.3 prompt package. This work uses the DoView Planning approach and DoView Boards developed by Dr Paul Duignan. See DoViewPlanning.org.\n\nTRAFFIC LIGHTS ON THIS BOARD ARE AN AI ASSESSMENT. Each This-Then box carries a traffic light rating how well New Zealand appears to be doing on that outcome, with the reasoning and a supporting public source in the box Display Text. These ratings were generated by an AI system reading public evidence in August 2026. They are a starting point for argument, not an authoritative scorecard, and they have not been reviewed by the article's author, by any agency, or by any domain expert. Where public evidence did not support a judgement, the box is left grey rather than guessed at.",
+    "pageInfo": {
+      "p1": "Follows the article's central claim: New Zealand cites Singapore, Ireland and Denmark as benchmarks but has not adopted the focused industrial policy behind their results. The page treats the political argument as a real causal stage, not a preamble.",
+      "p2": "A supply pipeline whose real bottleneck sits late, inside firms, rather than at the training end. Density is therefore loaded on the fourth column, where trained people either land, reskill and stay, or do not.",
+      "p3": "A barrier-removal page: each diagnosed barrier is answered by a matched support instrument, then narrows to firm behaviour and its productivity consequence. Wide at the front, narrow at the back, because many barriers converge on one investment decision.",
+      "p4": "The shortest page, and deliberately so. Denmark's Red Carpet reasoning is a gate rather than a chain: constraints are either cleared or the project goes offshore. Three stages capture it without inventing intermediate outcomes.",
+      "p5": "A translation chain from research direction to retained value, addressing the article's point about too little commercialisation. Density peaks in the second column because connection mechanisms, not research volume, are where the chain breaks.",
+      "p6": "The longest page because scaling is genuinely the longest journey in the article: capital alone is insufficient, so a capability column sits between finance and market entry, and the export-mix shift is a separate later consequence rather than a restatement of scale.",
+      "p7": "Level 1 delivery workstreams implied by the article's list of things comparator countries actually backed. Illustrative only — a real board would replace these with named programmes and owners.",
+      "p8": "Level 2 functions rather than named agencies, because the article argues about policy design rather than machinery of government. Replace with the actual organisations before operational use.",
+      "p9": "A no-level page for cross-cutting competencies. Competencies are mapped selectively to Level 1 workstreams in Step 2; several may carry no links at all.",
+      "overview": "Six pathways drawn from the article, plus How Pages for workstreams, functions and competencies. Start with Policy direction and mandate — the article's argument is that nothing downstream happens without it.",
+      "final": "The outcomes the article points to when it cites Singapore, Ireland and Denmark. The last one is the article's closing warning stated positively."
+    },
+    "docContent": {
+      "p10": "<h2>Purpose</h2>\n<p>This board is a proof-of-concept DoView model of the argument set out by Sean Doherty in\n<em>New Zealand's favourite economies do not succeed by accident</em>, published by NZ Manufacturer on 19 August 2026.\nIt turns that opinion piece into an explicit outcomes model so the causal claims inside it can be seen, tested and argued with.</p>\n\n<h2>Scope</h2>\n<p>The board covers six pathways drawn from the article: policy direction and mandate; skills and workforce capability;\ntechnology adoption and firm productivity; industrial land, energy and consenting; applied research and commercialisation;\nand capital, scaling and export growth. It does not cover fiscal settings, tax design, immigration policy beyond specialist\nskills, trade agreements, or the machinery-of-government questions the article does not raise.</p>\n\n<h2>Assumptions</h2>\n<ul>\n<li>The article's core claim is treated as the board's spine: that comparator-country performance follows deliberate policy choices rather than accident.</li>\n<li>Level 2 How Boxes name functions rather than specific agencies, because the article argues about policy design, not institutional structure.</li>\n<li>Comparator detail is used as the article reports it. No additional claims about Singapore, Ireland or Denmark have been added from other sources.</li>\n<li>Causal direction reflects the article's reasoning, not independently established evidence. Several links are contestable and are meant to be argued about.</li>\n</ul>\n\n<h2>Sources</h2>\n<p>The board content derives from a single public source, listed in board Sources: Sean Doherty, \"New Zealand's favourite\neconomies do not succeed by accident\", NZ Manufacturer, 19 August 2026 —\n<a href=\"https://nzmanufacturer.co.nz/2026/08/new-zealands-favourite-economies-do-not-succeed-by-accident/\">nzmanufacturer.co.nz</a>. Quotations attributed in that article to Gan Kim Yong, Peter Burke and\nMorten B&oslash;dskov are not reproduced here; box labels paraphrase the article's argument in outcome form.</p>\n\n<h2>Traffic light assessments</h2>\n<p>Every This&ndash;Then box carries a traffic light recording an assessment of how well New Zealand is\ncurrently doing on that outcome, with the reasoning and a supporting public source in the box Display Text.\nGreen indicates the outcome is largely being achieved; red indicates it is not; grey means public evidence\ndid not support a judgement either way.</p>\n<p><strong>These ratings are an AI assessment made in August 2026 from public sources.</strong> They are\nintended to provoke argument, not to settle it. They have not been reviewed by the article's author, by\nNZ Manufacturer, by any agency, or by any domain expert. Several ratings turn on judgement calls a\nspecialist would reasonably contest &mdash; particularly on the policy and mandate page, where the\nassessment tracks the article's own argument closely. Check each rating against its source before\nrelying on it.</p>\n\n<h2>Cautions and limitations</h2>\n<ul>\n<li>This is a model of one commentator's argument, not a government strategy, an agreed plan, or an evidence review.</li>\n<li>The board is AI-assisted and has not been reviewed by the author, by NZ Manufacturer, or by any agency.</li>\n<li>Boxes are illustrative outcome statements. Measures and evaluation questions are placeholders for discussion, not a monitoring framework.</li>\n<li>Uncertainty is highest on the cross-page links, where one pathway is assumed to enable another.</li>\n</ul>\n\n<h2>Attribution</h2>\n<p>This work uses the DoView Planning approach and DoView Boards developed by Dr Paul Duignan. See DoViewPlanning.org.</p>\n<p>The underlying argument is the work of Sean Doherty, Manufacturing Commentator, NZ Industry Trends, published in NZ Manufacturer.\nModelling it here does not imply his endorsement, or NZ Manufacturer's, of this board or of any interpretation in it.</p>\n",
+      "p11": "<h2>Illustrative monitoring and evaluation plan</h2>\n<p><strong>This is a placeholder plan, not a monitoring framework.</strong> It shows the shape a monitoring and evaluation\nplan would take for a board like this one. Every measure, question, baseline, target, owner and reporting cycle would need\nto be established by the people accountable for the work before any of it is used.</p>\n\n<h3>What would be monitored</h3>\n<p>The board's measures sit against the outcomes where movement would be observable earliest. They are deliberately few.</p>\n<div class=\"doc-clone\" data-clone-type=\"measure\" data-clone-key=\"M001\"></div>\n<div class=\"doc-clone\" data-clone-type=\"measure\" data-clone-key=\"M002\"></div>\n<div class=\"doc-clone\" data-clone-type=\"measure\" data-clone-key=\"M004\"></div>\n\n<h3>What would be evaluated</h3>\n<p>Monitoring shows movement; it does not explain it. These questions are the ones a real evaluation would need to answer,\nand they are the ones most likely to be uncomfortable.</p>\n<div class=\"doc-clone\" data-clone-type=\"eval_question\" data-clone-key=\"EQ001\"></div>\n<div class=\"doc-clone\" data-clone-type=\"eval_question\" data-clone-key=\"EQ002\"></div>\n<div class=\"doc-clone\" data-clone-type=\"eval_question\" data-clone-key=\"EQ003\"></div>\n\n<h3>Sequencing</h3>\n<ul>\n<li><strong>Early.</strong> Whether the policy direction actually held, and whether sector choices were made transparently. Governance evidence, not outcome data.</li>\n<li><strong>Middle.</strong> Whether support instruments reached the firms they were designed for, particularly smaller ones, and whether skills provision shifted.</li>\n<li><strong>Late.</strong> Whether productivity, scaling and export composition moved. These lag by years and are heavily influenced by factors outside the board.</li>\n</ul>\n\n<h3>Attribution caution</h3>\n<p>Productivity and export-mix outcomes have many causes. Exchange rates, commodity cycles, global demand and firm-level\ndecisions will move these numbers regardless of policy. Any evaluation should treat contribution rather than attribution\nas the realistic standard, and should say plainly where it cannot separate policy effect from context.</p>\n\n<h3>Known gaps in this placeholder</h3>\n<p>No baselines, no targets, no data sources, no owners, no reporting cycle, no cost information, and no evaluation design.\nA real plan needs all of these.</p>\n",
+      "p12": "<h1>Using DoView Boards and Disclaimer</h1>\n<p>See the disclaimer section below.</p>\n<p>The DoView Board prompt and the DoView Board built within this DoView Board prototype app are provided free of charge so that anyone can experiment with DoView Boards and explore for themselves how they can answer the 20 key questions that anyone running or overseeing an organization needs to answer. See <a href=\"https://doviewplanning.org/doviewboards\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/doviewboards</a>.</p>\n<h2>Walk-Through</h2>\n<p>To get a walk-through for using DoView Boards, see <a href=\"https://doviewplanning.org/walkthrough\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/walkthrough</a>.</p>\n<h2>Accessing Consulting or Training</h2>\n<p>We can provide consulting or training on integrating the use of DoView Boards into your existing planning, implementation and reporting workflows in business, government, or nonprofit settings. See <a href=\"https://doviewplanning.org/offerings\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/offerings</a>.</p>\n<h2>Adapting the DoView Board Prototype App to your setting</h2>\n<p>This DoView Board is being used within the DoView Board prototype app. It is a free of charge app that runs inside any browser window and can be used for piloting, testing, proof-of-concept and for use where confidential information is not being included and where there is a low security risk.</p>\n<p>The DoView Board app is an open-source developer project under an Apache-2.0 open-source license. See <a href=\"https://github.com/doviewplanning/official-doview-boards\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/doviewplanning/official-doview-boards</a>. The wider DoView Planning methodology and DoView® trademarks are governed separately. See <a href=\"https://doviewplanning.org/trademarkuse\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/trademarkuse</a>.</p>\n<p>Because it is an open-source project, any developer can extend, harden, adapt, or include features of the DoView Board app in other planning products or systems to suit specific deployment requirements. For example, adding enhanced stability, scalability, security, authentication, data handling, or integration features needed for production use, sensitive content, or higher-security environments. If you are looking to deploy DoView Boards in a live operational setting, you can work with any developer to tailor the app to your needs. You can also get in touch with us for advice and methodological input into the best way for you to adapt and extend your use of DoView Boards in your particular setting. <a href=\"https://doviewplanning.org/contact\" target=\"_blank\" rel=\"noopener noreferrer\">https://doviewplanning.org/contact</a>.</p>\n<h2>Disclaimer</h2>\n<p>DoView Boards are provided for planning and illustrative purposes only. The content of any DoView Board does not constitute professional advice of any kind, including but not limited to legal, financial, medical, strategic, or organizational advice. No warranty is given as to the accuracy, completeness, or fitness for purpose of any content. The usual precautions for AI-generated material need to be taken. Dr Paul Duignan, DoViewPlanning.org, The Ideas Web Ltd, DoView Corporation Ltd and any associated parties accept no liability whatsoever for any loss, damage, or adverse outcome arising directly or indirectly from the use of, or reliance on, any DoView Board or its contents. Use entirely at your own risk.</p>\n<p>Please note that this DoView Board is in an interactive HTML file and contains active JavaScript so the board can work. Only open boards from sources you trust. Read-only copies disable editing through the board interface but are not security protection.</p>"
+    },
+    "ttLinks": [
+      {
+        "id": "ttl_1",
+        "from": "p1-c0-b0",
+        "to": "p1-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6ab9fb47-38b2-45b9-b1ae-8d9f4f31dae2"
+      },
+      {
+        "id": "ttl_2",
+        "from": "p1-c0-b1",
+        "to": "p1-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_633b5369-4c1d-43f1-b4a8-1a49d73bebcd"
+      },
+      {
+        "id": "ttl_3",
+        "from": "p1-c0-b2",
+        "to": "p1-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_fd076071-6a3d-4273-b95a-23373ffad467"
+      },
+      {
+        "id": "ttl_4",
+        "from": "p1-c0-b3",
+        "to": "p1-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b44641ef-34ec-4672-8271-0cd90dd3ddeb"
+      },
+      {
+        "id": "ttl_5",
+        "from": "p1-c0-b4",
+        "to": "p1-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d8c9e2f9-47a7-4861-832f-f69869d97a5c"
+      },
+      {
+        "id": "ttl_6",
+        "from": "p1-c0-b0",
+        "to": "p1-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1fd17bfa-4066-434d-81e7-3c79d685f1ee"
+      },
+      {
+        "id": "ttl_7",
+        "from": "p1-c0-b1",
+        "to": "p1-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8d052f0b-508c-42c0-8188-852141915c31"
+      },
+      {
+        "id": "ttl_8",
+        "from": "p1-c1-b0",
+        "to": "p1-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_00fd9b6e-3f67-40a8-8a96-70633d883b20"
+      },
+      {
+        "id": "ttl_9",
+        "from": "p1-c1-b1",
+        "to": "p1-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_476aa64a-5802-41ee-8cb2-1ac04c57fd4c"
+      },
+      {
+        "id": "ttl_10",
+        "from": "p1-c1-b1",
+        "to": "p1-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_35f7cfaf-fddf-49dd-9815-505014f479f3"
+      },
+      {
+        "id": "ttl_11",
+        "from": "p1-c1-b2",
+        "to": "p1-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_76617dd4-3ec5-408b-82ed-eea25daec238"
+      },
+      {
+        "id": "ttl_12",
+        "from": "p1-c2-b0",
+        "to": "p1-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_dfd649fc-25d0-41d1-9277-177f834a9b74"
+      },
+      {
+        "id": "ttl_13",
+        "from": "p1-c2-b0",
+        "to": "p1-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0a27d6f7-bd5e-4d2e-bbf5-2de098962c6c"
+      },
+      {
+        "id": "ttl_14",
+        "from": "p1-c2-b1",
+        "to": "p1-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_43d2b5c4-a379-4159-87b0-3dc06b3b6db0"
+      },
+      {
+        "id": "ttl_15",
+        "from": "p1-c2-b2",
+        "to": "p1-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2a873eb7-7e9b-4734-871a-33f29ae442fc"
+      },
+      {
+        "id": "ttl_16",
+        "from": "p1-c2-b2",
+        "to": "p1-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_34a56f6f-4d1a-4f87-b4f6-fa65460f9b25"
+      },
+      {
+        "id": "ttl_17",
+        "from": "p2-c0-b0",
+        "to": "p2-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5aa29d93-70e6-46d6-9d6b-026dd197983c"
+      },
+      {
+        "id": "ttl_18",
+        "from": "p2-c0-b0",
+        "to": "p2-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_27ebb498-9caf-476d-9833-717d9c0bd125"
+      },
+      {
+        "id": "ttl_19",
+        "from": "p2-c0-b1",
+        "to": "p2-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_f28ae2b1-eb9f-4f4a-94a9-64de7bfb50eb"
+      },
+      {
+        "id": "ttl_20",
+        "from": "p2-c0-b1",
+        "to": "p2-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_56183999-ca52-4c4b-8030-c1479cb10fde"
+      },
+      {
+        "id": "ttl_21",
+        "from": "p2-c1-b0",
+        "to": "p2-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_426703c8-bf12-4a3c-a738-6c79d51aa161"
+      },
+      {
+        "id": "ttl_22",
+        "from": "p2-c1-b1",
+        "to": "p2-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_049ff8c2-43f4-4583-ac00-b47aec2877bc"
+      },
+      {
+        "id": "ttl_23",
+        "from": "p2-c1-b2",
+        "to": "p2-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_76a6fa6d-19ed-4125-90d4-db8c4e2f0470"
+      },
+      {
+        "id": "ttl_24",
+        "from": "p2-c0-b0",
+        "to": "p2-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a0148a31-dfb2-4a8e-ba2d-424744adee14"
+      },
+      {
+        "id": "ttl_25",
+        "from": "p2-c2-b0",
+        "to": "p2-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_9331acf4-a9b1-4062-9aa2-e041fd4ace56"
+      },
+      {
+        "id": "ttl_26",
+        "from": "p2-c2-b1",
+        "to": "p2-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a97f7b4d-d69e-411c-8465-9fe3d2204bbd"
+      },
+      {
+        "id": "ttl_27",
+        "from": "p2-c1-b2",
+        "to": "p2-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_21a46305-d51d-4ed2-abe5-563d7fb0b3d4"
+      },
+      {
+        "id": "ttl_28",
+        "from": "p2-c1-b0",
+        "to": "p2-c3-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_96ff8e8f-c7fe-4c03-af23-bcd4798a6a80"
+      },
+      {
+        "id": "ttl_29",
+        "from": "p2-c2-b0",
+        "to": "p2-c3-b3",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_f29f477b-79f2-4bf9-9a6c-52e621fb6e09"
+      },
+      {
+        "id": "ttl_30",
+        "from": "p2-c3-b0",
+        "to": "p2-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_efcf7ad0-0a20-4481-81e2-4782d54d8127"
+      },
+      {
+        "id": "ttl_31",
+        "from": "p2-c3-b1",
+        "to": "p2-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e954d016-d0d5-490f-b842-42337379b72d"
+      },
+      {
+        "id": "ttl_32",
+        "from": "p2-c3-b2",
+        "to": "p2-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7662619e-94c7-440a-8651-feeba4170e8c"
+      },
+      {
+        "id": "ttl_33",
+        "from": "p2-c3-b3",
+        "to": "p2-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_df4d8e09-c863-4148-ac4d-3b1ba3729ecc"
+      },
+      {
+        "id": "ttl_34",
+        "from": "p3-c0-b0",
+        "to": "p3-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_9708bcc3-0b60-4658-ba2b-13ac914dfe7e"
+      },
+      {
+        "id": "ttl_35",
+        "from": "p3-c0-b1",
+        "to": "p3-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_63414b73-9d21-411a-a270-75bdbfd85cb4"
+      },
+      {
+        "id": "ttl_36",
+        "from": "p3-c0-b1",
+        "to": "p3-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_f747cba5-1c02-4f3b-9fdc-65faaf8540ba"
+      },
+      {
+        "id": "ttl_37",
+        "from": "p3-c0-b2",
+        "to": "p3-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0145dd64-37bf-4676-8119-51423ef11922"
+      },
+      {
+        "id": "ttl_38",
+        "from": "p3-c1-b0",
+        "to": "p3-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e14e5a21-0717-4daf-b68c-39016ab3a230"
+      },
+      {
+        "id": "ttl_39",
+        "from": "p3-c1-b1",
+        "to": "p3-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4b5ba4a7-24a4-4fdd-b032-81704fdf72d5"
+      },
+      {
+        "id": "ttl_40",
+        "from": "p3-c1-b2",
+        "to": "p3-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7cb7341e-29da-4179-9d3b-5b82569b064b"
+      },
+      {
+        "id": "ttl_41",
+        "from": "p3-c1-b0",
+        "to": "p3-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_81c4b0d3-0ba2-4e28-9f79-95049db83593"
+      },
+      {
+        "id": "ttl_42",
+        "from": "p3-c2-b0",
+        "to": "p3-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_63583d80-25d6-44a1-9026-38227a426b17"
+      },
+      {
+        "id": "ttl_43",
+        "from": "p3-c2-b1",
+        "to": "p3-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_3f36c240-2c51-4730-bd50-04201cb3bb53"
+      },
+      {
+        "id": "ttl_44",
+        "from": "p3-c2-b0",
+        "to": "p3-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_04742b3f-9c99-4bd1-82a8-7dbf58c0d087"
+      },
+      {
+        "id": "ttl_45",
+        "from": "p4-c0-b0",
+        "to": "p4-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_1e5ddd00-24df-457d-b0f6-955f82a71d0c"
+      },
+      {
+        "id": "ttl_46",
+        "from": "p4-c0-b3",
+        "to": "p4-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e2ef8e14-849d-4d8f-8265-4360294fb362"
+      },
+      {
+        "id": "ttl_47",
+        "from": "p4-c0-b1",
+        "to": "p4-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_35910a5c-d166-4f23-a9e7-2021461f1446"
+      },
+      {
+        "id": "ttl_48",
+        "from": "p4-c0-b2",
+        "to": "p4-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7f807e2c-362e-43e0-975a-77741c9c6762"
+      },
+      {
+        "id": "ttl_49",
+        "from": "p4-c0-b3",
+        "to": "p4-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a1a7a60b-edba-4f45-a267-7d2f29b3941e"
+      },
+      {
+        "id": "ttl_50",
+        "from": "p4-c1-b0",
+        "to": "p4-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_bc2271b3-10c3-4aae-9aff-650f9633fb61"
+      },
+      {
+        "id": "ttl_51",
+        "from": "p4-c1-b1",
+        "to": "p4-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_26fc1b17-20f3-43e9-b9cd-eedbd406d757"
+      },
+      {
+        "id": "ttl_52",
+        "from": "p4-c1-b2",
+        "to": "p4-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0564c0f8-3e7c-4b7a-96cc-965d4f283598"
+      },
+      {
+        "id": "ttl_53",
+        "from": "p4-c1-b0",
+        "to": "p4-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_cb57ba6b-29d9-48e4-b31c-f5cd63c8c5c4"
+      },
+      {
+        "id": "ttl_54",
+        "from": "p4-c1-b1",
+        "to": "p4-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d860142f-4d5f-4cdf-a128-3f32e64ed5bf"
+      },
+      {
+        "id": "ttl_55",
+        "from": "p5-c0-b0",
+        "to": "p5-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_49e69ff0-4bff-4ab5-ba77-4848133f9f16"
+      },
+      {
+        "id": "ttl_56",
+        "from": "p5-c0-b0",
+        "to": "p5-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_9d443613-246b-46ad-bbbe-227cbcd5d494"
+      },
+      {
+        "id": "ttl_57",
+        "from": "p5-c0-b1",
+        "to": "p5-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_11cde8c9-6875-4553-a5f3-8fd8d7731b41"
+      },
+      {
+        "id": "ttl_58",
+        "from": "p5-c0-b1",
+        "to": "p5-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_075d9821-a528-469c-8fee-284176a6954d"
+      },
+      {
+        "id": "ttl_59",
+        "from": "p5-c1-b0",
+        "to": "p5-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_86f9326e-81a2-4681-bed0-cf34945324f5"
+      },
+      {
+        "id": "ttl_60",
+        "from": "p5-c1-b2",
+        "to": "p5-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_47fcbb56-031e-4a4e-948d-59d615071cfa"
+      },
+      {
+        "id": "ttl_61",
+        "from": "p5-c1-b3",
+        "to": "p5-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d366c237-b842-4f2c-b4d2-18573cbc61ed"
+      },
+      {
+        "id": "ttl_62",
+        "from": "p5-c1-b0",
+        "to": "p5-c2-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_5c74aace-2f10-4588-8c6f-ec14a7beec54"
+      },
+      {
+        "id": "ttl_63",
+        "from": "p5-c1-b1",
+        "to": "p5-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a7202d6c-d26c-4c81-9ba4-190e6bb76ce1"
+      },
+      {
+        "id": "ttl_64",
+        "from": "p5-c2-b0",
+        "to": "p5-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_29945673-70af-4e9d-bb62-8a70c2102797"
+      },
+      {
+        "id": "ttl_65",
+        "from": "p5-c2-b1",
+        "to": "p5-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d6126ec1-0556-46b9-acbc-8bd969da15f9"
+      },
+      {
+        "id": "ttl_66",
+        "from": "p5-c2-b2",
+        "to": "p5-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b1ce544c-f95a-451f-8dab-b86f1204a406"
+      },
+      {
+        "id": "ttl_67",
+        "from": "p5-c3-b0",
+        "to": "p5-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c2391ff8-6699-4831-b841-7400e24e9a08"
+      },
+      {
+        "id": "ttl_68",
+        "from": "p5-c3-b1",
+        "to": "p5-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_4292563a-90b7-4267-aeb2-2c6bba345da4"
+      },
+      {
+        "id": "ttl_69",
+        "from": "p5-c2-b2",
+        "to": "p5-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6ab7b855-8b28-4580-a09e-81a6f93b76c4"
+      },
+      {
+        "id": "ttl_70",
+        "from": "p6-c0-b0",
+        "to": "p6-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_9c53c181-d0dd-442d-9704-95fb7ddff3b1"
+      },
+      {
+        "id": "ttl_71",
+        "from": "p6-c0-b1",
+        "to": "p6-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_bb84b9e4-6a36-4e1d-b08f-b465ffc734fb"
+      },
+      {
+        "id": "ttl_72",
+        "from": "p6-c0-b1",
+        "to": "p6-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b51a8408-4806-4361-bf86-2660a83a65ba"
+      },
+      {
+        "id": "ttl_73",
+        "from": "p6-c0-b2",
+        "to": "p6-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_204a9713-f83e-49e9-b4da-d2a564db0019"
+      },
+      {
+        "id": "ttl_74",
+        "from": "p6-c0-b2",
+        "to": "p6-c2-b3",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_514a48a9-8cb1-4489-a0df-c94e94b22ca2"
+      },
+      {
+        "id": "ttl_75",
+        "from": "p6-c1-b0",
+        "to": "p6-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6a9e1050-8b53-41cf-9569-0a670579d4e3"
+      },
+      {
+        "id": "ttl_76",
+        "from": "p6-c1-b0",
+        "to": "p6-c2-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_d1276c40-448a-4252-8629-a9bc9b0ead0c"
+      },
+      {
+        "id": "ttl_77",
+        "from": "p6-c1-b1",
+        "to": "p6-c2-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_008d1a27-0b3e-47ed-acb9-79ded839811a"
+      },
+      {
+        "id": "ttl_78",
+        "from": "p6-c2-b0",
+        "to": "p6-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_6db04210-5b99-4a4c-939f-ad493eaa40ce"
+      },
+      {
+        "id": "ttl_79",
+        "from": "p6-c2-b2",
+        "to": "p6-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_b518823c-be3b-4b4c-bc43-9ce9d4504f85"
+      },
+      {
+        "id": "ttl_80",
+        "from": "p6-c2-b3",
+        "to": "p6-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_dd3282a4-5f53-4479-8146-12ab6c080c2e"
+      },
+      {
+        "id": "ttl_81",
+        "from": "p6-c2-b1",
+        "to": "p6-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_905b702e-5bfe-43f3-912a-e8e6efeac629"
+      },
+      {
+        "id": "ttl_82",
+        "from": "p6-c2-b2",
+        "to": "p6-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_982ae28a-58dd-4b43-8b81-2c2be402107c"
+      },
+      {
+        "id": "ttl_83",
+        "from": "p6-c3-b0",
+        "to": "p6-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_8759cdeb-06c8-4668-8124-15631b54b795"
+      },
+      {
+        "id": "ttl_84",
+        "from": "p6-c3-b1",
+        "to": "p6-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_086eafea-5b4e-494d-9c9e-b80cdfb4ae49"
+      },
+      {
+        "id": "ttl_85",
+        "from": "p6-c2-b1",
+        "to": "p6-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_93666755-bc7d-43f8-85e0-4e29316ddca4"
+      },
+      {
+        "id": "ttl_86",
+        "from": "p6-c3-b0",
+        "to": "p6-c4-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_06bba03a-3578-4acb-a865-0afe1b87528c"
+      },
+      {
+        "id": "ttl_87",
+        "from": "p6-c3-b0",
+        "to": "p6-c4-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_981348e8-d2ed-43b0-8883-91f01e01e755"
+      },
+      {
+        "id": "ttl_88",
+        "from": "p6-c3-b1",
+        "to": "p6-c4-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0838f381-edc1-4517-971b-aea72b83e10c"
+      },
+      {
+        "id": "ttl_89",
+        "from": "p6-c4-b2",
+        "to": "p6-c5-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_c5d57c95-6517-488f-8f44-8020cbbaeea6"
+      },
+      {
+        "id": "ttl_90",
+        "from": "p6-c4-b1",
+        "to": "p6-c5-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_392d58da-9541-4ec0-bd74-cbec2cc24e26"
+      },
+      {
+        "id": "ttl_91",
+        "from": "p1-c3-b0",
+        "to": "p2-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_ce26be92-14e9-4a0e-914d-642f60254da3"
+      },
+      {
+        "id": "ttl_92",
+        "from": "p1-c2-b1",
+        "to": "p5-c0-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_a39d82bc-a7f4-4191-be6b-6463393f00e4"
+      },
+      {
+        "id": "ttl_93",
+        "from": "p1-c2-b2",
+        "to": "p3-c1-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_27e8bcd1-49a2-4aee-abe4-d48091b4f36e"
+      },
+      {
+        "id": "ttl_94",
+        "from": "p1-c3-b1",
+        "to": "p6-c1-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_2b7b996d-2375-4ca7-84c2-6b0f922f0dfd"
+      },
+      {
+        "id": "ttl_95",
+        "from": "p1-c2-b0",
+        "to": "p4-c1-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_0e0d2838-206a-4abf-901d-5db84b974cea"
+      },
+      {
+        "id": "ttl_96",
+        "from": "p2-c4-b0",
+        "to": "p3-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_9a7535bf-b3a5-4b7d-8a85-7d1bff57cc4f"
+      },
+      {
+        "id": "ttl_97",
+        "from": "p2-c4-b0",
+        "to": "p6-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_7daae8b0-3b81-42fc-b785-b27d8d5a9cf9"
+      },
+      {
+        "id": "ttl_98",
+        "from": "p4-c1-b0",
+        "to": "p3-c2-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_565da385-1f6a-4b1a-8938-993edc73b2bd"
+      },
+      {
+        "id": "ttl_99",
+        "from": "p4-c2-b0",
+        "to": "p6-c4-b2",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_24a2bb43-9c3a-4138-ab4e-51287773eabe"
+      },
+      {
+        "id": "ttl_100",
+        "from": "p5-c3-b0",
+        "to": "p6-c3-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_e866c7b8-a4f2-403f-b403-aa6461d21ba3"
+      },
+      {
+        "id": "ttl_101",
+        "from": "p3-c3-b0",
+        "to": "p6-c4-b0",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_bc468b2e-2ba0-4527-9e38-db62c165aa2a"
+      },
+      {
+        "id": "ttl_102",
+        "from": "p5-c2-b2",
+        "to": "p6-c3-b1",
+        "polarity": "",
+        "light": "",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "measures": [],
+        "evalQuestions": [],
+        "tagIds": [],
+        "uid": "link_23643b8c-0372-4e0d-9168-c60cd529f89d"
+      }
+    ],
+    "ttLinkNextId": 103,
+    "howLinks": [
+      {
+        "id": "hwl_1",
+        "from": "p7-H001",
+        "to": "p1-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_c1dde238-6451-4efb-99cb-ff5ef382dccb"
+      },
+      {
+        "id": "hwl_2",
+        "from": "p7-H001",
+        "to": "p1-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_0eca2308-c893-4a05-83dd-f590056e333a"
+      },
+      {
+        "id": "hwl_3",
+        "from": "p7-H001",
+        "to": "p1-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e9e20eb7-e617-4b17-8dc4-30072a295370"
+      },
+      {
+        "id": "hwl_4",
+        "from": "p7-H001",
+        "to": "p1-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_f2dd8995-e086-4562-88e7-0caf5d26108b"
+      },
+      {
+        "id": "hwl_5",
+        "from": "p7-H002",
+        "to": "p1-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_85f355be-352f-4e03-8494-a6e86670722f"
+      },
+      {
+        "id": "hwl_6",
+        "from": "p7-H002",
+        "to": "p1-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_52293971-b105-4190-9366-01db275787e2"
+      },
+      {
+        "id": "hwl_7",
+        "from": "p7-H003",
+        "to": "p2-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_218b0268-8900-48d9-95bb-1907be6b711b"
+      },
+      {
+        "id": "hwl_8",
+        "from": "p7-H003",
+        "to": "p2-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_cb92e767-f209-4908-a6e9-5621fe0a5b7f"
+      },
+      {
+        "id": "hwl_9",
+        "from": "p7-H003",
+        "to": "p2-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_9b2f6f9d-572d-4b95-9eff-e0da7cc127b3"
+      },
+      {
+        "id": "hwl_10",
+        "from": "p7-H003",
+        "to": "p2-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_d02976d5-f5b0-4e92-867f-175aec252e4c"
+      },
+      {
+        "id": "hwl_11",
+        "from": "p7-H003",
+        "to": "p2-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_0c2c605e-f9c3-48a5-b34e-110e8cc3684f"
+      },
+      {
+        "id": "hwl_12",
+        "from": "p7-H003",
+        "to": "p2-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_2e54b364-fcfa-4ec0-9e1b-43c1b3df9594"
+      },
+      {
+        "id": "hwl_13",
+        "from": "p7-H004",
+        "to": "p3-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_4edc9f57-be2c-47bf-b3cd-3e86c92323fd"
+      },
+      {
+        "id": "hwl_14",
+        "from": "p7-H004",
+        "to": "p3-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_9dbaac05-cd49-4d6a-af5e-f6eef34180b1"
+      },
+      {
+        "id": "hwl_15",
+        "from": "p7-H004",
+        "to": "p3-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_58d95610-5676-4f2d-bc88-e62648456077"
+      },
+      {
+        "id": "hwl_16",
+        "from": "p7-H004",
+        "to": "p3-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_dd3cffa3-574f-420f-b939-61160a20f068"
+      },
+      {
+        "id": "hwl_17",
+        "from": "p7-H005",
+        "to": "p3-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_6ed4e3f2-c6f3-4cd1-9db1-822b119111d0"
+      },
+      {
+        "id": "hwl_18",
+        "from": "p7-H005",
+        "to": "p3-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_86225410-5f31-4083-85ec-bd01e6469d91"
+      },
+      {
+        "id": "hwl_19",
+        "from": "p7-H005",
+        "to": "p6-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_9d363b73-705a-40e0-bac4-f9b698ca0d21"
+      },
+      {
+        "id": "hwl_20",
+        "from": "p7-H006",
+        "to": "p5-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_d9752a67-8aaa-46ea-b8c1-982171d6d37b"
+      },
+      {
+        "id": "hwl_21",
+        "from": "p7-H006",
+        "to": "p5-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e2e5d446-f126-4ef4-9e02-0abb6368ba3f"
+      },
+      {
+        "id": "hwl_22",
+        "from": "p7-H006",
+        "to": "p5-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_58044ace-21b7-47bd-ad69-7b66f1299bd1"
+      },
+      {
+        "id": "hwl_23",
+        "from": "p7-H006",
+        "to": "p5-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_c19a2f08-a985-4e6c-94e4-fc9d0571341d"
+      },
+      {
+        "id": "hwl_24",
+        "from": "p7-H007",
+        "to": "p5-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e6b7cad6-a67e-4a6f-a8f2-8a6db90920e2"
+      },
+      {
+        "id": "hwl_25",
+        "from": "p7-H007",
+        "to": "p5-c1-b3",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_2401bf00-23ab-467a-8ecc-198b577b11d1"
+      },
+      {
+        "id": "hwl_26",
+        "from": "p7-H007",
+        "to": "p5-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_a31627b7-20cc-4e04-b82b-130b94606de3"
+      },
+      {
+        "id": "hwl_27",
+        "from": "p7-H007",
+        "to": "p5-c3-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_9f58504d-92d8-4edd-bb7a-d3370880173e"
+      },
+      {
+        "id": "hwl_28",
+        "from": "p7-H008",
+        "to": "p4-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_b6e922b2-1d9d-4db0-a6a6-4f76167fa3bd"
+      },
+      {
+        "id": "hwl_29",
+        "from": "p7-H008",
+        "to": "p4-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_a1f965ae-8378-439f-8210-81c1f41ef132"
+      },
+      {
+        "id": "hwl_30",
+        "from": "p7-H008",
+        "to": "p4-c2-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_cc8ab509-a94c-423e-b201-ea98bf46dbe9"
+      },
+      {
+        "id": "hwl_31",
+        "from": "p7-H009",
+        "to": "p4-c0-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7a8278be-0bb0-4f92-ad70-e743d23c1801"
+      },
+      {
+        "id": "hwl_32",
+        "from": "p7-H009",
+        "to": "p4-c0-b3",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e01b0bc6-735d-4dc9-a2d9-7674d9bc4e71"
+      },
+      {
+        "id": "hwl_33",
+        "from": "p7-H009",
+        "to": "p4-c1-b2",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_2ddbbea3-42a1-4055-a985-45088eb18c03"
+      },
+      {
+        "id": "hwl_34",
+        "from": "p7-H010",
+        "to": "p4-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e5021d7e-ac0c-4ec7-9867-0cb928d674db"
+      },
+      {
+        "id": "hwl_35",
+        "from": "p7-H010",
+        "to": "p4-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_74886c45-c224-483b-90a6-6fd31a6f06ca"
+      },
+      {
+        "id": "hwl_36",
+        "from": "p7-H011",
+        "to": "p6-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_f2958de1-3ca9-4953-a6f4-ffa43acd6bf3"
+      },
+      {
+        "id": "hwl_37",
+        "from": "p7-H011",
+        "to": "p6-c1-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_b17cf5cf-8cff-4405-84e1-95639ede5697"
+      },
+      {
+        "id": "hwl_38",
+        "from": "p7-H011",
+        "to": "p6-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_0ede1e36-6131-41e0-9620-8bfd3febaab9"
+      },
+      {
+        "id": "hwl_39",
+        "from": "p7-H011",
+        "to": "p6-c4-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_585712a0-19fd-45aa-bd21-d769b101e79a"
+      },
+      {
+        "id": "hwl_40",
+        "from": "p7-H012",
+        "to": "p3-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_1649deab-fa70-4637-80ef-153700fe8c16"
+      },
+      {
+        "id": "hwl_41",
+        "from": "p7-H012",
+        "to": "p4-c2-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_79a144ac-4f56-4151-8363-0fff484c3177"
+      },
+      {
+        "id": "hwl_42",
+        "from": "p7-H012",
+        "to": "p6-c3-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7e5d343d-b761-4c6d-86fd-6e6a707d8b87"
+      },
+      {
+        "id": "hwl_43",
+        "from": "p7-H013",
+        "to": "p1-c0-b0",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_a4644abd-7732-45d1-aad1-b9dca873b4f8"
+      },
+      {
+        "id": "hwl_44",
+        "from": "p7-H013",
+        "to": "p1-c0-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_78fc777a-3459-4a31-9025-afa29ab54a4f"
+      },
+      {
+        "id": "hwl_45",
+        "from": "p7-H013",
+        "to": "p1-c1-b1",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_21afa418-fbfd-4636-80b9-d8169006a5fd"
+      },
+      {
+        "id": "hwl_46",
+        "from": "p8-H001",
+        "to": "p7-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_c222b664-edf1-4a73-8fa8-afa274474010"
+      },
+      {
+        "id": "hwl_47",
+        "from": "p8-H001",
+        "to": "p7-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_4008f81f-5e15-491d-b0a0-e775b160435f"
+      },
+      {
+        "id": "hwl_48",
+        "from": "p8-H001",
+        "to": "p7-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_acd036d0-c07d-4c9c-a7f4-d7996ab47afe"
+      },
+      {
+        "id": "hwl_49",
+        "from": "p8-H001",
+        "to": "p7-H013",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_c143d719-16a1-4a6a-8795-5678e56568b7"
+      },
+      {
+        "id": "hwl_50",
+        "from": "p8-H002",
+        "to": "p7-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_9030e1e3-62c3-4d51-b0c0-97dc4fe2e2d7"
+      },
+      {
+        "id": "hwl_51",
+        "from": "p8-H002",
+        "to": "p7-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_6322c943-866a-4856-9186-7d25ead0ac91"
+      },
+      {
+        "id": "hwl_52",
+        "from": "p8-H002",
+        "to": "p7-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_8042810f-c400-4622-87f7-b18e94c17ee0"
+      },
+      {
+        "id": "hwl_53",
+        "from": "p8-H003",
+        "to": "p7-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7fc4efd1-1c0d-4276-a4a2-703e5552a448"
+      },
+      {
+        "id": "hwl_54",
+        "from": "p8-H003",
+        "to": "p7-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_d38cce91-6db1-4188-9c90-672d6c8fa40b"
+      },
+      {
+        "id": "hwl_55",
+        "from": "p8-H004",
+        "to": "p7-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_28498cf1-e4b9-4515-8ac8-c5ae05c3d985"
+      },
+      {
+        "id": "hwl_56",
+        "from": "p8-H005",
+        "to": "p7-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_6e268d53-057c-483f-8a82-45c9b595794b"
+      },
+      {
+        "id": "hwl_57",
+        "from": "p8-H005",
+        "to": "p7-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_0d4d6fb7-f59c-4df1-ab70-c59e6806262e"
+      },
+      {
+        "id": "hwl_58",
+        "from": "p8-H006",
+        "to": "p7-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_bea11a6f-7151-472a-82c5-71729667fe65"
+      },
+      {
+        "id": "hwl_59",
+        "from": "p8-H006",
+        "to": "p7-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_89e706fe-446b-46f4-b582-5e3b34107430"
+      },
+      {
+        "id": "hwl_60",
+        "from": "p8-H007",
+        "to": "p7-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_46cba587-1d8c-4af5-b042-220320bc8c60"
+      },
+      {
+        "id": "hwl_61",
+        "from": "p8-H007",
+        "to": "p7-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_1acbcb23-2edc-4eda-80ff-e2111744a624"
+      },
+      {
+        "id": "hwl_62",
+        "from": "p8-H008",
+        "to": "p7-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_5b1d5c4f-3aac-48ae-9a26-6590dcd2a3c2"
+      },
+      {
+        "id": "hwl_63",
+        "from": "p8-H008",
+        "to": "p7-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_ba11cc26-c8f4-4453-abab-bc66e20f1cd3"
+      },
+      {
+        "id": "hwl_64",
+        "from": "p8-H009",
+        "to": "p7-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_340558be-91eb-4096-8a28-ead5f9073c55"
+      },
+      {
+        "id": "hwl_65",
+        "from": "p8-H009",
+        "to": "p7-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_00d0baf1-41af-4b12-b3a5-6bade030d7f6"
+      },
+      {
+        "id": "hwl_66",
+        "from": "p8-H009",
+        "to": "p7-H013",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_b9c6b68a-8e17-4516-8105-e5ebaaa24fcc"
+      },
+      {
+        "id": "hwl_67",
+        "from": "p8-H010",
+        "to": "p7-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_31431591-edc0-4fae-92d1-9c6a474bff23"
+      },
+      {
+        "id": "hwl_68",
+        "from": "p8-H010",
+        "to": "p7-H006",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_26e9508f-e87b-4650-bb1e-0009c849bb6c"
+      },
+      {
+        "id": "hwl_69",
+        "from": "p9-H001",
+        "to": "p7-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_dcd7b975-e61c-4d7a-a6da-5facafbcda19"
+      },
+      {
+        "id": "hwl_70",
+        "from": "p9-H001",
+        "to": "p7-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_b7e33bdb-7216-41df-bc1f-e0234c163955"
+      },
+      {
+        "id": "hwl_71",
+        "from": "p9-H001",
+        "to": "p7-H013",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_1f415cc7-0f51-495d-ac3f-4208954deac1"
+      },
+      {
+        "id": "hwl_72",
+        "from": "p9-H002",
+        "to": "p7-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_f2250ee7-284f-452a-97a5-cd1e3eb31210"
+      },
+      {
+        "id": "hwl_73",
+        "from": "p9-H002",
+        "to": "p7-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e76f944c-0b6f-4bbd-a9b0-d73046a49b99"
+      },
+      {
+        "id": "hwl_74",
+        "from": "p9-H002",
+        "to": "p7-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_45db1125-18c1-44ab-b9d6-d566ff942857"
+      },
+      {
+        "id": "hwl_75",
+        "from": "p9-H002",
+        "to": "p7-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_cfb56069-ffe2-45d8-a338-ecafb4cb6ea0"
+      },
+      {
+        "id": "hwl_76",
+        "from": "p9-H003",
+        "to": "p7-H004",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_62ffadff-14f3-4878-bc33-2e7afcc7296c"
+      },
+      {
+        "id": "hwl_77",
+        "from": "p9-H003",
+        "to": "p7-H007",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_370f941a-82b6-4a49-8668-bed3b2342bcd"
+      },
+      {
+        "id": "hwl_78",
+        "from": "p9-H004",
+        "to": "p7-H005",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_8f3836b2-d329-4c70-88ea-fa5e86233c60"
+      },
+      {
+        "id": "hwl_79",
+        "from": "p9-H004",
+        "to": "p7-H011",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_ffae1664-77ff-44f1-8ddc-a0ccc94f5d6a"
+      },
+      {
+        "id": "hwl_80",
+        "from": "p9-H004",
+        "to": "p7-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_2dc961ea-445e-4821-a975-4a931bc8a795"
+      },
+      {
+        "id": "hwl_81",
+        "from": "p9-H005",
+        "to": "p7-H008",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_30b470af-6491-43d5-b150-70fb93a80429"
+      },
+      {
+        "id": "hwl_82",
+        "from": "p9-H005",
+        "to": "p7-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7472c159-4cf6-4326-bd1b-9cc1219e7172"
+      },
+      {
+        "id": "hwl_83",
+        "from": "p9-H006",
+        "to": "p7-H009",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7863ade0-04f2-4b86-acfa-6ec59307265b"
+      },
+      {
+        "id": "hwl_84",
+        "from": "p9-H006",
+        "to": "p7-H010",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_eb2e1e17-8a7c-4290-b103-a71dd0cf4081"
+      },
+      {
+        "id": "hwl_85",
+        "from": "p9-H007",
+        "to": "p7-H012",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_1eb9daae-4e47-41af-bec9-5413b71f02be"
+      },
+      {
+        "id": "hwl_86",
+        "from": "p9-H008",
+        "to": "p7-H013",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_19d19f7b-fd3b-4b7b-8f17-ee36f0e2cb2c"
+      },
+      {
+        "id": "hwl_87",
+        "from": "p9-H009",
+        "to": "p7-H001",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_7929e739-5e23-4f66-be0d-d6740b0da2e9"
+      },
+      {
+        "id": "hwl_88",
+        "from": "p9-H009",
+        "to": "p7-H002",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_d54cff10-18b4-4ede-b927-3896093bab30"
+      },
+      {
+        "id": "hwl_89",
+        "from": "p9-H009",
+        "to": "p7-H003",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "uid": "link_e9b9ebf1-d176-4101-957e-9674250e50e3"
+      }
+    ],
+    "howLinkNextId": 90,
+    "measures": [
+      {
+        "id": "M001",
+        "title": "Business investment in plant and machinery",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_0012ed28-3e59-46ab-801a-c9860cbf5e5b"
+      },
+      {
+        "id": "M002",
+        "title": "Labour productivity growth in manufacturing",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_fb49c336-3ed6-4549-ac73-dc2c73ef1fd3"
+      },
+      {
+        "id": "M003",
+        "title": "Share of exports from high-value manufacturing",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_32e6fca2-dfe8-432a-8efd-3c4998345c39"
+      },
+      {
+        "id": "M004",
+        "title": "Firms progressing beyond small-firm scale",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_4aaea224-4c9e-4efd-a30e-3793d8f1524e"
+      },
+      {
+        "id": "M005",
+        "title": "Completions in advanced manufacturing training",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_4a223350-06e6-437d-a1dc-fd12338c714c"
+      },
+      {
+        "id": "M006",
+        "title": "Median time from consent lodgement to decision",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "measure_d3143e4f-0787-46ff-9cef-cb16870a5820"
+      }
+    ],
+    "measureNextId": 7,
+    "evalQuestions": [
+      {
+        "id": "EQ001",
+        "questionText": "Which sector choices produced results, and which did not?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_0f19c811-a42d-4653-96ac-0c7ded8568fb"
+      },
+      {
+        "id": "EQ002",
+        "questionText": "Did adoption support reach smaller firms, or only larger ones?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_e9044dda-528c-4a9e-a316-28fb1b5387ae"
+      },
+      {
+        "id": "EQ003",
+        "questionText": "What stopped firms scaling despite available capital?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_5b7d85e1-2598-4997-a677-bbd0d131ffa8"
+      },
+      {
+        "id": "EQ004",
+        "questionText": "Does reshaped provision match real employer demand?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_dd6af543-76c3-4623-a37d-b8c6f590572c"
+      },
+      {
+        "id": "EQ005",
+        "questionText": "Which comparator lessons transferred, and which did not?",
+        "mainText": "",
+        "notes1": "",
+        "notes2": "",
+        "notes3": "",
+        "tagIds": [],
+        "uid": "eq_b5d2bdc1-f8b5-453a-be01-f97be216ffd9"
+      }
+    ],
+    "eqNextId": 6,
+    "tags": [],
+    "topRightText": "Proof of Concept – Not Endorsed",
+    "viewSettings": {
+      "thisThen": {
+        "showCounts": false,
+        "showTrafficLights": true,
+        "showPriorities": false,
+        "showHowCounts": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": true,
+        "showLateralHow": false,
+        "showTags": false,
+        "showLinkInfoOnHover": true,
+        "showMainTextCodeStyle": false,
+        "showLinkInfoCodeStyle": false,
+        "showFullMainText": false
+      },
+      "how": {
+        "showNumbering": false,
+        "showTrafficLights": false,
+        "showPriorities": false,
+        "showWhyCounts": false,
+        "showLateralHow": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": false,
+        "showTags": false,
+        "showMainTextCodeStyle": false,
+        "showFullMainText": false
+      },
+      "finalOutcomes": {
+        "showTrafficLights": false,
+        "showPriorities": false,
+        "showMeasures": false,
+        "showEvalQuestions": false,
+        "showMainText": false,
+        "showTags": false,
+        "showMainTextCodeStyle": false,
+        "showFullMainText": false
+      }
+    },
+    "boardUid": "board_687f5280-e659-4df5-afeb-1606eb370ab4",
+    "presentationView": false,
+    "sourcesInitialized": false
+  },
+  "builderValidation": {
+    "builderVersion": "V1.4.3",
+    "validationVersion": "V1.4.3",
+    "mode": "strict-generated",
+    "passed": true,
+    "validatedAt": "2026-08-21T21:09:06.789Z",
+    "checks": {
+      "noLevelHowPages": "passed",
+      "uniqueNumberedHowLevels": "passed",
+      "thisThenLinkAnnotations": "blank-as-required",
+      "howLinkAnnotations": "blank-as-required",
+      "documentationClones": "passed",
+      "measureEqAttachment": "passed",
+      "viewSettings": "passed",
+      "displayTextTrafficPriority": "passed",
+      "sourcesRegistry": "passed",
+      "documentationPagePlan": "passed",
+      "compactBoxLabels": "passed",
+      "competencyMappingReview": "passed",
+      "mappingBreadthReview": "passed",
+      "evidenceReviewWorkflow": "not-part-of-v1.4.3",
+      "thisThenCausalReview": "passed",
+      "selfReview": "passed",
+      "completionCounts": "passed",
+      "completionParagraphDeclaration": "passed"
+    },
+    "warnings": [],
+    "autoFixes": [
+      "Removed input builderValidation metadata after validating the V1.4.3 workflow transition. The builder creates a fresh validation stamp only after validation passes."
+    ],
+    "workflowStep": "step-2-how-mapping",
+    "structureDigest": "sha256:3a39296d50de56df677ef0d2c3172efd7a0bd9193bba3018cea045cf1a141b27",
+    "howLinkGenerationAudit": "passed",
+    "mappingDigest": "sha256:75c51a55ddba7660f2228f039728aaf66678d1b8eb57d900622162a3628731d7",
+    "competencyMappingDensity": 0.1615,
+    "competencyPermittedTargetCount": 13,
+    "competencyTargetMode": "level-1-only-default",
+    "competencyPermittedTargetRefs": [
+      "p7-H001",
+      "p7-H002",
+      "p7-H003",
+      "p7-H004",
+      "p7-H005",
+      "p7-H006",
+      "p7-H007",
+      "p7-H008",
+      "p7-H009",
+      "p7-H010",
+      "p7-H011",
+      "p7-H012",
+      "p7-H013"
+    ],
+    "denseCompetencySources": 0,
+    "denseCompetencyTargets": 0,
+    "uniformCompetencyDegreePattern": false,
+    "broadMappingSourcesReviewed": 0,
+    "broadMappingSourceRefs": [],
+    "step1CausalReviewHistory": {
+      "crossPageLinkIds": [
+        "ttl_91",
+        "ttl_92",
+        "ttl_93",
+        "ttl_94",
+        "ttl_95",
+        "ttl_96",
+        "ttl_97",
+        "ttl_98",
+        "ttl_99",
+        "ttl_100",
+        "ttl_101",
+        "ttl_102"
+      ],
+      "denseAdjacentPairKeys": [
+        "p1:c2->c3",
+        "p2:c3->c4",
+        "p4:c1->c2",
+        "p6:c3->c4"
+      ],
+      "semanticRiskLinkIds": [],
+      "questionableLinkIds": []
+    },
+    "step1QuestionableCausalLinks": 0,
+    "crossPageLinksReviewed": 12,
+    "denseAdjacentPatternsReviewed": 4,
+    "semanticRiskLinksReviewed": 0,
+    "selfReviewSummary": "The final How mapping was inspected against the actual serialized graph and pruned for theme-only, quota-driven and duplicated relationships before packaging.",
+    "selfReviewCorrectionCount": 0,
+    "selfReviewDeferredJudgementCount": 0,
+    "chatHandoffValidated": true,
+    "completionMetrics": {
+      "thisThenPageCount": 6,
+      "ordinaryBoxCount": 71,
+      "thisThenLinkCount": 102,
+      "crossPageLinkCount": 12,
+      "howPageCount": 3,
+      "howBoxCount": 33,
+      "howLinkCount": 89,
+      "measureCount": 6,
+      "evaluationQuestionCount": 5,
+      "documentationPageCount": 3,
+      "finalOutcomeCount": 4
+    },
+    "deterministicGraphMetrics": {
+      "thisThenBoxCount": 71,
+      "thisThenLinkCount": 102,
+      "howLinkCount": 89,
+      "crossPageLinkCount": 12,
+      "componentCount": 1,
+      "isolatedThisThenRefs": [],
+      "disconnectedFinalOutcomeRefs": [],
+      "maxFanIn": 5,
+      "maxFanOut": 3
+    }
+  }
+}
